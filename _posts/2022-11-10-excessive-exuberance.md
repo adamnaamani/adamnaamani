@@ -1,0 +1,19 @@
+---
+layout: post
+title: Excessive Exuberance
+date: '2022-11-10 13:30:00 -0800'
+slug: excessive-exuberance
+description: A company named Jupe is "revolutionizing" porta potties with what they
+  call The Portal. If it's reminiscent of Elon Musk's Cybertruck...
+original_id: 87
+---
+
+As covered in [last week's market update](https://us15.campaign-archive.com/?u=796efc23772e19ea98cce3065&id=2792fb5a1a), the sales slump continues as we head into the winter months, with a decline of 45% in Greater Vancouver. Sales are also flat in the Fraser Valley where only 901 properties exchanged hands—a 53% decline compared to the year before. Inventory in the Valley is down 2.8% from last month and up 64% from October 2021. The market is re-establishing its equilibrium in the wake of last year's intense activity in the face of interest rate pressures. Inventory is slow to come on stream, and a holding pattern is expected to continue through to year-end. As per a recent rentals.ca [rental report](https://rentals.ca/blog/rentals-ca-september-2022-rent-report), the average rent for all property types across Canada is up 16.8% from the recent market low in April 2021.
+
+Following in Zillow's footsteps, real estate giant Redfin [shuttered its iBuying](https://www.geekwire.com/2022/redfin-to-cut-13-of-workforce-and-shut-down-home-flipping-business-redfinnow/) (home flipping) business, cut 27% of its staff, and shed 90% of its value since the end of April as the slowdown grips the US housing market. We are seeing how these "certainty as a service" business models that rely on algorithms to estimate a home's value, buy it directly for cash and resell, are highly at risk during an economic downturn. Technology companies across the board are feeling the brunt of high rates, with Meta laying off [11,000 employees](https://finance.yahoo.com/news/meta-cut-11-000-jobs-143745484.html) and losing 70% of its value this year alone.
+
+While the metaverse might have been a bad bet for a social media company, it has proven to be a resilient model for eXp World Holdings ([NASDAQ:EXPI](https://www.globenewswire.com/news-release/2022/11/02/2546242/0/en/eXp-World-Holdings-Reports-Record-Third-Quarter-2022-Revenue-of-1-2-Billion.html)), which continued to grow revenue and market share despite an increasingly challenging market. Agents and brokers on the [eXp Realty platform](https://adamnaamani.com/the-virtual-world-of-exp-realty/) increased 30% to 84,911 as of September 30, 2022. Transaction volume increased by 8% to $50.4 billion. As the legendary business magnate Warren Buffett would say: "_Only when the tide goes out do you discover who has been swimming naked_."
+
+There are always opportunities to be found in a shrinking marketplace. The bust cycle isn't going to last forever, but it's also barely just begun. A result of excessive exuberance that propelled fantastical valuations over the last few years. Starting and growing businesses moving forward must be based on sustainable thinking. It will be a time to reassess, not only for those with entrepreneurial aspirations, but employees thinking about what companies to join, or consumers that don't want to become collateral damage.
+
+It makes one wonder what other businesses are able to withstand economic uncertainty. As necessary as when nature calls. A company named Jupe is "revolutionizing" porta potties with what they call [**The Portal**](https://portal.jupe.com). If it's reminiscent of Elon Musk's [Cybertruck](https://www.tesla.com/en_ca/cybertruck), it's because the team is comprised of former Tesla and SpaceX designers. The sci-fi inspired restroom features an exterior made of reflective mirrors, an all-white interior, 200-watt solar panels, an always-on fan to eliminate odours, a composting mechanism that turns human waste into Earth fertilizer, and of course, WiFi. It's already sold out until 2023.

@@ -1,0 +1,62 @@
+title: Adam Naamani
+email: adamnaamani@gmail.com
+description: >-
+  I specialize in real estate, technology, and finance—with a focus on proptech, artificial intelligence, and the resource sector. Connect with me on YouTube, LinkedIn, and Email, or book a private consultation.
+baseurl: ""
+url: "https://adamnaamani.com"
+lang: en
+
+author:
+  name: Adam Naamani
+  email: adamnaamani@gmail.com
+  url: https://adamnaamani.com
+  twitter: adamnaamani
+
+twitter:
+  username: adamnaamani
+  card: summary
+
+social:
+  name: Adam Naamani
+  links:
+    - https://x.com/adamknaamani
+    - https://www.linkedin.com/in/adamnaamani
+    - https://www.youtube.com/@adamnaamani
+    - https://github.com/adamnaamani
+
+header_pages:
+  - about.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+permalink: /:slug/
+
+date_format: "%b %-d, %Y"
+
+excerpt_separator: "<!--excerpt-end-->"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      image: /assets/images/og/default.jpg
+  - scope:
+      path: ""
+      type: pages
+    values:
+      image: /assets/images/og/default.jpg
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - node_modules/
+  - README.md
+  - scripts/
+  - .sass-cache/
+  - .jekyll-cache/
+  - .jekyll-metadata

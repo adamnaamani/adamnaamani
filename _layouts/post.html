@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<article>
+  <header>
+    <time datetime="{{ page.date | date_to_xmlschema }}">
+      {{ page.date | date: site.date_format }}
+    </time>
+    <h1>{{ page.title | escape }}</h1>
+  </header>
+
+  {%- if page.cover -%}
+    <img src="{{ page.cover | relative_url }}" alt="{{ page.title | escape }}" loading="lazy" decoding="async">
+  {%- endif -%}
+
+  {{ content }}
+
+  <nav aria-label="Post navigation">
+    {%- if page.previous -%}
+      <a href="{{ page.previous.url | relative_url }}" rel="prev">
+        <small>Previous</small>
+        <span>{{ page.previous.title | escape }}</span>
+      </a>
+    {%- endif -%}
+    {%- if page.next -%}
+      <a href="{{ page.next.url | relative_url }}" rel="next">
+        <small>Next</small>
+        <span>{{ page.next.title | escape }}</span>
+      </a>
+    {%- endif -%}
+  </nav>
+</article>
