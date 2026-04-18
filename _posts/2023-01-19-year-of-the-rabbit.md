@@ -6,6 +6,8 @@ slug: year-of-the-rabbit
 description: Lunar New Year celebrations fall on Sunday, January 22nd, 2023, starting
   the Year of the Rabbit. Rabbits are talented and affectionate and...
 original_id: 91
+image: "/assets/images/posts/year-of-the-rabbit/happy-chinese-new-year-2023-year-rabbit-zodiac-vancouver-real-estate.jpg"
+cover: "/assets/images/posts/year-of-the-rabbit/happy-chinese-new-year-2023-year-rabbit-zodiac-vancouver-real-estate.jpg"
 ---
 
 Despite the plethora of [new regulatory policies](https://adamnaamani.com/housing-market-2023/) focused on the demand side of the transaction, buyer activity has been picking up over the last couple of weeks. Homes that have been sitting on the market are suddenly going into multiple offers, largely a function of low inventory—though it could be more of a dead cat bounce. Given the lack of listings buyers have to shop from, it's too early to recognize whether the trend will continue, particularly with another rate hike announcement expected on [January 25th](https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/). Once potential sellers start seeing activity happen, they may be more motivated to get their homes on the market, only time will tell. Mid-way through January there were 334 sales in Greater Vancouver, with North Vancouver, West Vancouver, New Westminster and Port Moody being the slowest, and Coquitlam showing a higher pace of new condo listings so far for the month.

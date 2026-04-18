@@ -6,6 +6,8 @@ slug: managing-subscriptions-with-stripe-checkout
 description: Founded in 2010 by Patrick and John Collison, Stripe has democratized
   online payment processing for internet businesses around the world.
 original_id: 41
+image: "/assets/images/posts/managing-subscriptions-with-stripe-checkout/stripe-checkout-social.png"
+cover: "/assets/images/posts/managing-subscriptions-with-stripe-checkout/stripe-checkout-social.png"
 ---
 
 Software as a service ([SaaS](https://adamnaamani.com/saas-fintech/)) nowadays makes it easy to integrate e-commerce solutions into your application, and nothing comes close to the capabilities of [Stripe](https://stripe.com). Founded in 2010 by Patrick and John Collison, Stripe has democratized online payment processing for internet businesses around the world—handling financial infrastructure for some of the largest companies like Amazon, Lyft, DoorDash, and Shopify.

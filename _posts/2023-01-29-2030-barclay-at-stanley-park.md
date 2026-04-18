@@ -6,6 +6,8 @@ slug: 2030-barclay-at-stanley-park
 description: Envisioned by notable Canadian architect Richard Henriquez, 2030 Barclay
   offers a bold take on the art of vertical homes.
 original_id: 92
+image: "/assets/images/posts/2030-barclay-at-stanley-park/2030-barclay-vancouver-canada-architecture.jpg"
+cover: "/assets/images/posts/2030-barclay-at-stanley-park/2030-barclay-vancouver-canada-architecture.jpg"
 ---
 
 [_Updated 2024: The City of Vancouver has received an application to rezone the subject site from RM-5B (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a_ [_29-storey hotel and long-term stay building_](https://www.shapeyourcity.ca/2030-2038-barclay-st)].

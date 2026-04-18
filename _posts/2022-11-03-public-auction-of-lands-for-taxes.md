@@ -6,6 +6,8 @@ slug: public-auction-of-lands-for-taxes
 description: Every November the City of Vancouver holds a public auction called the
   "tax sale", where properties with three years of unpaid property taxes
 original_id: 86
+image: "/assets/images/posts/public-auction-of-lands-for-taxes/real-estate-tax-sale-public-auction-vancouver.jpg"
+cover: "/assets/images/posts/public-auction-of-lands-for-taxes/real-estate-tax-sale-public-auction-vancouver.jpg"
 ---
 
 Every November the [City of Vancouver](https://vancouver.ca) holds a public auction called the "tax sale", where properties with three years of unpaid property taxes are offered for sale. Apparently, only 1% of the properties are transferred to the successful bidders, as the owners have a one-year redemption period to rescue their property by paying the tax man.

@@ -6,6 +6,8 @@ slug: positioning-year
 description: The total number of homes currently listed for sale in Greater Vancouver
   is up 32% compared to January 2022, and 1.3% higher compared to...
 original_id: 94
+image: "/assets/images/posts/positioning-year/households-without-mortgage-city-vancouver.jpeg"
+cover: "/assets/images/posts/positioning-year/households-without-mortgage-city-vancouver.jpeg"
 ---
 
 For the first time, the [Canadian Housing Statistics Program (CHSP)](https://www150.statcan.gc.ca/n1/pub/46-28-0001/2023001/article/00001-eng.htm?mc_cid=65fc06352e&mc_eid=36f3492636) published data on investors and the residential properties they owned in Nova Scotia, New Brunswick, Ontario, Manitoba and British Columbia for 2020. The proportion of investors in British Columbia came in at 23.3%. Ontario topped the list with the highest rate of condominiums used as an investment at 41.9%. Another interesting study, by Andy Yan of the SFU City Program, found that nearly 50% of owner households are without a mortgage in the City of Vancouver.

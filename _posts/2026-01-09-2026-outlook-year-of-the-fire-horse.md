@@ -5,8 +5,8 @@ date: '2026-01-09 17:49:26 -0800'
 slug: 2026-outlook-year-of-the-fire-horse
 description: 'BC’s 2026 housing outlook: falling assessments, mortgage renewals, development
   strain, policy clashes, and how uncertainty may create new opportunities.'
-image: /assets/images/posts/2026-outlook/cover.jpg
-cover: /assets/images/posts/2026-outlook/cover.jpg
+image: "/assets/images/posts/2026-outlook-year-of-the-fire-horse/2026-housing-market-outlook-year-of-the-fire-horse.png"
+cover: "/assets/images/posts/2026-outlook-year-of-the-fire-horse/2026-housing-market-outlook-year-of-the-fire-horse.png"
 original_id: 697
 ---
 

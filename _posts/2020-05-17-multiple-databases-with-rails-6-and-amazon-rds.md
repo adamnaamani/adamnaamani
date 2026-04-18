@@ -6,6 +6,8 @@ slug: multiple-databases-with-rails-6-and-amazon-rds
 description: Rails 6 shipped with the ability to use multiple RDS databases in one
   application, making automatic connection switching as simple as...
 original_id: 32
+image: "/assets/images/posts/multiple-databases-with-rails-6-and-amazon-rds/rails-6-amazon-rds.png"
+cover: "/assets/images/posts/multiple-databases-with-rails-6-and-amazon-rds/rails-6-amazon-rds.png"
 ---
 
 Rails 6 shipped with the ability to use [multiple databases](https://guides.rubyonrails.org/active_record_multiple_databases.html) in one application, making automatic connection switching as simple as adding a connects\_to method in the respective class. To go a step further, we'll set up an [Amazon RDS](https://aws.amazon.com/rds/) instance, which benefits team members by providing consistent access to the same database—which could contain a copy of production data that will be useful to test against—avoiding development environment configuration, and improving horizontal scaling.

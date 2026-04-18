@@ -6,6 +6,8 @@ slug: nfts-for-real-estate
 description: By nature, an NFTs and blockchain technology would bring greater efficiency
   and transparency to real estate transactions.
 original_id: 57
+image: "/assets/images/posts/nfts-for-real-estate/nft-real-estate-transparency.gif"
+cover: "/assets/images/posts/nfts-for-real-estate/nft-real-estate-transparency.gif"
 ---
 
 > "_We’ve discussed how you can make a fungible token using_ [_ERC20_](https://docs.openzeppelin.com/contracts/3.x/erc20)_, but what if not all tokens are alike? This comes up in situations like_ _ **real estate** _ _or_ _ **collectibles** __, where some items are valued more than others, due to their usefulness, rarity, etc. ERC721 is a standard for representing ownership of_ [_non-fungible tokens_](https://docs.openzeppelin.com/contracts/3.x/tokens#different-kinds-of-tokens)_, that is, where each token is unique._"

@@ -6,6 +6,8 @@ slug: telosa-city-of-the-future
 description: The utopian city will house 5 million people, supported by a reformed
   version of capitalism. The economics of how it all works is called...
 original_id: 53
+image: "/assets/images/posts/telosa-city-of-the-future/telosa-city-of-future.jpg"
+cover: "/assets/images/posts/telosa-city-of-the-future/telosa-city-of-future.jpg"
 ---
 
 > "_The mission of Telosa is to create a more equitable and sustainable future. That's our North Star._" _– Marc Lore_

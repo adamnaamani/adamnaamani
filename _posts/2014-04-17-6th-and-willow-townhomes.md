@@ -7,6 +7,8 @@ description: A true architectural masterpiece designed by Michael Green Architec
   this breathtaking residence sits on the corner of 6th and Willow in the Fairview
   area of Vancouver West.
 original_id: 5
+image: "/assets/images/posts/6th-and-willow-townhomes/6th-and-willow-townhomes.jpg"
+cover: "/assets/images/posts/6th-and-willow-townhomes/6th-and-willow-townhomes.jpg"
 ---
 
 > "_The essence is the essential and the essential is the essence._" _– Michael Green_

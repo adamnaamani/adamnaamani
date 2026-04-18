@@ -6,6 +6,8 @@ slug: buying-a-foreclosure
 description: When a homeowner is unable to continue paying their mortgage, their home
   is claimed by their lending institution through a foreclosure...
 original_id: 81
+image: "/assets/images/posts/buying-a-foreclosure/buying-foreclosure-bank-owned-bc.jpg"
+cover: "/assets/images/posts/buying-a-foreclosure/buying-foreclosure-bank-owned-bc.jpg"
 ---
 
 When a homeowner is unable to continue paying their mortgage, their home is claimed by their lending institution through a foreclosure process. This presents opportunities for buyers looking for discounted properties, though it comes with certain caveats. The bank will hire a law firm to deal with the foreclosure, and the lawyer will hire a REALTOR® on behalf of the bank. The lawyer then works with the REALTOR® to decide an appropriate list price, and like any listing, the foreclosure is posted to the MLS®.

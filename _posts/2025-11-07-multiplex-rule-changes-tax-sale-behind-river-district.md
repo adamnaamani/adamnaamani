@@ -6,6 +6,8 @@ slug: multiplex-rule-changes-tax-sale-behind-river-district
 description: Greater Vancouver market steadies as rates drop, Burnaby scales back
   multiplex rules, Vancouver’s tax sale schedule, and challenges facing River District.
 original_id: 663
+image: "/assets/images/posts/multiplex-rule-changes-tax-sale-behind-river-district/greater-vancouver-market-update-nov-2025.jpeg"
+cover: "/assets/images/posts/multiplex-rule-changes-tax-sale-behind-river-district/greater-vancouver-market-update-nov-2025.jpeg"
 ---
 
 Home sales in Greater Vancouver for October were down 14% compared to last year but, more notably, increased 20% month over month from a seasonally quiet September. This comes on the heels of the Bank of Canada’s fourth and likely final rate cut of the year, reducing banks’ prime rates to 4.45%. Momentum, however, appears to be shifting, as showings have picked up significantly and quality inventory is being absorbed — with some properties even seeing multiple and back-up offers.

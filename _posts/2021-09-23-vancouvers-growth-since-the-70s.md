@@ -6,6 +6,8 @@ slug: vancouvers-growth-since-the-70s
 description: One of the more notable financing tools and incentives to green existing
   buildings, is the development of the Home Energy Loan Program...
 original_id: 54
+image: "/assets/images/posts/vancouvers-growth-since-the-70s/vancouver-aerial-70s.jpg"
+cover: "/assets/images/posts/vancouvers-growth-since-the-70s/vancouver-aerial-70s.jpg"
 ---
 
 > "_Vancouver has proven that a city can grow and prosper and still become a green capital — a global leader in addressing climate change_." _– City of Vancouver_

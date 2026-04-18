@@ -6,6 +6,8 @@ slug: outsourcing-design
 description: Good design is hard to come by––it can be a costly process to find the
   right candidate. Websites like Dribbble have virtualized...
 original_id: 36
+image: "/assets/images/posts/outsourcing-design/99designs-hundred-block.png"
+cover: "/assets/images/posts/outsourcing-design/99designs-hundred-block.png"
 ---
 
 Good designers are hard to come by—it can be a costly process to find the right candidate, and you may end up paying for work you aren't satisfied with. Now that we basically all live on the internet, meeting in person with design teams to hammer out a design brief no longer seems like an appropriate option. Websites like [Dribbble](https://dribbble.com) have virtualized the means of prospecting and working with designers, creating an open ecosystem to connect with the world's top talent.

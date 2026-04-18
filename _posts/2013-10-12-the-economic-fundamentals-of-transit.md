@@ -6,6 +6,8 @@ slug: the-economic-fundamentals-of-transit
 description: The seismic demographic shift is fuelling the explosive demand for transit,
   and is shaping the next phase of economic development.
 original_id: 4
+image: "/assets/images/posts/the-economic-fundamentals-of-transit/economic-fundamentals-of-transit.jpg"
+cover: "/assets/images/posts/the-economic-fundamentals-of-transit/economic-fundamentals-of-transit.jpg"
 ---
 
 [Urban and Real Estate Economics](https://www.sauder.ubc.ca/sites/default/files/2019-03/BUSI300%20Learning%20Objectives.pdf) at The University of British Columbia is one of the most interesting courses offered in their Real Estate program. Not because students wake up everyday excited to deconstruct the elasticity of supply and demand, but it's a course that actually requires you to play video games. The game, Sim City. The task, of course inherently educational, to virtually recreate a city relative to what was learned during the course, documenting the resulting effects. I do not envy city planners in the least bit. The class, however, gives students a greater appreciation for how economic infrastructure like transit and land use is shaped according to our core necessities.

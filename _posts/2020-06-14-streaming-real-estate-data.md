@@ -6,6 +6,8 @@ slug: streaming-real-estate-data
 description: Big data in real estate is a prime use case for real-time stream processing–a
   programming paradigm that allows us to instantaneously...
 original_id: 34
+image: "/assets/images/posts/streaming-real-estate-data/streaming-real-estate-data-lake-aws.png"
+cover: "/assets/images/posts/streaming-real-estate-data/streaming-real-estate-data-lake-aws.png"
 ---
 
 Big data in real estate is a prime use case for real-time stream processing—a programming paradigm that allows us to instantaneously respond to data as it arrives. It is the antithesis to batch processing, whereby all data is loaded into memory before it is delivered and processed. The real estate profession is truly a matter of time is money—if an appraisal is a day late, or there is a lack of efficiency in the transaction process, it could lead to a deal collapsing, putting the livelihood of all parties involved at stake.

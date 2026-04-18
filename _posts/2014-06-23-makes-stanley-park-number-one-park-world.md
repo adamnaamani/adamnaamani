@@ -7,6 +7,8 @@ description: Stanley Park peninsula's unique geography, almost completely surrou
   by waters of the Pacific Ocean, provides the perfect landscape for every natural
   attraction imaginable.
 original_id: 13
+image: "/assets/images/posts/makes-stanley-park-number-one-park-world/stanley-park-vancouver.jpg"
+cover: "/assets/images/posts/makes-stanley-park-number-one-park-world/stanley-park-vancouver.jpg"
 ---
 
 **Vancouver's** 400 hectare **urban oasis**, Stanley Park, was recently voted the number one park in the world according to [Trip Advisor](http://www.tripadvisor.ca/TravelersChoice-Attractions-cParks-g1), a travel website that receives 50 million+ monthly unique visitors, and millions of user reviews; 6,300+ of which were positively attributed to Vancouver's most revered natural habitat by visitors from around the world.

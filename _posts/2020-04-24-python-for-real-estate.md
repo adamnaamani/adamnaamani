@@ -6,6 +6,8 @@ slug: python-for-real-estate
 description: Learning Python is important to being a well-rounded engineer, particularly
   when it comes to the data-intensive industry of Real Estate.
 original_id: 28
+image: "/assets/images/posts/python-for-real-estate/python-real-estate.jpg"
+cover: "/assets/images/posts/python-for-real-estate/python-real-estate.jpg"
 ---
 
 > "_Maintainable code is more important than clever code_." _– Guido van Rossum, creator of Python_

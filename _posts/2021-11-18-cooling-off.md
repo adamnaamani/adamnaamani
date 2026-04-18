@@ -6,6 +6,8 @@ slug: cooling-off
 description: A cooling off period gives buyers time to undertake due diligence when
   making a property purchase and provides the right to withdraw from...
 original_id: 59
+image: "/assets/images/posts/cooling-off/bcfsa-cooling-off-real-estate.jpg"
+cover: "/assets/images/posts/cooling-off/bcfsa-cooling-off-real-estate.jpg"
 ---
 
 > "_The greater the difficulty, the more glory in surmounting it. Skillful pilots gain their reputation from storms and tempests._" _– Epictetus_

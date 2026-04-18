@@ -6,6 +6,8 @@ slug: affordable-housing-choices
 description: According to the Affordable Housing Choices Interim Rezoning Policy,
   projects must demonstrate an enhanced level of affordability beyond...
 original_id: 78
+image: "/assets/images/posts/affordable-housing-choices/vancouver-affordable-housing-rezoning-policy.png"
+cover: "/assets/images/posts/affordable-housing-choices/vancouver-affordable-housing-rezoning-policy.png"
 ---
 
 In an effort to increase the supply of affordable housing, the City of Vancouver (CoV) approved the [Affordable Housing Choices Interim Rezoning Policy](https://vancouver.ca/files/cov/Affordable-housing-choices-interim-rezoning-policy.pdf?_ga=2.208866327.426515912.1656522813-941468434.1656522813) to allow for consideration of rezoning proposals evaluated on the following criteria: Affordability, Location, and Form of Development. These changes are intended to be an interim measure to better meet the new Housing Vancouver targets for purpose-built rental housing—20,000 units within 10 years (2018-2027). For a full list of rezoning applications that are approved, in review, and in public consultation, you can visit the [CoV Shape Your City website](https://shapeyourcity.ca/rezoning).

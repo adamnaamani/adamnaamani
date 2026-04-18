@@ -6,6 +6,8 @@ slug: vanglo-house
 description: The Vanglo House is the first RS zoned property we've seen in the Mount
   Pleasant area that possesses such unique and unconventional design.
 original_id: 12
+image: "/assets/images/posts/vanglo-house/vanglo-house.jpg"
+cover: "/assets/images/posts/vanglo-house/vanglo-house.jpg"
 ---
 
 > "Designed to strike a fine balance between simple elegance and engaging playfulness."

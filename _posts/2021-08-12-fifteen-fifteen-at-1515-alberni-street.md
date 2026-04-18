@@ -6,6 +6,8 @@ slug: fifteen-fifteen-at-1515-alberni-street
 description: Designed by globally renowned architect, Ole Scheeren, Fifteen Fifteen
   is characterized by glass-enclosed cantilevers reaching out towards
 original_id: 51
+image: "/assets/images/posts/fifteen-fifteen-at-1515-alberni-street/1500-west-georgia-1.jpg"
+cover: "/assets/images/posts/fifteen-fifteen-at-1515-alberni-street/1500-west-georgia-1.jpg"
 ---
 
 > "_Born from an idea of three-dimensional living, Fifteen Fifteen introduces horizontality to an urban tower._" _– Bosa Properties_

@@ -6,6 +6,8 @@ slug: shanghai-sprawl
 description: I'm still in awe at how many people inhabit the city of Shanghai, somewhere
   north of 24 million, one of the most populous in the world.
 original_id: 19
+image: "/assets/images/posts/shanghai-sprawl/shanghai-sprawl.jpg"
+cover: "/assets/images/posts/shanghai-sprawl/shanghai-sprawl.jpg"
 ---
 
 I was going through some old photos, and found this one taken from atop the [Oriental Pearl Tower](https://en.wikipedia.org/wiki/Oriental_Pearl_Tower) when I first visited Shanghai circa 2013. I'm still in awe at how many people inhabit the city, somewhere north of 24 million, one of the most populous in the world. The picture shows just how claustrophobic it can feel when you're surrounded by high-rises as far as the eye can see, not to mention the smog from pollution that envelops you in toxic waste. As a global financial centre and transport hub, Shanghai has the world's busiest container port, which is pretty evident by looking at how congested [The Bund](https://en.wikipedia.org/wiki/The_Bund) is.

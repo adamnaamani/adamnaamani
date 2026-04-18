@@ -6,6 +6,8 @@ slug: the-virtual-world-of-exp-realty
 description: eXp Realty is the fastest-growing, fully virtual residential real estate
   brokerage in the world. Ranked one of the best places to work...
 original_id: 47
+image: "/assets/images/posts/the-virtual-world-of-exp-realty/exp-realty-canada.png"
+cover: "/assets/images/posts/the-virtual-world-of-exp-realty/exp-realty-canada.png"
 ---
 
 [eXp Realty](https://exprealty.ca/), **The Real Estate Cloud Brokerage**, is the fastest-growing global residential real estate company, and the largest by geography in North America. The international LLC was founded in 2009 by Glenn Sanford and is a subsidiary of eXp World Holdings, Inc. ([NASDAQ: EXPI](https://www.google.com/finance/quote/EXPI:NASDAQ)) which currently has a market cap of well over $7.4 billion—indicated by the hockey stick growth of its stock over the last year.

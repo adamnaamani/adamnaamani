@@ -6,6 +6,8 @@ slug: year-of-the-rat
 description: In Chinese culture, rats were seen as a sign of wealth and surplus. They
   are clever, quick thinkers; successful, but content with quiet life.
 original_id: 25
+image: "/assets/images/posts/year-of-the-rat/year-of-the-rat-2020.jpg"
+cover: "/assets/images/posts/year-of-the-rat/year-of-the-rat-2020.jpg"
 ---
 
 > Very little is needed to make a happy life; it is all within yourself, in your way of thinking.

@@ -6,6 +6,8 @@ slug: ghost-kitchens
 description: Ghost kitchens enable testing the market at lower risk, supporting the
   myriad of local food startups on a mission to change the world.
 original_id: 75
+image: "/assets/images/posts/ghost-kitchens/coho-collective-cloud-kitchens.webp"
+cover: "/assets/images/posts/ghost-kitchens/coho-collective-cloud-kitchens.webp"
 ---
 
 Ever thought of opening your own restaurant? A new Canadian company named [Coho Commissary](https://www.cohocommissary.com/) is pioneering ghost kitchens—professional food preparation and cooking facilities set up for the evergrowing delivery-only meal industry. It's one of the more creative uses I've seen for commercial real estate, with brilliant execution on what looks to be the future of food delivery.

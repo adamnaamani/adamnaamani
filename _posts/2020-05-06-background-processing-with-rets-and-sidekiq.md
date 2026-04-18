@@ -6,6 +6,8 @@ slug: background-processing-with-rets-and-sidekiq
 description: I've been predominantly working with two libraries that tie perfectly
   into Rails' ActiveJob — Resque and Sidekiq. My preference leans towards Sidekiq
 original_id: 29
+image: "/assets/images/posts/background-processing-with-rets-and-sidekiq/sidekiq-rets.png"
+cover: "/assets/images/posts/background-processing-with-rets-and-sidekiq/sidekiq-rets.png"
 ---
 
 Managing large quantities of real estate data is computationally intensive, and well-suited for background processing. The task involves importing thousands of MLS® listings into a [Redis](https://redis.io) in-memory data structure store, using an open government API for geocoding, and association with other models, therefore a lot can go wrong, and it's important to isolate these functions according to the [single responsibility principle](https://en.wikipedia.org/wiki/Single-responsibility_principle) and [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns).

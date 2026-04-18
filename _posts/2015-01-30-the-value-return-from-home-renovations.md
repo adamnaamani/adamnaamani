@@ -7,6 +7,8 @@ description: '"Value", in the context of real estate, can be a nebulous term. Ho
   often form an insulated opinion on what features or renovations contribute to the
   overall worth of a home.'
 original_id: 14
+image: "/assets/images/posts/the-value-return-from-home-renovations/value-return-home-renos.jpg"
+cover: "/assets/images/posts/the-value-return-from-home-renovations/value-return-home-renos.jpg"
 ---
 
 "Value", in the context of real estate, is a nebulous term. Homeowners are inherently biased in terms of what features or renovations contribute to increasing the value of their home. A better-suited definition is "Market Value"—based on objective observation of the collective actions of the market.

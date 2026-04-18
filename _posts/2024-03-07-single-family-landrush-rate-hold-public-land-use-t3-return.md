@@ -6,6 +6,8 @@ slug: single-family-landrush-rate-hold-public-land-use-t3-return
 description: February 2024 Market Update, Single-Family Landrush, Boc Rate Hold, and
   the T3 Return requirement you might not know about.
 original_id: 142
+image: "/assets/images/posts/single-family-landrush-rate-hold-public-land-use-t3-return/single-family-homes-canada-double-value.jpg"
+cover: "/assets/images/posts/single-family-landrush-rate-hold-public-land-use-t3-return/single-family-homes-canada-double-value.jpg"
 ---
 
 Housing inventory is on the rise in Greater Vancouver with new listings up 31% compared to last February. Sales in the region totalled 2,070, representing a 13.5% increase—45% over January 2024 albeit 23.3% below the 10-year seasonal average. Across all property types, the sales-to-active listings ratio is 22.4%; 16% for detached homes, 27.9% for attached, and 25.9% for apartments. A decline in fixed mortgage rates and expectations for future Bank of Canada rate cuts are driving sentiment in the market and bringing pent-up demand off the sidelines.

@@ -6,6 +6,8 @@ slug: chatgpt-for-real-estate
 description: The new ChatGPT API calls gpt-3.5-turbo, the same model used in their
   ChatGPT product. It’s their best model for many non-chat use cases.
 original_id: 95
+image: "/assets/images/posts/chatgpt-for-real-estate/chat-gpt-open-ai-real-estate.webp"
+cover: "/assets/images/posts/chatgpt-for-real-estate/chat-gpt-open-ai-real-estate.webp"
 ---
 
 The long-anticipated ChatGPT and Whisper APIs were released on March 1, 2023, giving developers access to cutting-edge language and speech-to-text capabilities:

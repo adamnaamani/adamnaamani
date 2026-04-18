@@ -6,6 +6,8 @@ slug: investor-boom
 description: A revealing report suggests that investors now make up 25% of Ontario
   homebuyers. The number of mortgages taken out by investors doubled...
 original_id: 60
+image: "/assets/images/posts/investor-boom/investors-ontario-real-estate-market.png"
+cover: "/assets/images/posts/investor-boom/investors-ontario-real-estate-market.png"
 ---
 
 A revealing report by [Teranet](https://www.teranet.ca/) suggests that [investors now make up 25%](https://financialservices.teranet.ca/acton/attachment/2216/f-637ac64b-a4b6-4ec4-a1c9-474121b4d723/1/-/-/-/-/Teranet%20Market%20Insight%20Report%20Q4%202021.pdf) of Ontario homebuyers. The number of mortgages taken out by investors doubled in the last year, as per the Central Bank. The "extrapolative" demand is being attributed to the expectation that prices will keep rising, a.k.a. Fear of Missing Out (FOMO).

@@ -1,12 +1,14 @@
 ---
-
-## layout: post
+layout: post
 title: 'How Your Home Is Valued: Physical'
 date: '2013-09-01 21:42:52 -0700'
 slug: how-your-home-is-valued-physical-characteristics
 description: Everything from the orientation of a property to the type of windows
   or floor level is going to affect the relative value of a home.
 original_id: 2
+image: "/assets/images/posts/how-your-home-is-valued-physical-characteristics/home-value-appraisal.jpg"
+cover: "/assets/images/posts/how-your-home-is-valued-physical-characteristics/home-value-appraisal.jpg"
+---
 
 In [Part 1](https://adamnaamani.com/how-your-home-is-valued-location/), we discussed how location affects the **market value** of a home. In Part 2, we take a look at how **physical characteristics** are factored into determining property value. Everything from the orientation of a property to the type of windows or floor level is going to affect the relative value of a home. Just because you have a countertop made of gold, however, the addition might not necessarily hold its value and appeal to buyers in a specific neighborhood, based on the principle of _ **conformity** _.
 

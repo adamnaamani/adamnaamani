@@ -6,6 +6,8 @@ slug: housing-market-2023
 description: Welcome to 2023, the Year of the Rabbit symbolizing peace and prosperity.
   2022 was all about the three ‘i’s—inflation, interest rates, and...
 original_id: 90
+image: "/assets/images/posts/housing-market-2023/freddie-mac-young-adult-co-borrower.png"
+cover: "/assets/images/posts/housing-market-2023/freddie-mac-young-adult-co-borrower.png"
 ---
 
 2023 is the [Year of the Rabbit](https://chinesenewyear.net/zodiac/rabbit/) symbolizing peace and prosperity, while 2022 was all about the three ‘i’s—inflation, interest rates, and inventory constraints. Never in history has there been a rate move like we saw on a percentage basis, with the prime rate capitulating 163% in just ten months. The Bank of Canada hiked its key policy rate seven times consecutively to 4.25%, though it seems the market hasn’t adjusted to these higher rates yet. The consensus among many economists suggests the tightening cycle may be nearing the end, and Spring 2023 will indicate whether buyers and sellers have adjusted to the high borrowing costs and participate more actively.

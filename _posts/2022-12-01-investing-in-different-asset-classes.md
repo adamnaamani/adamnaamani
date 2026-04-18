@@ -6,6 +6,8 @@ slug: investing-in-different-asset-classes
 description: Invest in one of the fastest-growing commercial real estate sectors—an
   asset class consistently in high demand, with low turnover.
 original_id: 89
+image: "/assets/images/posts/investing-in-different-asset-classes/nationwide-car-wash-self-storage-investment.png"
+cover: "/assets/images/posts/investing-in-different-asset-classes/nationwide-car-wash-self-storage-investment.png"
 ---
 
 With the passing of [Bill 44](https://www.leg.bc.ca/content/data%20-%20ldp/Pages/42nd3rd/1st_read/PDF/gov44-1.pdf), there are officially no more rental restrictions for any strata building in British Columbia. Short-term rental bylaws that prohibit services like Airbnb are however still in effect. Only age restriction bylaws of 55+ are enforceable with a requirement to accommodate live-in caregivers. There is a lot of talk within the industry on how quickly such legislation came into effect without much consultation as to the unintended consequences. It could potentially open the gates to accessibility for investors and speculators across the province, ultimately worsening affordability.

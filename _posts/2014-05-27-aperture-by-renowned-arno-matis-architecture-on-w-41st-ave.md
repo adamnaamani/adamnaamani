@@ -7,6 +7,8 @@ description: Aperture, much like the 6th and Willow townhouse complex, possesses
   architectural presence that welcomely deviates from the standard podium, blue glass
   facade design synonymous with Vancouver's downtown core.
 original_id: 9
+image: "/assets/images/posts/aperture-by-renowned-arno-matis-architecture-on-w-41st-ave/aperture-by-arno-matis.png"
+cover: "/assets/images/posts/aperture-by-renowned-arno-matis-architecture-on-w-41st-ave/aperture-by-arno-matis.png"
 ---
 
 > "It will be like living in an idea." _- Urban Design Panel_

@@ -6,6 +6,8 @@ slug: condo-listings-soar-vacancy-tax-increase-ai-hallucinations
 description: Condo Listings Soar, Vacancy Tax Increase, AI Hallucinations, xAI releases
   Grok 3.
 original_id: 397
+image: "/assets/images/posts/condo-listings-soar-vacancy-tax-increase-ai-hallucinations/condo-listings-soar.jpeg"
+cover: "/assets/images/posts/condo-listings-soar-vacancy-tax-increase-ai-hallucinations/condo-listings-soar.jpeg"
 ---
 
 February ushered in balanced conditions for Metro Vancouver’s real estate market, with 5,057 new listings reflecting a 10.9% year-over-year increase, following January’s notable 46% surge. Condo listings are rising sharply as investors may be offloading properties amid challenging cash-flow conditions. Active listings grew to 12,744, a 32.3% jump from last year, but accumulation has slowed compared to January’s pace. Sales totalled 1,827, down 11.7% from February 2024. In the Fraser Valley, active listings hit 6,978, with condos likely contributing to this near-decade high, signalling the end of recent speculative fervor. Sales in the region dropped 26% year-over-year to 920, aligning with a broader market rebalance.

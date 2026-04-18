@@ -6,6 +6,8 @@ slug: seasonal-slowdown-gst-holiday-dropping-rents
 description: Seasonality played a role in November’s 31% drop in new listings compared
   to October, with 3,784 homes hitting the market, representing a 10% y-o-y increase.
 original_id: 232
+image: "/assets/images/posts/seasonal-slowdown-gst-holiday-dropping-rents/2024-vancouver-real-estate-market-update.jpeg"
+cover: "/assets/images/posts/seasonal-slowdown-gst-holiday-dropping-rents/2024-vancouver-real-estate-market-update.jpeg"
 ---
 
 With 2024 coming to a close, all eyes are on the Bank of Canada as it weighs another potential rate cut on December 11. Further reductions could provide much-needed relief to Canadians grappling with stagnant economic growth, soft employment numbers, and lagging GDP. While government incentives like a two-month [GST holiday](https://www.canada.ca/en/services/taxes/child-and-family-benefits/gst-hst-holiday-tax-break.html) (starting December 14) and $250 cheques for middle-income earners offer some respite, long-term stability hinges on lowering borrowing costs—a more impactful gift than discounted jigsaw puzzles.

@@ -6,6 +6,8 @@ slug: accessory-dwelling-units
 description: One of the solutions for homeowners that require additional income to
   counteract rising housing costs is through ADU...
 original_id: 84
+image: "/assets/images/posts/accessory-dwelling-units/adu-process.jpg"
+cover: "/assets/images/posts/accessory-dwelling-units/adu-process.jpg"
 ---
 
 Statistics Canada released Canada's [population estimates](https://www150.statcan.gc.ca/n1/daily-quotidien/220928/dq220928b-eng.htm) for the second quarter of 2022, reporting an increase of about 284,982 people for a total of 38,929,902. "_This was the highest growth rate of any quarter since the addition of Newfoundland to the Confederation in 1949_". International migration accounted for 94.5% of this growth—due to high numbers of asylum claimants and permit holders (work, study and other).

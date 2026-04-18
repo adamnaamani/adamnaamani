@@ -6,6 +6,8 @@ slug: how-to-route-emails-with-action-mailbox
 description: Action Mailbox is a feature released in Rails 6 that allows you to receive
   emails in your application, using SendGrid's Inbound Parse...
 original_id: 46
+image: "/assets/images/posts/how-to-route-emails-with-action-mailbox/action-mailbox-dumpster-fire-2020.jpg"
+cover: "/assets/images/posts/how-to-route-emails-with-action-mailbox/action-mailbox-dumpster-fire-2020.jpg"
 ---
 
 [Action Mailbox](https://guides.rubyonrails.org/action_mailbox_basics.html) is a feature introduced in Rails 6 that enables you to route incoming emails to controller-like mailboxes. It opens up interesting use cases for how you can deal with inbound email in your own application. There is perhaps no better showcase of more creative use than the super necessary Dumpster Fire by Basecamp—a clever, and cathartic display (with top-notch tunes) that invites you to encapsulate your opinion of 2020 in email form, so that it may be incinerated via dumpster fire. We'll do a rundown of how to integrate with [SendGrid](https://sendgrid.com/)'s Parse service, and relay emails to ingress in a Rails application in production.

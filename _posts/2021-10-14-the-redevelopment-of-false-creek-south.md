@@ -6,6 +6,8 @@ slug: the-redevelopment-of-false-creek-south
 description: False Creek South is a unique waterfront community, and the City has
   an important responsibility in addressing Vancouver’s housing crisis...
 original_id: 58
+image: "/assets/images/posts/the-redevelopment-of-false-creek-south/vancouver-false-creek-south-redevelopment.png"
+cover: "/assets/images/posts/the-redevelopment-of-false-creek-south/vancouver-false-creek-south-redevelopment.png"
 ---
 
 > "_With leases on City land expiring in the next 15-25 years, Council has the opportunity to consider a 21st century renewal of the original vision for False Creek South established in the 1970s … including 80 acres of land under the stewardship of the City, prime waterfront land that could be leveraged via renewal over next several decades to substantially advance Council’s policy objectives, while at the same time respecting the existing community and tenants on City land._" _– City of Vancouver_

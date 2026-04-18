@@ -6,6 +6,8 @@ slug: jwt-authentication-with-warden-and-devise
 description: Implementing authentication in an app is no small feat, but to be able
   to compete in today's API economy it's imperative that appropriate...
 original_id: 33
+image: "/assets/images/posts/jwt-authentication-with-warden-and-devise/Oauth-logo.png"
+cover: "/assets/images/posts/jwt-authentication-with-warden-and-devise/Oauth-logo.png"
 ---
 
 {% raw %}

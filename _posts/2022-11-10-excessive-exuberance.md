@@ -6,6 +6,8 @@ slug: excessive-exuberance
 description: A company named Jupe is "revolutionizing" porta potties with what they
   call The Portal. If it's reminiscent of Elon Musk's Cybertruck...
 original_id: 87
+image: "/assets/images/posts/excessive-exuberance/the-portal-excessive-exuberance.jpg"
+cover: "/assets/images/posts/excessive-exuberance/the-portal-excessive-exuberance.jpg"
 ---
 
 As covered in [last week's market update](https://us15.campaign-archive.com/?u=796efc23772e19ea98cce3065&id=2792fb5a1a), the sales slump continues as we head into the winter months, with a decline of 45% in Greater Vancouver. Sales are also flat in the Fraser Valley where only 901 properties exchanged hands—a 53% decline compared to the year before. Inventory in the Valley is down 2.8% from last month and up 64% from October 2021. The market is re-establishing its equilibrium in the wake of last year's intense activity in the face of interest rate pressures. Inventory is slow to come on stream, and a holding pattern is expected to continue through to year-end. As per a recent rentals.ca [rental report](https://rentals.ca/blog/rentals-ca-september-2022-rent-report), the average rent for all property types across Canada is up 16.8% from the recent market low in April 2021.

@@ -6,6 +6,8 @@ slug: how-your-home-is-valued-location
 description: In my experience as a real estate appraiser, I was responsible for determining
   the most important consideration for homeowners, the value of their home.
 original_id: 1
+image: "/assets/images/posts/how-your-home-is-valued-location/home-valuation-appraisal-location.jpg"
+cover: "/assets/images/posts/how-your-home-is-valued-location/home-valuation-appraisal-location.jpg"
 ---
 
 In this series on **valuing real estate**, we'll look at specific factors that contribute to the overall **market value** of a property, so you can have a better understanding of how market value is estimated. A home’s value is based on what other, similar properties in the neighborhood have sold for within a typical period of three months.

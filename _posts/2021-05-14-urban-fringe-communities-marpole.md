@@ -6,6 +6,8 @@ slug: urban-fringe-communities-marpole
 description: The neighborhood of Marpole is one of Vancouver's oldest communities—a
   bustling gateway from the south that visitors first encounter via...
 original_id: 48
+image: "/assets/images/posts/urban-fringe-communities-marpole/w68-granville-condos.jpg"
+cover: "/assets/images/posts/urban-fringe-communities-marpole/w68-granville-condos.jpg"
 ---
 
 > "_In a metropolitan region where expansion from the core is still taking place, predominantly on a horizontal plane, older urban service centres on the metropolitan fringe demand consideration as foci for new urban growth, provided their suitability in terms of location vis-a-vis the core area, and general socio-physical environment can be demonstrated._" _– Dennis McLean,_ [_The expansion of urban fringe communities_](https://open.library.ubc.ca/cIRcle/collections/ubctheses/831/items/1.0104830)

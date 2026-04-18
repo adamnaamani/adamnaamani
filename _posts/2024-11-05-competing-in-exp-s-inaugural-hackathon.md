@@ -6,6 +6,8 @@ slug: competing-in-exp-s-inaugural-hackathon
 description: eXp Realty hosted their inaugural Hackathon in Miami on October 26, 2024.
   I competed among 60+ innovators using OpenAI's latest technology.
 original_id: 166
+image: "/assets/images/posts/competing-in-exp-s-inaugural-hackathon/expcon-miami-hackathon-2024.png"
+cover: "/assets/images/posts/competing-in-exp-s-inaugural-hackathon/expcon-miami-hackathon-2024.png"
 ---
 
 eXp Realty hosted their inaugural Hackathon in Miami on October 26, 2024. I competed among 60+ innovators using OpenAI's latest technology and eXp's specially prepared API. It was the first Hackathon I ever participated in, and I would be remiss if I didn't take part, being an eXp agent and proptech aficionado myself. The competition focused on solving key challenges in the real estate and brokerage space. Prizes consisted of $5,000 for first place, $1,000 for second, $500 for third, and a $1,000 Crowd Choice prize. The judging criteria was based on platform utilization, challenges solved, novelty and creativity of the idea, with participants given just 6 hours to ideate and develop a proof of concept.

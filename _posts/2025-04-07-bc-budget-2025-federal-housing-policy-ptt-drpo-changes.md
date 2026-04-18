@@ -7,6 +7,8 @@ description: March home sales hit their lowest level since 2019, even as listing
   surged. 2,091 sales last month, down 13.4% from March 2024, 36.8% below 10-year
   average.
 original_id: 430
+image: "/assets/images/posts/bc-budget-2025-federal-housing-policy-ptt-drpo-changes/housing-market-inventory-march-2025.png"
+cover: "/assets/images/posts/bc-budget-2025-federal-housing-policy-ptt-drpo-changes/housing-market-inventory-march-2025.png"
 ---
 
 March home sales hit their lowest level since 2019, even as listings surged. Metro Vancouver’s housing market is offering the best conditions for buyers in years, yet demand remains weak. There were 2,091 sales last month, down 13.4% from March 2024 and 36.8% below the 10-year average. Meanwhile, new listings jumped 29% year-over-year to 6,455, pushing total active listings to 14,546—up nearly 38% from last year. The sales-to-active listings ratio hit 14.9% in March, near the 12% threshold that typically signals downward pressure on prices. Detached homes saw the weakest demand at 10.3%, while attached properties remained closer to a seller’s market at 21.5%. Prices have eased, and inventory is at decade highs. Condo inventory in the Fraser Valley hit record highs, coinciding with a record number of new condos completing over the next 18 months.

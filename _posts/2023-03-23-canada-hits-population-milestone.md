@@ -6,6 +6,8 @@ slug: canada-hits-population-milestone
 description: Despite concerns following the banking turmoil that higher borrowing
   rates could make matters worse, the Federal Reserve raised its...
 original_id: 96
+image: "/assets/images/posts/canada-hits-population-milestone/canada-record-population-growth-stats-canada.jpeg"
+cover: "/assets/images/posts/canada-hits-population-milestone/canada-record-population-growth-stats-canada.jpeg"
 ---
 
 Despite concerns following the banking turmoil that higher borrowing rates could make matters worse, the Federal Reserve raised its key interest rate by a quarter point on Wednesday. Any talk of rate increases has now turned to talk about [rate cuts](https://globalnews.ca/news/9464841/bank-of-canada-lending-rates-cut-survey/)—and now the Bank of Canada, the Bank of England, the Bank of Japan, the European Central Bank, the Federal Reserve, and the Swiss National Bank are announcing a [coordinated action](https://www.bankofcanada.ca/2023/03/coordinated-central-bank-action-enhance-provision-us-dollar-liquidity/) to enhance the provision of liquidity via the standing U.S. dollar liquidity swap line arrangements. How things can turn on a dime.

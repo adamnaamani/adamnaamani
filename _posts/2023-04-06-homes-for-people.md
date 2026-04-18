@@ -6,6 +6,8 @@ slug: homes-for-people
 description: British Columbia's government unveiled a multi-billion dollar plan to
   tackle the province's housing crisis, called Homes for People.
 original_id: 97
+image: "/assets/images/posts/homes-for-people/homes-for-people-vancouver-bc.jpeg"
+cover: "/assets/images/posts/homes-for-people/homes-for-people-vancouver-bc.jpeg"
 ---
 
 Metro Vancouver saw renewed price growth in [March 2023](https://members.rebgv.org/news/REBGV-Stats-Pkg-Mar-2023.pdf?_cldee=r9mW5kIhn0xvg9olgilLJEGQOnjTgcKEKIfYwuIYIdlqlYqJzrGv2uKPbJbPkUJg&recipientid=contact-184430cb0e77e811a95c000d3af49637-b3cece986efb4c6a9ec3aa2fe126dfe6&utm_source=ClickDimensions&utm_medium=email&utm_campaign=Member%20Update&esid=f99d875f-17d0-ed11-a7c6-000d3af4fc67) with modest increases at +2.7% for detached, +0.7% for apartments, and +1.7% for townhomes. Annual growth isn't quite reflected due to strong base effects from March 2022. New listings remained 22% below the 10-year seasonal average and continue to suggest that sellers are awaiting more favourable market conditions. Despite elevated borrowing costs, March data indicates home sales are making a stronger-than-expected Spring, with 2,535 residential sales (including multifamily and land), representing a 43% decrease from last year. Across all detached, attached and apartment property types, the sales-to-active listings ratio for March 2023 is 31%. By property type, the ratio is 23% for detached homes, 37% for townhomes, and 35% for apartments.

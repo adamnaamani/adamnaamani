@@ -6,6 +6,8 @@ slug: alberni-by-kuma
 description: Master architect Kengo Kuma's latest project, Alberni by Kuma was showcased
   at Fairmont's Pacific Rim, titled "Japan Unlayered".
 original_id: 16
+image: "/assets/images/posts/alberni-by-kuma/alberni-by-kuma.jpg"
+cover: "/assets/images/posts/alberni-by-kuma/alberni-by-kuma.jpg"
 ---
 
 > "_In this project, the minimal glazing details and the layered landscaping blurs conventional boundaries to enhance the sense of continuity. The design celebrates the presence of nature in Vancouver._" _– Kengo Kuma_

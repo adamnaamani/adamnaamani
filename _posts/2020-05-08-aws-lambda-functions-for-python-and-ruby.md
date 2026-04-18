@@ -6,6 +6,8 @@ slug: aws-lambda-functions-for-python-and-ruby
 description: The aws-sdk-lambda library makes serverless computing dead simple, by
   providing a gateway that connects to a Lambda function.
 original_id: 30
+image: "/assets/images/posts/aws-lambda-functions-for-python-and-ruby/aws-lambda-ruby-python.png"
+cover: "/assets/images/posts/aws-lambda-functions-for-python-and-ruby/aws-lambda-ruby-python.png"
 ---
 
 I love to program in [Ruby](https://adamnaamani.com/background-processing-with-rets-and-sidekiq/) as well as [Python](https://adamnaamani.com/python-for-real-estate/), and [AWS Lambda](https://aws.amazon.com/lambda/) functions provide the perfect solution to combine both languages' capabilities without additional server configuration. The [aws-sdk-lambda](https://rubygems.org/gems/aws-sdk-lambda/versions/1.0.0.rc8) library makes [serverless computing](https://en.wikipedia.org/wiki/Serverless_computing) workflow dead simple, by providing a gateway that connects to a Lambda function that will run Python code and return the results to a Rails application.

@@ -6,6 +6,8 @@ slug: laneway-housing
 description: Although typically classified under names such as coach houses, infill
   housing, and granny flats, Laneway House (LWH) is a great...
 original_id: 3
+image: "/assets/images/posts/laneway-housing/laneway-housing.jpg"
+cover: "/assets/images/posts/laneway-housing/laneway-housing.jpg"
 ---
 
 Typically classified under names such as coach houses, infill housing, and granny flats—**Laneway House (LWH)** is a densification initiative that can provide many benefits for both the land owner and tenant. Made official in late 2009, the Council adopted regulations that would allow for Laneway Houses to be built on RS (single-family) zoned lots. These houses have been built on RS-1 and RS-5 zoned lots and will expand to RS-1A, RS-1B, RS-3/3A, RS-4, RS-6 and RS-7. Of course, in order to preserve the utility with existing structures, the LWH can only be built if the potential meets certain eligibility requirements, and must go through the City's approval process.

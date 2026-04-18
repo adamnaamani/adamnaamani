@@ -7,6 +7,8 @@ description: The housing market showed early signs of stabilization in June, fol
   a subdued start to the year. Residential sales totaled 2,181, down 9.8% from last
   year
 original_id: 529
+image: "/assets/images/posts/cost-of-delivery-coquitlam-ssmuh-policy-granville-island-housing/july-2025-greater-vancouver-real-estate-market-update.png"
+cover: "/assets/images/posts/cost-of-delivery-coquitlam-ssmuh-policy-granville-island-housing/july-2025-greater-vancouver-real-estate-market-update.png"
 ---
 
 After months of compounding uncertainty, Greater Vancouver's housing market has shifted dramatically from its optimistic outlook early in the year. With stalled projects from major developers who haven't bought land since 2022, to rental rates dropping from $6 to $4 per square foot, the policy pile-on effect during a market downturn is causing the entire industry to adapt and be wary of supply challenges ahead as the pipeline dries up. The question is whether the market shift is permanent or just another cycle.

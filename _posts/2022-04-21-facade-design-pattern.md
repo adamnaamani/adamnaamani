@@ -6,6 +6,8 @@ slug: facade-design-pattern
 description: To make a complex subsystem easier to use, a simple interface should
   be provided for a set of interfaces in the subsystem.
 original_id: 72
+image: "/assets/images/posts/facade-design-pattern/facade-real-estate-trading-services.jpg"
+cover: "/assets/images/posts/facade-design-pattern/facade-real-estate-trading-services.jpg"
 ---
 
 > "_To make a complex subsystem easier to use, a simple interface should be provided for a set of interfaces in the subsystem._"

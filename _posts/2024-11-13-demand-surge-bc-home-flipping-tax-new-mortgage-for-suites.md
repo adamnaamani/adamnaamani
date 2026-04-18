@@ -6,6 +6,8 @@ slug: demand-surge-bc-home-flipping-tax-new-mortgage-for-suites
 description: Buyer demand surges in October 2024. BC home flipping tax passed. New
   mortgage for additional suites. No GST proposed on new homes under $1 million.
 original_id: 199
+image: "/assets/images/posts/demand-surge-bc-home-flipping-tax-new-mortgage-for-suites/new-mortgage-additional-suites-bc.png"
+cover: "/assets/images/posts/demand-surge-bc-home-flipping-tax-new-mortgage-for-suites/new-mortgage-additional-suites-bc.png"
 ---
 
 Sales activity in Greater Vancouver rose by 32% in October compared to last year, with the Fraser Valley up 37%. This follows five consecutive months of year-over-year declines and four rate cuts by the Bank of Canada. While one month doesn’t establish a trend, and most sales occurred in early October, it remains to be seen whether November will bring a typical seasonal slowdown. After months on the sidelines, buyers are showing renewed optimism. Properties that sat idle are now seeing more activity, even drawing multiple offers. Both attached and apartment segments are leaning toward a seller’s market, both at a 22% sales ratio, and the detached segment at 13.4%, indicating price moderation may be nearing its end.

@@ -6,6 +6,8 @@ slug: exp-shareholder-summit-takeaways
 description: eXp World Holdings, Inc. capped off its 2021 shareholder summit in the
   EXPI Campus, with world-class speakers from all walks of life...
 original_id: 49
+image: "/assets/images/posts/exp-shareholder-summit-takeaways/exp-shareholder-summit-dj-jazzy-jeff-2021.png"
+cover: "/assets/images/posts/exp-shareholder-summit-takeaways/exp-shareholder-summit-dj-jazzy-jeff-2021.png"
 ---
 
 eXp World Holdings, Inc. capped off its 2021 shareholder summit in the [EXPI Campus](https://adamnaamani.com/the-virtual-world-of-exp-realty/), with world-renowned speakers from all walks of life sharing their journeys to success. The list included names like [Grant Cardone](https://grantcardone.com/), [John Salley](https://en.wikipedia.org/wiki/John_Salley), [Jamie Kern Lima](https://en.wikipedia.org/wiki/Jamie_Kern_Lima), and [Tim Storey](https://www.timstorey.com/). Even The Magnificent [DJ Jazzy Jeff](http://www.djjazzyjeff.com) was in the house to play tunes for a COVID safe avatar dance party. What resonated most with me was the common thread found in every major success story. It always comes down to hard-work, discipline, routine, and consistency. Daily dedication to achieving what it is you set out to do, without compromise. These are some of my favorite moments from the summit.

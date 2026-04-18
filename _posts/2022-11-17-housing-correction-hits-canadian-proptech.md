@@ -6,6 +6,8 @@ slug: housing-correction-hits-canadian-proptech
 description: One of the most significant corrections in the history of the Canadian
   housing market continues to challenge the iBuying model...
 original_id: 88
+image: "/assets/images/posts/housing-correction-hits-canadian-proptech/ibuying-proptech-housing-correction.png"
+cover: "/assets/images/posts/housing-correction-hits-canadian-proptech/ibuying-proptech-housing-correction.png"
 ---
 
 [Zonda Urban](https://zondaurban.com), a real estate analytics company, reported that new home sales (i.e. pre-sales) were down 72% on a year-over-year basis. The decrease in sales is partially explained by a decrease in project launches. Langley/Cloverdale sub-markets had the highest number of new Low Rise multi-family home sales in the Lower Mainland. New listings in Greater Vancouver are running 8% below their 20-year average, as active inventory for sale hardly grew in October. We are starting to see price points begin to stabilize as further interest rate increases slow sales absorptions, totalling just over 1,900. The Bank of Canada cited growing concerns around financial stability, and will perhaps announce a final rate hike in December.

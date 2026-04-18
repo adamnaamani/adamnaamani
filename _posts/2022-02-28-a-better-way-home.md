@@ -6,6 +6,8 @@ slug: a-better-way-home
 description: BCREA is recommending a better way home through a "pre-offer period"
   where offers cannot be presented to a seller on new listings until...
 original_id: 66
+image: "/assets/images/posts/a-better-way-home/a-better-way-home-cooling-off-real-estate-vancouver.jpg"
+cover: "/assets/images/posts/a-better-way-home/a-better-way-home-cooling-off-real-estate-vancouver.jpg"
 ---
 
 The British Columbia Real Estate Association (BCREA) announced their "[whitepaper](https://www.bcrea.bc.ca/wp-content/uploads/BCREA_BetterWayHome_WhitePaper.pdf?_cldee=bmFhbWFuaXJlYWxlc3RhdGVAZ21haWwuY29t&recipientid=contact-184430cb0e77e811a95c000d3af49637-ad219d2d52ad45c2902741147ae61cd7&utm_source=ClickDimensions&utm_medium=email&utm_campaign=Member%20Update&esid=d18b98e7-bf98-ec11-b3fe-000d3a09d79d)", outlining proposed solutions to address the housing crisis both in the province and across the country. BCREA is recommending a "pre-offer period" where offers cannot be presented to a seller on new listings until the listings have been posted for five business days (for a fee). During which you have the option to back out. Similar to the [7-day rescission](https://adamnaamani.com/cooling-off/) period for new developments.

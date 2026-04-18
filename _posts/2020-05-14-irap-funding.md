@@ -6,6 +6,8 @@ slug: irap-funding
 description: The Industrial Research Assistance Program (IRAP)—a cross-Canada network
   of 255 industrial technology advisors, and $300 million in support.
 original_id: 31
+image: "/assets/images/posts/irap-funding/government-of-canada-irap-funding.jpg"
+cover: "/assets/images/posts/irap-funding/government-of-canada-irap-funding.jpg"
 ---
 
 [Launch Academy](https://www.launchacademy.ca) presented a webinar on everything you need to know about the [Industrial Research Assistance Program](https://nrc.canada.ca/en/support-technology-innovation) (IRAP)—a cross-Canada network of 255 industrial technology advisors, with $300 million in support for more than 3,000 development projects annually. Having gone through the process myself, it was a good refresher on how to acquire financial support for technology innovation. While I ran into roadblocks with my own startup, the odds can lean in your favour if you focus on creating a novel business with adequate customer validation, a sizeable market, and steady revenue growth.

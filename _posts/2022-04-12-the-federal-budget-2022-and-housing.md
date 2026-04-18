@@ -6,6 +6,8 @@ slug: the-federal-budget-2022-and-housing
 description: 'The Federal Budget 2022 addresses housing affordability in three categories:
   building, saving and anti-flipping/foreign investment.'
 original_id: 71
+image: "/assets/images/posts/the-federal-budget-2022-and-housing/federal-budget-2022-housing.jpg"
+cover: "/assets/images/posts/the-federal-budget-2022-and-housing/federal-budget-2022-housing.jpg"
 ---
 
 Finance Minister Chrystia Freeland laid out how the government is planning to address housing affordability in the [Federal Budget for 2022](https://budget.gc.ca/2022/home-accueil-en.html?_cldee=f4cFMzRbMDUZ9Tu6vxWFcOqwj-eXupQ9w47mHgeYmgLDQ0Xa3VzRR-mtmESOKbX3&recipientid=contact-184430cb0e77e811a95c000d3af49637-bf4910454a394c479f3438d90539109b&utm_source=ClickDimensions&utm_medium=email&utm_campaign=Member%20Update&esid=dd26a82c-ceb6-ec11-983e-000d3a09c603) by adopting policies in three categories: **building**, **saving** and **anti-flipping/foreign investment**.

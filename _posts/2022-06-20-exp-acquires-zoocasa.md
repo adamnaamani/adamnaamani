@@ -6,6 +6,8 @@ slug: exp-acquires-zoocasa
 description: eXp announces their acquisition of zoocasa.com and its parent company,
   Zoocasa Realty Inc., effective July 1st, 2022.
 original_id: 77
+image: "/assets/images/posts/exp-acquires-zoocasa/zoocasa-exp-acquisition.png"
+cover: "/assets/images/posts/exp-acquires-zoocasa/zoocasa-exp-acquisition.png"
 ---
 
 As part of eXp World Holdings' strategic vision to strengthen its online lead generation, home search and listings portal solutions in Canada, they announced their acquisition of [zoocasa.com](http://zoocasa.com) and its parent company, Zoocasa Realty Inc., effective July 1st, 2022. Zoocasa is an award-winning property technology company and brokerage based in Toronto, Canada, that offers an all-in-one intelligent, scalable platform and listings portal that provides a seamless home search experience, deep market insights and a connection to local real estate expertise.

@@ -6,6 +6,8 @@ slug: city-of-vancouver-to-extend-leaseholds-in-false-creek-south
 description: The City of Vancouver and the Society have concluded negotiations to
   extend the leases in False Creek South for an additional 20 years.
 original_id: 80
+image: "/assets/images/posts/city-of-vancouver-to-extend-leaseholds-in-false-creek-south/city-of-vancouver-extend-leasehold-false-creek-south.jpg"
+cover: "/assets/images/posts/city-of-vancouver-to-extend-leaseholds-in-false-creek-south/city-of-vancouver-extend-leasehold-false-creek-south.jpg"
 ---
 
 Vancouver City Council and the [Strata Leaseholders Society](http://www.falsecreeksouth.org) (the Society) have concluded negotiations supporting a proposal to extend the leases in [False Creek South](https://adamnaamani.com/the-redevelopment-of-false-creek-south/) for an additional 20 years. The Society is the bargaining agent for over 2/3 of the 669 strata leaseholders in the area, with the purpose of promoting the interests of its owners. The proposal forms part of the overall lease renewal package that requires agreement to:

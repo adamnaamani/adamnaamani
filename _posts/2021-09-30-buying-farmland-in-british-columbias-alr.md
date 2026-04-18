@@ -6,6 +6,8 @@ slug: buying-farmland-in-british-columbias-alr
 description: The ALR is a "provincial land-use zone where agriculture is the priority
   use." The reserve comprises 5% of BC's total land base, and is...
 original_id: 55
+image: "/assets/images/posts/buying-farmland-in-british-columbias-alr/agriculture-land-reserve-farmland.png"
+cover: "/assets/images/posts/buying-farmland-in-british-columbias-alr/agriculture-land-reserve-farmland.png"
 ---
 
 After touring open houses in Fraser Valley's Agricultural Land Reserve (ALR), seeing the pent-up demand for detached housing in rural neighbourhoods first-hand didn't come as any surprise. Considering new listings for the month of August 2021 fell to their lowest count in over 20 years. It felt more like an auction, with waves of interested parties pulling up on the sprawling paved driveway through the grand entrance gates.

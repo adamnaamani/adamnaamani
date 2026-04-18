@@ -6,6 +6,8 @@ slug: financing-short-term-rentals
 description: As short-term rental platforms have become more ubiquitous, the rules
   and regulations surrounding this type of occupancy have gotten...
 original_id: 70
+image: "/assets/images/posts/financing-short-term-rentals/financing-short-term-rentals-airbnb.jpg"
+cover: "/assets/images/posts/financing-short-term-rentals/financing-short-term-rentals-airbnb.jpg"
 ---
 
 As short-term rental platforms have become more ubiquitous, the rules and [regulations](https://adamnaamani.com/airbnb-regulations-metro-vancouver/) surrounding this type of occupancy have gotten more strict. Some small communities are [pushing back](https://www.cbc.ca/news/canada/london/cottage-ontario-airbnb-vbro-1.6407851) against these services, claiming they are disrupting the social fabric to the point of "upending their way of life". Bylaws vary between municipalities, but a license typically can only be issued to a person for the property in which they reside—their principal residence. Long-term rental stays of more than 30 days are allowed to be advertised and rented through online platforms. Property managers, businesses, societies, and commercial operations are ineligible to operate a short-term rental.

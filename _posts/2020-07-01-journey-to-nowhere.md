@@ -6,6 +6,8 @@ slug: journey-to-nowhere
 description: "“Travel isn’t always pretty. It isn’t always comfortable. Sometimes
   it hurts, it even breaks your heart. But that’s okay.” - Anthony Bourdain"
 original_id: 35
+image: "/assets/images/posts/journey-to-nowhere/sierra-west-cabins-1-min.jpg"
+cover: "/assets/images/posts/journey-to-nowhere/sierra-west-cabins-1-min.jpg"
 ---
 
 > “_Travel isn’t always pretty. It isn’t always comfortable. Sometimes it hurts, it even breaks your heart. But that’s okay. The journey changes you; it should change you. It leaves marks on your memory, on your consciousness, on your heart, and on your body. You take something with you. Hopefully, you leave something good behind._” _– Anthony Bourdain_

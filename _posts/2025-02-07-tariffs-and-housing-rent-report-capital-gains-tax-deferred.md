@@ -6,6 +6,8 @@ slug: tariffs-and-housing-rent-report-capital-gains-tax-deferred
 description: New home listings on the MLS® in Metro Vancouver surged by 46%, the highest
   number of new listings for the month since 2012.
 original_id: 364
+image: "/assets/images/posts/tariffs-and-housing-rent-report-capital-gains-tax-deferred/img-QLrYKX7dISObfc1IB5WQ7BUm.png"
+cover: "/assets/images/posts/tariffs-and-housing-rent-report-capital-gains-tax-deferred/img-QLrYKX7dISObfc1IB5WQ7BUm.png"
 ---
 
 If January was any indication, 2025 is set to be anything but predictable. The full blown Canada-U.S. tariff war and economic uncertainty will define the months ahead. While we've heard the politics ad nauseam, our focus remains on the implications for the housing market. Under the most likely scenario, the BC housing market would see a temporary decline in activity before posting a robust recovery as mortgage rates decline substantially, thereby unleashing pent-up demand.
