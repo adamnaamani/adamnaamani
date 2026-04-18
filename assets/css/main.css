@@ -49,7 +49,7 @@ body > footer {
   margin-inline: auto;
   padding-inline: 1.5rem;
 }
-body > main { flex: 1 0 auto; padding-block: 1.5rem 5rem; }
+body > main { flex: 1 0 auto; padding-block: 1.5rem 2.5rem; }
 
 body > header,
 body > footer,
@@ -111,6 +111,7 @@ body > header > a.site-title {
   letter-spacing: -0.01em;
   color: var(--fg);
   text-decoration: none;
+  text-transform: uppercase;
 }
 body > header nav {
   display: flex;
@@ -341,7 +342,7 @@ article > nav span { color: var(--fg); }
 @media (max-width: 560px) {
   html { font-size: 106.25%; }
   body > header { padding-block: 2rem; }
-  body > main  { padding-block: 1rem 4rem; }
+  body > main  { padding-block: 1rem 2rem; }
 
   section > header h1,
   article > header h1 { font-size: 1.6rem; }
