@@ -24,9 +24,6 @@ social:
     - https://www.youtube.com/@adamnaamani
     - https://github.com/adamnaamani
 
-header_pages:
-  - about.md
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
