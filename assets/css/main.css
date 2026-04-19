@@ -148,6 +148,13 @@ body > header nav a:hover { color: var(--accent); }
   body > header nav a svg { height: 0.85rem; }
 }
 
+@media (max-width: 40rem) {
+  body > header nav a[aria-label="X"],
+  body > header nav a[aria-label="GitHub"] {
+    display: none;
+  }
+}
+
 body > footer {
   padding-block: 0 2.5rem;
   font-size: 0.85rem;
