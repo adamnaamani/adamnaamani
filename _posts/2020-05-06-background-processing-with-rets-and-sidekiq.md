@@ -24,95 +24,95 @@ This one took me a while to figure out. It doesn't make much sense to perform a 
 
 **Connect to RETS client:**
 
-```
+```ruby
 module Rets
-extend ActiveSupport::Concern
+  extend ActiveSupport::Concern
 
-def connect
-retries = 5
+  def connect
+    retries = 5
 
-@client = Rets::Client.new(
-login_url: :endpoint,
-username: :user,
-password: :password,
-version: 'RETS/1.5',
-max_retries: retries
-)
-@client.login
-rescue Timeout::Error => e
-Rails.logger.error(e)
-retry if retries.positive?
-retries -= 1
-end
+    @client = Rets::Client.new(
+      login_url: :endpoint,
+      username: :user,
+      password: :password,
+      version: 'RETS/1.5',
+      max_retries: retries
+    )
+    @client.login
+  rescue Timeout::Error => e
+    Rails.logger.error(e)
+    retry if retries.positive?
+    retries -= 1
+  end
 
-def disconnect
-@client.logout
-end
+  def disconnect
+    @client.logout
+  end
 end
 ```
 
 **Import records:**
 
-```
+```ruby
 module Import
-class ListingJob < ApplicationJob
-queue_as :priority
+  class ListingJob < ApplicationJob
+  queue_as :priority
 
-before_perform :connect
-after_perform :disconnect
+  before_perform :connect
+  after_perform :disconnect
 
-sidekiq_options retry: 5
+  sidekiq_options retry: 5
 
-def perform(**args)
-records = @client.find(
-:all,
-search_type: args[:search_type],
-class: args[:property_class],
-resolve: true
-)
+  def perform(**args)
+    records = @client.find(
+      :all,
+      search_type: args[:search_type],
+      class: args[:property_class],
+        resolve: true
+      )
 
-return if records.blank?
+      return if records.blank?
 
-records.each do |record|
-Insert::ListingJob.perform_later(record)
-end
-rescue StandardError => e
-Rails.logger.error(e)
-Raven.capture_exception(e)
-end
-end
+      records.each do |record|
+        Insert::ListingJob.perform_later(record)
+      end
+    rescue StandardError => e
+      Rails.logger.error(e)
+      Raven.capture_exception(e)
+    end
+  end
 end
 ```
 
 **Insert record:**
 
-```
+```ruby
 module Insert
-class ListingJob < ApplicationJob
-queue_as :priority
+  class ListingJob < ApplicationJob
+    queue_as :priority
 
-def perform(record)
-Listings::Create.call(record) if record.present?
-end
-end
+    def perform(record)
+      Listings::Create.call(record) if record.present?
+    end
+  end
 end
 ```
 
 Sidekiq then calls a Plain Old Ruby Object (PORO) service to handle the interaction with the database. The operation can be seen through Sidekiq's sleek dashboard:
 
-```
+```ruby
 Rails.application.routes.draw do
-require 'sidekiq/web'
-require 'sidekiq-scheduler/web'
-mount Sidekiq::Web => '/sidekiq'
+  require 'sidekiq/web'
+  require 'sidekiq-scheduler/web'
+  mount Sidekiq::Web => '/sidekiq'
 end
 ```
 
 The jobs can be controlled through the UI, or programmatically through the Rails console, which makes it super easy to manage:
 
-```
+```ruby
 2.7.1 > queue = Sidekiq::Queue.new('priority')
 2.7.1 > queue.each do |job|
-2.7.1 > job.delete
+2.7.1 >   job.delete
 2.7.1 > end
 ```

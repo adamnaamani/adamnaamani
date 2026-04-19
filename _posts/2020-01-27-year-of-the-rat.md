@@ -10,8 +10,7 @@ image: "/assets/images/posts/year-of-the-rat/year-of-the-rat-2020.jpg"
 cover: "/assets/images/posts/year-of-the-rat/year-of-the-rat-2020.jpg"
 ---
 
-> Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
-> _- Marcus Aurelius_
+> "Very little is needed to make a happy life; it is all within yourself, in your way of thinking." - Marcus Aurelius
 
 1. [Year of the Rat](#year-of-the-rat)
 2. [A Decade in Vancouver](#a-decade-in-vancouver)
@@ -27,8 +26,7 @@ I take astrology and its association with one's personality traits with a grain 
 
 Almost a month into 2020, it's important to reflect on the last 10 years and set the stage for what's to come. As I look back, I can say with absolute certainty, the best choices I have made in deciding which endeavours to pursue can be attributed to the following:
 
-> "Choose projects in such a way that even if they fail by the most objective metrics, that you develop relationships and skills that persist past that project. Succeed regardless because of accumulated skills and relationships that transcend and last much longer than the project itself."
-> _- Tim Ferriss_
+> "Choose projects in such a way that even if they fail by the most objective metrics, that you develop relationships and skills that persist past that project. Succeed regardless because of accumulated skills and relationships that transcend and last much longer than the project itself." - Tim Ferriss
 
 **A Decade in Vancouver**
 

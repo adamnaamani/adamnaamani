@@ -18,13 +18,13 @@ The new ChatGPT API calls gpt-3.5-turbo, the same model used in their [ChatGPT](
 
 One useful outcome I discovered with ChatGPT was learning how to query a RETS server for a listing photo's object attributes, considering RETS is an archaic technology. Storing thousands of photos on a service like Amazon S3 can become costly, and is a strain on an application's resources. I entered a prompt in ChatGPT: "_How do I request the photo URL from the RETS API in Ruby_", and it brilliantly suggested one line of code that I could implement to access photos directly from the original storage location.
 
-```
+```ruby
 Rets::Client.new.objects(
-'*',
-resource: 'Property',
-object_type: 'Photo',
-resource_id: sysid,
-location: 1
+  '*',
+  resource: 'Property',
+  object_type: 'Photo',
+  resource_id: sysid,
+  location: 1
 )
 ```
 
@@ -32,24 +32,24 @@ The new Chat API is priced at $0.002 per 1K tokens, which is 10x cheaper than th
 
 The main input is the messages parameter, which takes an array of objects with role and content key/value pairs. There are 3 roles you can program for a more accurate response: system, assistant, and user. Conversations can be as short as 1 message or fill many pages. Typically, a conversation is formatted with a system message first, followed by alternating user and assistant roles.
 
-```
+```ruby
 [
-{
-role: "system",
-content: 'You are a helpful real estate agent.'
-},
-{
-role: "system",
-content: @listing.as_json.compact_blank.to_json
-},
-{
-role: "assistant",
-content: @assistant.to_json
-},
-{
-role: "user",
-content: @prompt.to_s
-}
+  {
+    role: "system",
+    content: 'You are a helpful real estate agent.'
+  },
+  {
+    role: "system",
+    content: @listing.as_json.compact_blank.to_json
+  },
+  {
+    role: "assistant",
+    content: @assistant.to_json
+  },
+  {
+    role: "user",
+    content: @prompt.to_s
+  }
 ]
 ```
 

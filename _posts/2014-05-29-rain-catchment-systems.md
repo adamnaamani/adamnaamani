@@ -10,7 +10,7 @@ image: "/assets/images/posts/rain-catchment-systems/rain-catchment-systems.jpg"
 cover: "/assets/images/posts/rain-catchment-systems/rain-catchment-systems.jpg"
 ---
 
-Yes, it rains in **Vancouver**. A lot. But besides it being a default conversation starter, a reason to complain on Facebook, or perhaps even population control for our small city, some prefer to be resourceful and capitalize on the use of **rain catchment systems**. Also known as **rain harvesting**, it is the accumulation and deposition of rainwater for reuse before it reaches the aquifer.
+Yes, it rains in **Vancouver**. A lot. But besides it being a default conversation starter, a reason to complain on social media, or perhaps even population control for our small city, some prefer to be resourceful and capitalize on the use of **rain catchment systems**. Also known as **rain harvesting**, it is the accumulation and deposition of rainwater for reuse before it reaches the aquifer.
 
 While most of us over here in Vancouver prefer to balk at the rain's usefulness, Bermuda, an island in the Atlantic Ocean north of the Caribbean, relies on it as a potable water supply source. The roofs on Bermuda homes have wedge-shaped limestone glides that divert rain water through vertical leaders and into storage tanks.
 

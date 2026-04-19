@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Front-Running, U-Haul Migration, Foreign Buyers, Student Cap, Hotel Comeback
+title: Front-Running, U-Haul Migration, Foreign Buyers
 date: '2024-02-06 16:15:39 -0800'
 slug: front-running-rates
 description: February 2024 Market Update, Front-Running Interest Rates, U-Haul Migration,

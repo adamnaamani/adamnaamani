@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Price Trends, Tenancy Regulation Reversal, 30-year Mortgages
+title: Tenancy Regulation Reversal, 30-year Mortgages
 date: '2024-08-08 06:00:41 -0700'
 slug: price-trends-tenancy-regulation-reversal-30-year-mortgages
 description: Data since the 1980s shows that home prices often decline following BoC

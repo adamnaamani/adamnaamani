@@ -24,20 +24,20 @@ To access listings from the real estate boards, we'll use a Node.js RETS client,
 
 I've had success integrating [other technologies](https://adamnaamani.com/aws-lambda-functions-for-python-and-ruby/) into a Ruby on Rails application, but Node.js takes the cake. After installing Node with Brew, a simple .js file in the root of the application is enough to get the ball rolling:
 
-```
+```bash
 brew install node
 node rets.js
 ```
 
 This opens up the wonderful world of Node.js, and extends the capabilities of a Rails and React application. Node is simple to adopt, as it is basically a JavaScript runtime environment that executes JavaScript code (outside a web browser). We'll use [axios](https://github.com/axios/axios) as our http client (as I have mentioned before in a previous [post on authentication](https://adamnaamani.com/jwt-authentication-with-warden-and-devise/)) that will log into the Rails API and include the generated Authorization token in the header with every request. I've set up a [Thor](http://whatisthor.com/) task to trigger the .js script and start the import, which will be automated to run on a daily schedule. The task uses Ruby's system method to execute commands in a subshell, and pass environment variables as our parameters:
 
-```
+```ruby
 class Rets < Thor
-desc 'node [resource] [table]', 'stream mls listings'
-def node(resource, table)
-# ...
-system(%(#{env_vars} node ./rets.js))
-end
+  desc 'node [resource] [table]', 'stream mls listings'
+  def node(resource, table)
+    # ...
+    system(%(#{env_vars} node ./rets.js))
+  end
 end
 ```
 
@@ -54,7 +54,7 @@ Before connecting to the RETS client, there are a few fundamental concepts to gr
 
 The pipe() function is the primary composition operator in Node.js's built-in stream module, which pipes content from any _readable_ source to any _writeable_ destination. Working with a duplex stream, you can also chain pipe calls to run in sequence and transform the data as it is written and read:
 
-```
+```js
 stream
 .pipe(mapKeys())
 .pipe(standardizeData())
@@ -67,16 +67,16 @@ stream
 
 In order to transform the input from a readable stream, it is recommended to set up an asynchronous iteration function. This function will post the streamed listing to the Rails application through axios, and run the callback upon successful response to signal the next iteration:
 
-```
+```js
 const doAsyncProcessing = (row, index, callback) => {
-axios.post(Routes.api_v1_listings(), {
-listing: row,
-}).then(({ data }) => {
-console.log(`----Streamed: ${index}----`)
-callback()
-}).catch((error) => {
-console.log(error)
-})
+  axios.post(Routes.api_v1_listings(), {
+      listing: row,
+  }).then(({ data }) => {
+      console.log(`----Streamed: ${index}----`)
+      callback()
+  }).catch((error) => {
+      console.log(error)
+  })
 }
 ```
 
@@ -91,13 +91,13 @@ Now for the fun part...logging in to the RETS server and fetching the listings. 
 
 There are an incredible number of data points to consider during the entire sales process. An MLS listing alone has around **~350** attributes that need validation, normalization, and standardization. While we won't get into the specifics (more on that in a subsequent article), we will analyze the metadata for the resources we will be able to access. This can be done in a number of ways, but rets-client does a great job of making it as simple as possible:
 
-```
+```js
 rets.getAutoLogoutClient({
-loginUrl: LOGIN_URL,
-username: USERNAME,
-password: PASSWORD,
-}, async (client) => {
-await client.metadata.getResources()
+    loginUrl: LOGIN_URL,
+    username: USERNAME,
+    password: PASSWORD,
+  }, async (client) => {
+    await client.metadata.getResources()
 })
 ```
 
@@ -117,49 +117,49 @@ The Property resource will have class names such as:
 
 A quicker method to query RETS servers would involve using a CLI, and I haven't found one better than [retscli](https://github.com/summera/retscli)—a gem built on top of Estately's [rets](https://github.com/estately/rets), which I [wrote about before](https://adamnaamani.com/background-processing-with-rets-and-sidekiq/). Here is the function that will do the heavy lifting, which I've adopted from the rets-client example usage:
 
-```
+```js
 rets.getAutoLogoutClient(clientSettings, async (client) => {
-authenticate()
-getResources(client)
+    authenticate()
+    getResources(client)
 
-await new Promise((resolve, reject) => {
-let count = 0
-const streamResult = client.search.stream.query(
-RESOURCE,
-TABLE,
-COUNT,
-LIMIT_OBJ
-)
+    await new Promise((resolve, reject) => {
+        let count = 0
+        const streamResult = client.search.stream.query(
+          RESOURCE,
+          TABLE,
+          COUNT,
+          LIMIT_OBJ
+        )
 
-const processor = through2.obj((event, _encoding, callback) => {
-switch (event.type) {
-case 'headerInfo':
-console.log(event.payload)
-callback()
-break
-case 'data':
-count += 1
-doAsyncProcessing(event.payload, count, callback)
-break
-case 'done':
-resolve(event.payload.rowsReceived)
-break
-case 'error':
-console.log(`Error: ${event.payload}`)
-streamResult.retsStream.unpipe(processor)
-processor.end()
-reject(event.payload)
-callback()
-break
-default:
-callback()
-}
-})
+        const processor = through2.obj((event, _encoding, callback) => {
+            switch (event.type) {
+              case 'headerInfo':
+              console.log(event.payload)
+              callback()
+              break
+              case 'data':
+              count += 1
+              doAsyncProcessing(event.payload, count, callback)
+              break
+              case 'done':
+              resolve(event.payload.rowsReceived)
+              break
+              case 'error':
+              console.log(`Error: ${event.payload}`)
+              streamResult.retsStream.unpipe(processor)
+              processor.end()
+              reject(event.payload)
+              callback()
+              break
+              default:
+              callback()
+            }
+        })
 
-streamResult.retsStream.pipe(processor)
-}).catch((error) => {
-console.log(error)
-})
+        streamResult.retsStream.pipe(processor)
+    }).catch((error) => {
+        console.log(error)
+    })
 })
 ```
 
@@ -167,22 +167,22 @@ I was pleasantly surprised to see how much more of an efficient tool this was to
 
 As the cherry on top, I set up ActionCable to broadcast the creation of a new listing that will automatically stream the object to a variety of different layers for instant notifications, analytics, monitoring, and machine learning.
 
-```
+```ruby
 def create
-authorize new_listing
+  authorize new_listing
 
-return head :unprocessable_entity unless new_listing.valid?
+  return head :unprocessable_entity unless new_listing.valid?
 
-broadcast
+  broadcast
 
-render json: ListingSerializer.new(new_listing).serialized_json
+  render json: ListingSerializer.new(new_listing).serialized_json
 end
 
 private
 
 def broadcast
-ListingChannel.broadcast_to(current_user, new_listing.to_json)
-endListingChannel.subscribe({
-received: handleReceived,
-})
+  ListingChannel.broadcast_to(current_user, new_listing.to_json)
+  endListingChannel.subscribe({
+      received: handleReceived,
+    })
 ```

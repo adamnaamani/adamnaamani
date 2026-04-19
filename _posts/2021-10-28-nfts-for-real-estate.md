@@ -10,7 +10,7 @@ image: "/assets/images/posts/nfts-for-real-estate/nft-real-estate-transparency.g
 cover: "/assets/images/posts/nfts-for-real-estate/nft-real-estate-transparency.gif"
 ---
 
-> "_We’ve discussed how you can make a fungible token using_ [_ERC20_](https://docs.openzeppelin.com/contracts/3.x/erc20)_, but what if not all tokens are alike? This comes up in situations like_ _ **real estate** _ _or_ _ **collectibles** __, where some items are valued more than others, due to their usefulness, rarity, etc. ERC721 is a standard for representing ownership of_ [_non-fungible tokens_](https://docs.openzeppelin.com/contracts/3.x/tokens#different-kinds-of-tokens)_, that is, where each token is unique._"
+> "_We’ve discussed how you can make a fungible token using_ [_ERC20_](https://docs.openzeppelin.com/contracts/3.x/erc20)_, but what if not all tokens are alike? This comes up in situations like **real estate** or **collectibles**, where some items are valued more than others, due to their usefulness, rarity, etc. ERC721 is a standard for representing ownership of_ [_non-fungible tokens_](https://docs.openzeppelin.com/contracts/3.x/tokens#different-kinds-of-tokens)_, that is, where each token is unique._"
 
 [Non-Fungible Tokens](https://en.wikipedia.org/wiki/Non-fungible_token) (NFTs) have been taking the world by storm, giving more power to content creators than ever before. NFTs use Blockchain technology to establish a verified and public proof of ownership—a way to represent anything unique as an Ethereum based asset. Naturally, this technology could solve many inefficiencies in real estate transactions, and ultimately provide more transparency.
 

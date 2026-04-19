@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BC Budget 2025, Federal Housing Policy, PTT & DRPO Changes
+title: BC Budget 2025, PTT & DRPO Changes
 date: '2025-04-07 18:17:55 -0700'
 slug: bc-budget-2025-federal-housing-policy-ptt-drpo-changes
 description: March home sales hit their lowest level since 2019, even as listings

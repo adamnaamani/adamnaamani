@@ -21,8 +21,6 @@ Governments at all levels are rolling out new measures to tackle the housing cri
 - Increase the First Time Home Buyers' Program property transfer tax exemption threshold, and review it on an annual basis to reflect changing market conditions.
 - Flipping tax on sale of property held for less than a year.
 
-> _"You don't pay taxes, they take taxes." – Chris Rock_
-
 It seems like the solution always comes down to more taxes, which have inflationary impacts on home prices. The key driver of high prices in the housing market is lack of housing supply. Any policy measures such as a "flipping tax" should ensure that no new housing is blocked from becoming available. Property renovations and deep retrofits can help refurbish older uninhabitable homes and bring them back to saleable condition, increasing both market and rental supply. During home renovations, individuals can choose to add a rental unit or accessory dwelling unit to their home, increasing housing supply across the spectrum by introducing more density. Blanket policies may result in unintended negative consequences that actually inhibit the development of new housing supply. Additional units should not be subject to a flipping tax. Similarly, renovations that result in a significant improvement in energy efficiency or reduction in carbon emissions should also be exempt from the tax. The onus is being placed on the private sector to build more housing, which sounds like a pipe dream if the project isn't financially feasible.
 
 #### eXp Realty Exclusives

@@ -16,6 +16,6 @@ That could lend to the fact that new listings are down (lowest levels since 2000
 
 Right now, some of the best deals are homes that are "back on market". Meaning they were listed cumulatively for an extended period of time and re-listed at significantly lower prices to reflect current conditions. Owners that were trying to capitalize on record price appreciation but have since had to adjust their expectations. As the saying goes, we do not get what we deserve, we get what we negotiate. Homebuyers and investors see 2023 as a "positioning year", as the BC Real Estate Association is forecasting that 2024 will be a "banner year" for residential real estate right across the province.
 
-"_More and more workers arriving daily and seeking homes. A check of Real Estate companies shows an appalling scarcity with long waiting lists in each office._" — Circa 1940s
+> "More and more workers arriving daily and seeking homes. A check of Real Estate companies shows an appalling scarcity with long waiting lists in each office." — Circa 1940s
 
 _Credit: City of Vancouver Archives_

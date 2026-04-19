@@ -1,11 +1,11 @@
 ---
-
-## layout: post
-title: BC Housing Market, Mortgage Stress, and Tax Changes
+layout: post
+title: BC Housing, Mortgage Stress, and Tax Changes
 date: '2025-12-09 01:43:35 -0800'
 slug: bc-housing-market-mortgage-stress-and-tax-changes
 description: ''
 original_id: 666
+---
 
 As the year winds down, Greater Vancouver’s housing market is cooling in familiar ways. Sales and new listings are trending lower, while inventory remains steady but elevated—now sitting 36% above the 10-year average. November sales fell 15.4% year-over-year, and active listings climbed 14.4%. The benchmark price lowered to $1,123,700, a 3.9% decline from last year, prompting many sellers to recalibrate their expectations. With roughly 8 months of supply on the market, conditions favour prepared buyers, yet waiting too long could mean missing out to those ready to act on well-priced homes. As we move into the holiday season—traditionally the quietest stretch of the calendar—deals are still getting done, but they’re driven by realistic pricing, clear motivation, and negotiation that meets the market where it is.
 

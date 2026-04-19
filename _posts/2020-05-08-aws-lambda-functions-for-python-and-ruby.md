@@ -20,22 +20,22 @@ AWS does much of the heavy-lifting tasks like server provisioning and management
 
 Lambda passes an event parameter (usually of the Python dict type) as well as a context object to the handler—providing methods and properties with information about the invocation, function, and execution environment.
 
-```
+```python
 import json
 import scipy
 
 def lambda_handler(event, context):
-return {
-'statusCode': 200,
-'body': {}
-}
+  return {
+    'statusCode': 200,
+    'body': {}
+  }
 ```
 
 Here are the simple steps to get up and running with AWS:
 
 **1. Install the** [**aws-cli**](https://github.com/aws/aws-cli)
 
-```
+```bash
 $ brew install aws-cli
 $ aws configure
 AWS Access Key ID: <access_key_id>
@@ -47,69 +47,69 @@ $ aws lambda list-functions
 
 **2. Add aws-sdk-lambda to Gemfile**
 
-```
+```ruby
 gem 'aws-sdk-lambda', '~> 1.4', require: false
 ```
 
 **3. Connect to Aws::Lambda::Client**
 
-```
+```ruby
 module Lambda
-class Python
-require 'aws-sdk-lambda'
-include Service
+  class Python
+    require 'aws-sdk-lambda'
+    include Service
 
-REGION = 'us-east-1'.freeze
+    REGION = 'us-east-1'.freeze
 
-def initialize(**params)
-@params = params
-end
+    def initialize(**params)
+      @params = params
+    end
 
-def call
-response = client.invoke(options)
-response_payload = JSON.parse(
-response.payload.string,
-symbolize_names: true
-)
-JSON.parse(response_payload[:body])
-end
+    def call
+      response = client.invoke(options)
+      response_payload = JSON.parse(
+        response.payload.string,
+        symbolize_names: true
+      )
+      JSON.parse(response_payload[:body])
+    end
 
-private
+    private
 
-def request_object
-@request_object ||= Listing.lambda_object.to_json
-end
+    def request_object
+      @request_object ||= Listing.lambda_object.to_json
+    end
 
-def permitted_params
-{
-SortBy: 'time',
-SortOrder: 'descending',
-NumberToGet: 10,
-CustomObject: request_object
-}
-end
+    def permitted_params
+      {
+        SortBy: 'time',
+        SortOrder: 'descending',
+        NumberToGet: 10,
+        CustomObject: request_object
+      }
+    end
 
-def payload
-@payload ||= JSON.generate(permitted_params)
-end
+    def payload
+      @payload ||= JSON.generate(permitted_params)
+    end
 
-def options
-{
-function_name: 'PythonClient',
-invocation_type: 'RequestResponse',
-log_type: 'None',
-payload: payload
-}
-end
+    def options
+      {
+        function_name: 'PythonClient',
+        invocation_type: 'RequestResponse',
+        log_type: 'None',
+        payload: payload
+      }
+    end
 
-def client
-@client ||= Aws::Lambda::Client.new(
-region: REGION,
-access_key_id: :access_key_id,
-secret_access_key: :secret_access_key
-)
-end
-end
+    def client
+      @client ||= Aws::Lambda::Client.new(
+        region: REGION,
+        access_key_id: :access_key_id,
+        secret_access_key: :secret_access_key
+      )
+    end
+  end
 end
 ```
 

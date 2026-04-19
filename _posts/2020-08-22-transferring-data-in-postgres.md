@@ -25,13 +25,13 @@ Heroku has some of the best support of any PaaS, and they have often provided qu
 
 **Step 1: Dump**
 
-```
+```bash
 pg_dump -Fc -t <table> <database> > latest.dump
 ```
 
 **Step 2: Restore**
 
-```
+```bash
 pg_restore -d <database> -t <table> -a latest.dump
 ```
 

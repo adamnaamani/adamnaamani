@@ -10,9 +10,7 @@ image: "/assets/images/posts/vanglo-house/vanglo-house.jpg"
 cover: "/assets/images/posts/vanglo-house/vanglo-house.jpg"
 ---
 
-> "Designed to strike a fine balance between simple elegance and engaging playfulness."
->
-> - Oliver Lang
+> "Designed to strike a fine balance between simple elegance and engaging playfulness." - Oliver Lang
 
 There are exciting development projects under construction in **Vancouver**, with radical architecture that deviates from traditional run-of-the-mill design, livening up the neighborhoods with their presence. The [**Vanglo House**](https://www.vanglo.ca) is an RS zoned property in the **Mount Pleasant** area that possesses such unique and unconventional design, built with advanced green technology, and a reconfigurable floorplan for future occupants. Located just west of **Main Street**, this property was listed for $2,228,000, with 1,850 sqft. of gross living area.
 

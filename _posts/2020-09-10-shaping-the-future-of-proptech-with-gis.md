@@ -34,7 +34,7 @@ Since 1969, they have been helping to solve some of the world's most difficult p
 
 Esri developed and regulates a geospatial vector format called the [shapefile](https://en.wikipedia.org/wiki/Shapefile), which stores information like points, lines, polygons, and properties describing these features. In order to store and work with GIS data, the predominant tool is [PostGIS](https://postgis.net/)—a spatial database extender for PostgreSQL allowing location queries to be run in SQL:
 
-```
+```sql
 SELECT *
 FROM cities, parcels
 WHERE ST_Contains(cities.geom, parcels.geom)
@@ -62,14 +62,14 @@ There is a vast array of languages and libraries to cut and skin geographic data
 
 Python libraries are arguably more capable. Those written in Ruby are no less effective for certain purposes, yet unfortunately not as well maintained. Depending on the complexity of the application you're trying to build, you'll likely be using a combination of tools written in various languages. There are also command line programs like [ogr2ogr](https://gdal.org/programs/ogr2ogr.html) that can convert simple features between file formats. Most of the time, however, the data will end up in a simple collection of feature objects:
 
-```
+```json
 {
-"type": "Feature",
-"geometry": {
-"type": "Polygon",
-"coordinates": []
-},
-"properties": {},
+  "type": "Feature",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": []
+  },
+  "properties": {},
 }
 ```
 

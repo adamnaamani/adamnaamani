@@ -26,7 +26,7 @@ Once the instance is ready, it will provide an endpoint:
 
 If you're using [PostGIS](https://postgis.net/install/), you'll want to create the extension, and prefix the url with postgis:
 
-```
+```sql
 CREATE EXTENSION postgis;
 CREATE EXTENSION postgis_topology;
 CREATE EXTENSION address_standardizer;
@@ -35,7 +35,7 @@ CREATE EXTENSION postgis_tiger_geocoder;postgis://<user>:<pass>@<app>.ca-central
 
 Now in the Rails application's database.yml file, we have to specify the url, database, and migrations\_path. To add replica databases, include replica: true, and ensure it has the same database name:
 
-```
+```yaml
 default: &default
 adapter: postgis
 encoding: unicode
@@ -68,30 +68,30 @@ replica: true
 
 Rails middleware adds basic automatic switching from primary to replica based on the HTTP verb:
 
-```
+```ruby
 module App
-class Application < Rails::Application
-config.active_record.database_selector = {
-delay: 2.seconds
-}
-end
+  class Application < Rails::Application
+    config.active_record.database_selector = {
+      delay: 2.seconds
+    }
+  end
 end
 ```
 
 Now all that's needed is to set up the models by connecting to the new database:
 
-```
+```ruby
 class ApplicationRecord < ActiveRecord::Base
-self.abstract_class = true
+  self.abstract_class = true
 
-connects_to database: {
-writing: :primary,
-reading: :primary_replica
-}
-endclass Geojson < ApplicationRecord
-connects_to database: {
-writing: :rds,
-reading: :rds_replica
-}
+  connects_to database: {
+    writing: :primary,
+    reading: :primary_replica
+  }
+  endclass Geojson < ApplicationRecord
+  connects_to database: {
+    writing: :rds,
+    reading: :rds_replica
+  }
 end
 ```

@@ -9,6 +9,7 @@ group :jekyll_plugins do
 end
 
 gem "webrick", "~> 1.8"
+gem "fastimage", "~> 2.3"
 
 group :development do
   gem "reverse_markdown", "~> 3.0"

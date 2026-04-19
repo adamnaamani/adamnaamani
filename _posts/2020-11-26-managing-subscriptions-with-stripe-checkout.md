@@ -22,7 +22,7 @@ Their ambition (or north star) is to "increase the GDP of the internet", with a 
 
 The focus here will be on the vast array of tools that developers can use to integrate with the battle-tested Stripe Payments platform. Stripe provides services via their API, or a pre-built Checkout page, along with a [Ruby client](https://github.com/stripe/stripe-ruby) that works seamlessly with Rails.
 
-```
+```ruby
 gem 'stripe'
 ```
 
@@ -34,43 +34,43 @@ Considering changing browser standards, device responsiveness, language translat
 
 Bundled with the official Stripe gem is a Session service used to make the API calls. There are a variety of libraries in different languages you can use to interact with Stripe's platform, but in this example we'll create a request in Rails to initialize a new session and return the response that will allow us to redirect to the checkout page.
 
-```
+```ruby
 module Checkout
-class Session
-include Service
+  class Session
+    include Service
 
-def initialize(params:)
-@params = params
-end
+    def initialize(params:)
+      @params = params
+    end
 
-def call
-new_session
-rescue Stripe::StripeError => e
-Rails.logger.error(e)
-end
+    def call
+      new_session
+    rescue Stripe::StripeError => e
+      Rails.logger.error(e)
+    end
 
-private
+    private
 
-def new_session
-session = Stripe::Checkout::Session.create(session_params)
+    def new_session
+      session = Stripe::Checkout::Session.create(session_params)
 
-{ id: session.id }.to_json
-end
+      { id: session.id }.to_json
+    end
 
-def session_params
-{
-mode: 'subscription',
-success_url: "/success?session_id={CHECKOUT_SESSION_ID}",
-cancel_url: "/pricing",
-payment_method_types: ['card'],
-customer: @params[:stripe_customer_id],
-line_items: [{
-quantity: 1,
-price: @params[:price_id]
-}]
-}
-end
-end
+    def session_params
+      {
+        mode: 'subscription',
+        success_url: "/success?session_id={CHECKOUT_SESSION_ID}",
+        cancel_url: "/pricing",
+        payment_method_types: ['card'],
+        customer: @params[:stripe_customer_id],
+        line_items: [{
+            quantity: 1,
+            price: @params[:price_id]
+          }]
+      }
+    end
+  end
 end
 ```
 
@@ -78,22 +78,22 @@ Two things to note in the session request object are :price\_id and :stripe\_cus
 
 The :stripe\_customer\_id follows a similar string representation: cus\_HRMRd2bzzW06AI. It can be stored in your database, and is all that's really required to link your user with Stripe's customer profile. We can then create the checkout session from the front-end, in this case React, with an HTTP client like [axios](https://www.npmjs.com/package/axios), and Stripe's npm package [stripe-js](https://github.com/stripe/stripe-js). You just need your [publishable api key](https://stripe.com/docs/keys) to load the client, and redirect to the checkout page upon successful response.
 
-```
+```js
 import React from 'react'
 import axios from 'axios'
 import { loadStripe } from '@stripe/stripe-js'
 
 const Checkout = () => {
-const stripe = loadStripe('<publishable-api-key>')
+  const stripe = loadStripe('<publishable-api-key>')
 
-const handleSelect = () => {
-axios.post('/checkout', { customerId, priceId })
-.then(({ data }) => {
-stripe.redirectToCheckout({
-sessionId: data.id,
-})
-})
-}
+  const handleSelect = () => {
+    axios.post('/checkout', { customerId, priceId })
+    .then(({ data }) => {
+        stripe.redirectToCheckout({
+            sessionId: data.id,
+        })
+    })
+  }
 }
 ```
 

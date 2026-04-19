@@ -55,9 +55,9 @@ One of the primary benefits of purpose-built rentals is the security of tenure. 
 
 **AmenityValue**
 
-- Energy 90% | $180
-- Gym | $60
-- Yoga studio | $150
-- Storage locker | $160
+- Energy: $180
+- Gym: $60
+- Yoga studio: $150
+- Storage locker: $160
 
 Recent circumstances led me to open up my current home, so my family can have a place to live when they visit. Spire Landing happens to be my next destination, and I couldn't be more appreciative of a company that truly understands and caters to the needs of the Canadian real estate market.
