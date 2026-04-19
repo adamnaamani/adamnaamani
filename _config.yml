@@ -39,18 +39,6 @@ date_format: "%b %-d, %Y"
 
 excerpt_separator: "<!--excerpt-end-->"
 
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      image: /assets/images/og/default.jpg
-  - scope:
-      path: ""
-      type: pages
-    values:
-      image: /assets/images/og/default.jpg
-
 exclude:
   - Gemfile
   - Gemfile.lock
