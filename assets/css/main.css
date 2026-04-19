@@ -130,15 +130,15 @@ body > header nav a {
   border-radius: 4px;
 }
 body > header nav a svg {
-  width: 1.1rem;
-  height: 1.1rem;
+  width: auto;
+  height: 0.95rem;
   display: block;
 }
 body > header nav a:hover { color: var(--accent); }
 
 @media (max-width: 32rem) {
   body > header nav a { width: 1.75rem; height: 1.75rem; }
-  body > header nav a svg { width: 1rem; height: 1rem; }
+  body > header nav a svg { height: 0.85rem; }
 }
 
 body > footer {
@@ -173,6 +173,10 @@ section > header p {
   font-size: 1.05rem;
   margin: 0.5rem 0 0;
   text-wrap: pretty;
+  hyphens: none;
+}
+section > header p a {
+  white-space: nowrap;
 }
 article > header time {
   display: block;
@@ -199,6 +203,9 @@ section > ol {
 section > ol li {
   padding: 0.75rem 0;
   border-bottom: 1px solid var(--rule);
+}
+section > ol li:last-child {
+  border-bottom: 0;
 }
 section > ol a {
   font-size: 1.05rem;

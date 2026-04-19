@@ -1,12 +1,12 @@
 ---
-layout: post
+
+## layout: post
 title: First Time Home Buyer Programs in BC
 date: '2025-10-19 18:45:59 -0700'
 slug: first-time-home-buyer-programs-in-bc
 description: Learn about 2025 first-time home buyer incentives in Canada, including
   the new GST rebate, FHSA, HBP, tax credits, and property transfer tax savings.
 original_id: 163
----
 
 Looking for a local real estate expert or legal representation? [Email](https://adamnaamani.com/contact) or [book a call](https://calendly.com/adamnaamani/30) with me.
 

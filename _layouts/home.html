@@ -2,13 +2,13 @@
 layout: default
 ---
 <section>
-  {%- if page.title or site.description -%}
+  {%- if page.title or site.intro -%}
     <header>
       {%- if page.title -%}
         <h1>{{ page.title | escape }}</h1>
       {%- endif -%}
-      {%- if site.description -%}
-        <p>{{ site.description }}</p>
+      {%- if site.intro -%}
+        <p>{{ site.intro }}</p>
       {%- endif -%}
     </header>
   {%- endif -%}

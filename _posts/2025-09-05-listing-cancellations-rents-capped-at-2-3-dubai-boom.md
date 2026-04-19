@@ -1,5 +1,6 @@
 ---
-layout: post
+
+## layout: post
 title: Listing Cancellations, Rents Capped at 2.3%, Dubai Boom
 date: '2025-09-05 16:47:13 -0700'
 slug: listing-cancellations-rents-capped-at-2-3-dubai-boom
@@ -9,7 +10,6 @@ description: Metro Vancouver housing stabilizes as sales improve but momentum sl
 original_id: 564
 image: "/assets/images/posts/listing-cancellations-rents-capped-at-2-3-dubai-boom/listing-cancellations-canada-2025.jpeg"
 cover: "/assets/images/posts/listing-cancellations-rents-capped-at-2-3-dubai-boom/listing-cancellations-canada-2025.jpeg"
----
 
 With fall approaching, Metro Vancouver’s housing market is stabilizing, though momentum is slowing. Sales are improving, particularly in higher price segments, while inventory remains elevated. Sellers are adjusting expectations, creating conditions that keep values in check and give buyers more options, though properties still require competitive pricing to move.
 
