@@ -5,7 +5,6 @@ date: '2024-12-05 22:35:57 -0800'
 slug: seasonal-slowdown-gst-holiday-dropping-rents
 description: Seasonality played a role in November’s 31% drop in new listings compared
   to October, with 3,784 homes hitting the market, representing a 10% y-o-y increase.
-original_id: 232
 image: "/assets/images/posts/seasonal-slowdown-gst-holiday-dropping-rents/2024-vancouver-real-estate-market-update.jpeg"
 cover: "/assets/images/posts/seasonal-slowdown-gst-holiday-dropping-rents/2024-vancouver-real-estate-market-update.jpeg"
 ---

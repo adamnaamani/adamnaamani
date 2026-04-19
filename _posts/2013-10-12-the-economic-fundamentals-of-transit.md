@@ -5,7 +5,6 @@ date: '2013-10-12 20:21:52 -0700'
 slug: the-economic-fundamentals-of-transit
 description: The seismic demographic shift is fuelling the explosive demand for transit,
   and is shaping the next phase of economic development.
-original_id: 4
 image: "/assets/images/posts/the-economic-fundamentals-of-transit/economic-fundamentals-of-transit.jpg"
 cover: "/assets/images/posts/the-economic-fundamentals-of-transit/economic-fundamentals-of-transit.jpg"
 ---

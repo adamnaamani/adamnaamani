@@ -5,7 +5,6 @@ date: '2024-09-06 06:00:33 -0700'
 slug: third-rate-cut-rent-cap-at-3-multiplex-standardized-designs
 description: The Bank of Canada dropped its rate 25bps for a 3rd consecutive time,
   bringing the prime rate from its peak of 7.2% to 6.45%.
-original_id: 162
 ---
 
 Following a typically slow month for sales, August was trending 26% below the 10-year seasonal average as real estate activity remained subdued. In the Fraser Valley, sales were down even further at 30% from the 10-year average, the second slowest month in a decade for the region. The market remains in a holding pattern as sellers await the resurgence of demand after a quiet summer market. Across all property types, the sales-to-active listings ratio sits in balanced territory at 14.3%, with 9.6% for detached, 18% for attached, and 17.2% for condos. Listing activity has outpaced sales, with the total number of properties currently listed for sale 37% above August 2023, and 20.8% above the 10-year average. The steady supply of new listings and sluggish sales over the first half of the year, resulted in the total inventory of homes for sale rising to its highest level since 2019.

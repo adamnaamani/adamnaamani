@@ -5,7 +5,6 @@ date: '2022-11-17 13:30:00 -0800'
 slug: housing-correction-hits-canadian-proptech
 description: One of the most significant corrections in the history of the Canadian
   housing market continues to challenge the iBuying model...
-original_id: 88
 image: "/assets/images/posts/housing-correction-hits-canadian-proptech/ibuying-proptech-housing-correction.png"
 cover: "/assets/images/posts/housing-correction-hits-canadian-proptech/ibuying-proptech-housing-correction.png"
 ---

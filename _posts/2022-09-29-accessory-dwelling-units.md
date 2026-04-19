@@ -5,7 +5,6 @@ date: '2022-09-29 12:30:00 -0700'
 slug: accessory-dwelling-units
 description: One of the solutions for homeowners that require additional income to
   counteract rising housing costs is through ADU...
-original_id: 84
 image: "/assets/images/posts/accessory-dwelling-units/adu-process.jpg"
 cover: "/assets/images/posts/accessory-dwelling-units/adu-process.jpg"
 ---

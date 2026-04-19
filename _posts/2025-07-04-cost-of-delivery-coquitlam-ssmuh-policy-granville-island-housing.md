@@ -6,7 +6,6 @@ slug: cost-of-delivery-coquitlam-ssmuh-policy-granville-island-housing
 description: The housing market showed early signs of stabilization in June, following
   a subdued start to the year. Residential sales totaled 2,181, down 9.8% from last
   year
-original_id: 529
 image: "/assets/images/posts/cost-of-delivery-coquitlam-ssmuh-policy-granville-island-housing/july-2025-greater-vancouver-real-estate-market-update.png"
 cover: "/assets/images/posts/cost-of-delivery-coquitlam-ssmuh-policy-granville-island-housing/july-2025-greater-vancouver-real-estate-market-update.png"
 ---

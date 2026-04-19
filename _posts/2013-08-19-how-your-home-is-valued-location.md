@@ -5,7 +5,6 @@ date: '2013-08-19 02:26:07 -0700'
 slug: how-your-home-is-valued-location
 description: In my experience as a real estate appraiser, I was responsible for determining
   the most important consideration for homeowners, the value of their home.
-original_id: 1
 image: "/assets/images/posts/how-your-home-is-valued-location/home-valuation-appraisal-location.jpg"
 cover: "/assets/images/posts/how-your-home-is-valued-location/home-valuation-appraisal-location.jpg"
 ---

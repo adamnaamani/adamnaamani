@@ -6,7 +6,6 @@ slug: november-2023-market-update
 description: The total number of properties currently listed for sale is 13.5% above
   last year, 3.7% above the seasonal average. A steady increase in housing inventory
   is...
-original_id: 106
 ---
 
 As the year comes to a close, the Metro Vancouver real estate market sits in balanced territory at 6 months of supply. The total number of properties currently listed for sale is 13.5% above last year, and 3.7% above the seasonal average. Low absorption rates mean the newer listings aren't being bought, as sales were 33% below the 10-year seasonal average in November. Across all detached, attached and apartment property types, the sales-to-active listings ratio is 16.3%; 12.7% for detached homes, 19.8% for attached, and 18.2% for apartments.

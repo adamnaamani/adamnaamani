@@ -5,7 +5,6 @@ date: '2022-06-02 12:45:00 -0700'
 slug: ghost-kitchens
 description: Ghost kitchens enable testing the market at lower risk, supporting the
   myriad of local food startups on a mission to change the world.
-original_id: 75
 image: "/assets/images/posts/ghost-kitchens/coho-collective-cloud-kitchens.webp"
 cover: "/assets/images/posts/ghost-kitchens/coho-collective-cloud-kitchens.webp"
 ---

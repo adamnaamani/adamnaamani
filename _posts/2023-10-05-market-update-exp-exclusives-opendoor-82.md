@@ -5,7 +5,6 @@ date: '2023-10-05 00:00:00 -0700'
 slug: market-update-exp-exclusives-opendoor-82
 description: New listings are finally outpacing sales. Residential home sales for
   the month of September 2023 totalled 1,926—26% below the 10-year seasonal average...
-original_id: 98
 ---
 
 New listings are finally outpacing sales, as price gains relent in Metro Vancouver to begin the typically slower fall season. With two more interest rate announcements for the year on October 25th and December 6th, the longer mortgage rates stay at these elevated levels, the more inventory will continue to build and put downward pressure on prices. Homeowners have been reluctant to list their homes given rates are the highest we've seen in over 10 years, but September data suggests there is renewed interest to participate in the market, with new listing activity rising back in line with long-term historical averages. The outcome is more balanced market conditions overall.

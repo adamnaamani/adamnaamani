@@ -5,7 +5,6 @@ date: '2025-08-15 06:00:40 -0700'
 slug: market-turning-a-corner-foreign-buyer-ban-reform-rents-easing
 description: Greater Vancouver home sales rise, prices ease, Fraser Valley softens,
   rents dip in BC; market rebalancing with suburban strength and policy pressure ahead.
-original_id: 563
 ---
 
 July brought encouraging signs that the Greater Vancouver housing market may finally be turning a corner. Home sales climbed 5% from June to 2,286 units—the highest monthly total we’ve seen so far this year—and are now just 2% below July 2024. While sales remain 14% below the 10-year seasonal average, this steady improvement from earlier months signals growing buyer confidence, especially as borrowing costs stabilize and price adjustments settle in.

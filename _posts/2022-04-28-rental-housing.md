@@ -5,7 +5,6 @@ date: '2022-04-28 13:00:00 -0700'
 slug: rental-housing
 description: There is a clear and continuing shift away from building homes for ownership,
   to purpose-built rental housing.
-original_id: 73
 image: "/assets/images/posts/rental-housing/city-of-vancouver-housing-targets-purpose-built-rentals.png"
 cover: "/assets/images/posts/rental-housing/city-of-vancouver-housing-targets-purpose-built-rentals.png"
 ---

@@ -5,7 +5,6 @@ date: '2024-02-23 18:30:37 -0800'
 slug: new-flipping-tax-and-property-transfer-tax-exemption
 description: 'New housing-related measures unveiled in the provincial government’s
   Budget 2024: BC Home Flipping Tax and adjustments to Property Transfer Tax exemption.'
-original_id: 109
 ---
 
 New housing-related measures were unveiled in the provincial government’s Budget 2024, notably the BC Home Flipping Tax and adjustments to Property Transfer Tax exemptions. While recognizing the provincial government's commitment to enhancing housing attainability, the introduction of another "flipping tax" is anticipated to have a limited impact on housing accessibility.

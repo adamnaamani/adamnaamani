@@ -5,7 +5,6 @@ date: '2021-10-28 12:45:00 -0700'
 slug: nfts-for-real-estate
 description: By nature, an NFTs and blockchain technology would bring greater efficiency
   and transparency to real estate transactions.
-original_id: 57
 image: "/assets/images/posts/nfts-for-real-estate/nft-real-estate-transparency.gif"
 cover: "/assets/images/posts/nfts-for-real-estate/nft-real-estate-transparency.gif"
 ---

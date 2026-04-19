@@ -5,7 +5,6 @@ date: '2021-05-14 01:18:26 -0700'
 slug: urban-fringe-communities-marpole
 description: The neighborhood of Marpole is one of Vancouver's oldest communities—a
   bustling gateway from the south that visitors first encounter via...
-original_id: 48
 image: "/assets/images/posts/urban-fringe-communities-marpole/w68-granville-condos.jpg"
 cover: "/assets/images/posts/urban-fringe-communities-marpole/w68-granville-condos.jpg"
 ---

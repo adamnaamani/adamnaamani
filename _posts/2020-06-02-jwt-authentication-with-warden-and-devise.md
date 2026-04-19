@@ -5,7 +5,6 @@ date: '2020-06-02 18:00:00 -0700'
 slug: jwt-authentication-with-warden-and-devise
 description: Implementing authentication in an app is no small feat, but to be able
   to compete in today's API economy it's imperative that appropriate...
-original_id: 33
 ---
 
 {% raw %}

@@ -5,7 +5,6 @@ date: '2020-05-17 19:26:28 -0700'
 slug: multiple-databases-with-rails-6-and-amazon-rds
 description: Rails 6 shipped with the ability to use multiple RDS databases in one
   application, making automatic connection switching as simple as...
-original_id: 32
 image: "/assets/images/posts/multiple-databases-with-rails-6-and-amazon-rds/rails-6-amazon-rds.png"
 cover: "/assets/images/posts/multiple-databases-with-rails-6-and-amazon-rds/rails-6-amazon-rds.png"
 ---

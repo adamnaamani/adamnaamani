@@ -5,7 +5,6 @@ date: '2025-02-07 20:21:56 -0800'
 slug: tariffs-and-housing-rent-report-capital-gains-tax-deferred
 description: New home listings on the MLS® in Metro Vancouver surged by 46%, the highest
   number of new listings for the month since 2012.
-original_id: 364
 image: "/assets/images/posts/tariffs-and-housing-rent-report-capital-gains-tax-deferred/img-QLrYKX7dISObfc1IB5WQ7BUm.png"
 cover: "/assets/images/posts/tariffs-and-housing-rent-report-capital-gains-tax-deferred/img-QLrYKX7dISObfc1IB5WQ7BUm.png"
 ---

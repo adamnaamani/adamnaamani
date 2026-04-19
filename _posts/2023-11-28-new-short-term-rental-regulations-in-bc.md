@@ -6,7 +6,6 @@ slug: new-short-term-rental-regulations-in-bc
 description: Effective May 1, 2024, the Province of British Columbia has new short-term
   rental rules. Under the new rules, short-term rental platforms will be required
   to...
-original_id: 102
 ---
 
 Effective May 1, 2024, the Province of British Columbia has new short-term rental rules. Under the new rules, short-term rental platforms will be required to share information about short-term listings with the Province, which they can then share with local governments. The Province is implementing a provincial principal residence requirement which will limit short-term rentals to:

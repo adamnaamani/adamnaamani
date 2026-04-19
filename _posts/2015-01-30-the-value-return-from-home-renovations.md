@@ -6,7 +6,6 @@ slug: the-value-return-from-home-renovations
 description: '"Value", in the context of real estate, can be a nebulous term. Homeowners
   often form an insulated opinion on what features or renovations contribute to the
   overall worth of a home.'
-original_id: 14
 image: "/assets/images/posts/the-value-return-from-home-renovations/value-return-home-renos.jpg"
 cover: "/assets/images/posts/the-value-return-from-home-renovations/value-return-home-renos.jpg"
 ---

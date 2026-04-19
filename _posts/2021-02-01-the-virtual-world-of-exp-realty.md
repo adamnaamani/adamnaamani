@@ -5,7 +5,6 @@ date: '2021-02-01 06:00:00 -0800'
 slug: the-virtual-world-of-exp-realty
 description: eXp Realty is the fastest-growing, fully virtual residential real estate
   brokerage in the world. Ranked one of the best places to work...
-original_id: 47
 image: "/assets/images/posts/the-virtual-world-of-exp-realty/exp-realty-canada.png"
 cover: "/assets/images/posts/the-virtual-world-of-exp-realty/exp-realty-canada.png"
 ---

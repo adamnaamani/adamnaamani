@@ -5,7 +5,6 @@ date: '2021-09-23 19:45:00 -0700'
 slug: vancouvers-growth-since-the-70s
 description: One of the more notable financing tools and incentives to green existing
   buildings, is the development of the Home Energy Loan Program...
-original_id: 54
 image: "/assets/images/posts/vancouvers-growth-since-the-70s/vancouver-aerial-70s.jpg"
 cover: "/assets/images/posts/vancouvers-growth-since-the-70s/vancouver-aerial-70s.jpg"
 ---

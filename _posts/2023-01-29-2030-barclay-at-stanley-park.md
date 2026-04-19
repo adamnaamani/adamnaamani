@@ -5,7 +5,6 @@ date: '2023-01-29 18:17:03 -0800'
 slug: 2030-barclay-at-stanley-park
 description: Envisioned by notable Canadian architect Richard Henriquez, 2030 Barclay
   offers a bold take on the art of vertical homes.
-original_id: 92
 image: "/assets/images/posts/2030-barclay-at-stanley-park/2030-barclay-vancouver-canada-architecture.jpg"
 cover: "/assets/images/posts/2030-barclay-at-stanley-park/2030-barclay-vancouver-canada-architecture.jpg"
 ---

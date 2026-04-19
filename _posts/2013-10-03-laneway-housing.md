@@ -5,7 +5,6 @@ date: '2013-10-03 21:30:25 -0700'
 slug: laneway-housing
 description: Although typically classified under names such as coach houses, infill
   housing, and granny flats, Laneway House (LWH) is a great...
-original_id: 3
 image: "/assets/images/posts/laneway-housing/laneway-housing.jpg"
 cover: "/assets/images/posts/laneway-housing/laneway-housing.jpg"
 ---

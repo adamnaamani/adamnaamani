@@ -5,7 +5,6 @@ date: '2021-09-16 05:45:00 -0700'
 slug: telosa-city-of-the-future
 description: The utopian city will house 5 million people, supported by a reformed
   version of capitalism. The economics of how it all works is called...
-original_id: 53
 image: "/assets/images/posts/telosa-city-of-the-future/telosa-city-of-future.jpg"
 cover: "/assets/images/posts/telosa-city-of-the-future/telosa-city-of-future.jpg"
 ---

@@ -6,7 +6,6 @@ slug: price-trends-tenancy-regulation-reversal-30-year-mortgages
 description: Data since the 1980s shows that home prices often decline following BoC
   rate cuts, due to the lag effect and economic deterioration that usually follow
   the peak
-original_id: 161
 ---
 
 With a second rate cut from the Bank of Canada, one might posit this will lead to a sudden boom in the housing market, but history suggests otherwise. Data since the 1980s shows that home prices often decline following BoC rate cuts, due to the lag effect and economic deterioration that usually follow the peak of a cycle. Considering nearly half of all Canadian mortgages are renewing in the next two years, many of which were signed at considerably lower rates, a rebound in home prices may occur further into 2025. The longer the pullback, the longer the resurgence. However, new restrictions on property use add an element of uncertainty to this potential outcome.

@@ -5,7 +5,6 @@ date: '2022-08-18 12:30:00 -0700'
 slug: buying-a-foreclosure
 description: When a homeowner is unable to continue paying their mortgage, their home
   is claimed by their lending institution through a foreclosure...
-original_id: 81
 image: "/assets/images/posts/buying-a-foreclosure/buying-foreclosure-bank-owned-bc.jpg"
 cover: "/assets/images/posts/buying-a-foreclosure/buying-foreclosure-bank-owned-bc.jpg"
 ---

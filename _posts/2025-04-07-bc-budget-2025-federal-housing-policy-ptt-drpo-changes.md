@@ -6,7 +6,6 @@ slug: bc-budget-2025-federal-housing-policy-ptt-drpo-changes
 description: March home sales hit their lowest level since 2019, even as listings
   surged. 2,091 sales last month, down 13.4% from March 2024, 36.8% below 10-year
   average.
-original_id: 430
 image: "/assets/images/posts/bc-budget-2025-federal-housing-policy-ptt-drpo-changes/housing-market-inventory-march-2025.png"
 cover: "/assets/images/posts/bc-budget-2025-federal-housing-policy-ptt-drpo-changes/housing-market-inventory-march-2025.png"
 ---

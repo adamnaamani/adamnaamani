@@ -5,7 +5,6 @@ date: '2017-04-20 01:57:36 -0700'
 slug: shanghai-sprawl
 description: I'm still in awe at how many people inhabit the city of Shanghai, somewhere
   north of 24 million, one of the most populous in the world.
-original_id: 19
 image: "/assets/images/posts/shanghai-sprawl/shanghai-sprawl.jpg"
 cover: "/assets/images/posts/shanghai-sprawl/shanghai-sprawl.jpg"
 ---

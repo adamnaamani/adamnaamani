@@ -4,7 +4,6 @@ title: Mortgage Trends, Rental Regulations, Pre-Offer Period
 date: '2024-04-05 02:14:22 -0700'
 slug: market-mortgage-trends-rental-regulations-pre-offer-period
 description: Market Update, Mortgage Trends, Rental Regulations, Pre-Offer Period
-original_id: 143
 ---
 
 As we enter the Spring housing market, sellers are returning, offering buyers more options. Regionally, sales dropped by 4.7% from March 2023, well below the 10-year seasonal average by 31%. Although sales activity isn't as robust as last year, the number of homes listed for sale increased by 23%, with just over 4 months of supply. Despite the welcomed increase, demand remains strong for well-positioned properties, while others are in a standoff. Greater Vancouver saw a 15.9% rise in newly listed properties, totalling 5,002, and total listings reaching 10,522. The sales-to-active listings ratio stands at 23.8%, with 18.2% for detached homes, 31.3% for attached, and 25.8% for apartments.

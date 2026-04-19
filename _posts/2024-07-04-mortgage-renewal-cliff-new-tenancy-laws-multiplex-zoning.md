@@ -5,7 +5,6 @@ date: '2024-07-04 06:00:43 -0700'
 slug: mortgage-renewal-cliff-new-tenancy-laws-multiplex-zoning
 description: 'According to Desjardins, Canadian households are now the third most
   indebted in the world, and the most indebted of any G7 economy. '
-original_id: 160
 ---
 
 Sales in Greater Vancouver were down 19.1% in June compared to last year—23.6% below the 10-year seasonal average. Despite sellers bringing more inventory to the market and shifting conditions in favor of buyers, transaction volumes typical for this time of year remain elusive. The total number of properties currently listed for sale is 14,182, a 42% increase compared to June 2023 (9,990), and 20.3% above the 10-year seasonal average (11,790).

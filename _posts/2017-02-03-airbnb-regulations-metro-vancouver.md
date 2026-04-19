@@ -5,7 +5,6 @@ date: '2017-02-03 09:05:01 -0800'
 slug: airbnb-regulations-metro-vancouver
 description: As an Airbnb host myself, I had a vested interest in how the forthcoming
   regulations would affect my income stream, as rentals less than 30 days are
-original_id: 17
 ---
 
 A recent meetup brought together Vancouver's Airbnb community, hosted by Aaron Zifkin (Regional Director - Americas Operations) and Alex Dagg (Public Policy Manager, Canada). The event was geared toward shedding some light on where the regulations stand when it comes to listing your place on the company's website, which currently has more than 2 million listings in nearly 200 countries.

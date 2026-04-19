@@ -5,7 +5,6 @@ date: '2025-06-04 19:25:38 -0700'
 slug: gst-rebate-short-term-rental-reform-condoday-granville-plan
 description: Housing activity continued to soften in May, with the fewest home sales
   for the month in two decades outside of May 2020 and the highest resale condo inventory.
-original_id: 496
 ---
 
 Housing activity continued to soften in May, with the fewest home sales for the month in two decades outside of May 2020 and the highest resale condo inventory levels in 15 years. Residential sales totaled 2,228, an 18.5% decline from May 2024 and 30.5% below the 10-year seasonal average. The total number of properties listed for sale rose 25.7% year-over-year to a 10-year high of 17,094.

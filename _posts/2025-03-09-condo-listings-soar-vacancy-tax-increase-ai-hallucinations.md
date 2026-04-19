@@ -5,7 +5,6 @@ date: '2025-03-09 03:54:34 -0700'
 slug: condo-listings-soar-vacancy-tax-increase-ai-hallucinations
 description: Condo Listings Soar, Vacancy Tax Increase, AI Hallucinations, xAI releases
   Grok 3.
-original_id: 397
 image: "/assets/images/posts/condo-listings-soar-vacancy-tax-increase-ai-hallucinations/condo-listings-soar.jpeg"
 cover: "/assets/images/posts/condo-listings-soar-vacancy-tax-increase-ai-hallucinations/condo-listings-soar.jpeg"
 ---

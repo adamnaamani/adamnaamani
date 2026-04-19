@@ -5,7 +5,6 @@ date: '2020-08-22 14:09:16 -0700'
 slug: transferring-data-in-postgres
 description: Postgres has two commands that make it simple to extract a database and
   restore it to another destination, with flexible options...
-original_id: 37
 image: "/assets/images/posts/transferring-data-in-postgres/heroku-postgres-datastore.png"
 cover: "/assets/images/posts/transferring-data-in-postgres/heroku-postgres-datastore.png"
 ---

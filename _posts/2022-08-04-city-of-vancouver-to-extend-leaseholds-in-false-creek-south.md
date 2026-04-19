@@ -5,7 +5,6 @@ date: '2022-08-04 12:30:00 -0700'
 slug: city-of-vancouver-to-extend-leaseholds-in-false-creek-south
 description: The City of Vancouver and the Society have concluded negotiations to
   extend the leases in False Creek South for an additional 20 years.
-original_id: 80
 image: "/assets/images/posts/city-of-vancouver-to-extend-leaseholds-in-false-creek-south/city-of-vancouver-extend-leasehold-false-creek-south.jpg"
 cover: "/assets/images/posts/city-of-vancouver-to-extend-leaseholds-in-false-creek-south/city-of-vancouver-extend-leasehold-false-creek-south.jpg"
 ---

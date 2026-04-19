@@ -5,7 +5,6 @@ date: '2024-02-06 16:15:39 -0800'
 slug: front-running-rates
 description: February 2024 Market Update, Front-Running Interest Rates, U-Haul Migration,
   Foreign Buyer Ban Extension, 2-Year Cap on Migration, and Hotel Comeback.
-original_id: 108
 ---
 
 The housing market is off to a strong start—the prevailing consensus being that buyers are front-running the expectation of lower interest rates, even though it remains speculative at this point. While the key overnight rate was held at 5%, the central bank's discussions are shifting from whether monetary policy is restrictive enough, to how long to maintain the current restrictive stance. Overall, the thesis is that people are making a bet on overwhelming demand, and perpetually low supply. Multiple and subject-free offers are once again taking place for entry-level homes. In situations where a deal looks too good to be true, be prepared to engage in competitive bidding against a multitude of other prospective buyers.

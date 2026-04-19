@@ -5,7 +5,6 @@ date: '2014-06-18 20:09:21 -0700'
 slug: mere-postings-how-the-for-sale-by-owner-alternative-works
 description: A Mere Posting is a property that is listed for sale through the MLS®,
   by a homeowner who is not in an agency relationship with a REALTOR®.
-original_id: 11
 ---
 
 A Mere Posting is a property that is listed for sale through the MLS®, by a homeowner who is not in an agency relationship with a REALTOR®. Although the homeowner must list the property through a licensed REALTOR®, the cost to do so is significantly less, as the agent has a limited involvement for a relatively short and definable time frame. The homeowner is responsible for assuming complete control of the selling process, yet receives the benefit of having their property listed on the national MLS®, reaching a wider audience for a small flat fee.

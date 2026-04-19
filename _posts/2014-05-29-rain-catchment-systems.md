@@ -5,7 +5,6 @@ date: '2014-05-29 16:07:57 -0700'
 slug: rain-catchment-systems
 description: Also known as rain harvesting, it is the accumulation and deposition
   of rainwater for reuse before it reaches the aquifer.
-original_id: 10
 image: "/assets/images/posts/rain-catchment-systems/rain-catchment-systems.jpg"
 cover: "/assets/images/posts/rain-catchment-systems/rain-catchment-systems.jpg"
 ---

@@ -5,7 +5,6 @@ date: '2021-11-25 13:45:00 -0800'
 slug: investor-boom
 description: A revealing report suggests that investors now make up 25% of Ontario
   homebuyers. The number of mortgages taken out by investors doubled...
-original_id: 60
 image: "/assets/images/posts/investor-boom/investors-ontario-real-estate-market.png"
 cover: "/assets/images/posts/investor-boom/investors-ontario-real-estate-market.png"
 ---

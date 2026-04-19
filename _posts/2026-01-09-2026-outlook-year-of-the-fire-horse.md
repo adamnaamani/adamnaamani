@@ -7,7 +7,6 @@ description: 'BC’s 2026 housing outlook: falling assessments, mortgage renewal
   strain, policy clashes, and how uncertainty may create new opportunities.'
 image: "/assets/images/posts/2026-outlook-year-of-the-fire-horse/2026-housing-market-outlook-year-of-the-fire-horse.png"
 cover: "/assets/images/posts/2026-outlook-year-of-the-fire-horse/2026-housing-market-outlook-year-of-the-fire-horse.png"
-original_id: 697
 ---
 
 As 2026 unfolds into the Year of the Fire Horse—traditionally a symbol of momentum, optimism, and renewal—it does so against a backdrop of some of the lowest housing market activity the region has seen in more than two decades. Activity remains subdued following a challenging year marked by hesitant buyers, rising inventory, and modest price adjustments across most property types. Affordability pressures persist, while ongoing policy and legal uncertainty continue to weigh on confidence.

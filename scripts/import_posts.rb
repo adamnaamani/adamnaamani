@@ -72,8 +72,7 @@ posts.each do |post|
     "title"       => title,
     "date"        => published.strftime("%Y-%m-%d %H:%M:%S %z").sub(/\s$/, " -0800"),
     "slug"        => slug,
-    "description" => desc,
-    "original_id" => id
+    "description" => desc
   }
   front["published"] = false if status != 1
 

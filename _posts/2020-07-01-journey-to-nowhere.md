@@ -5,7 +5,6 @@ date: '2020-07-01 22:33:46 -0700'
 slug: journey-to-nowhere
 description: "“Travel isn’t always pretty. It isn’t always comfortable. Sometimes
   it hurts, it even breaks your heart. But that’s okay.” - Anthony Bourdain"
-original_id: 35
 image: "/assets/images/posts/journey-to-nowhere/sierra-west-cabins-1-min.jpg"
 cover: "/assets/images/posts/journey-to-nowhere/sierra-west-cabins-1-min.jpg"
 ---

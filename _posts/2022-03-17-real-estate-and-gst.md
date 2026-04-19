@@ -5,7 +5,6 @@ date: '2022-03-17 12:45:00 -0700'
 slug: real-estate-and-gst
 description: GST applicable to the sale of real estate. The Federal government considers
   a transfer of unoccupied inventory GST payable.
-original_id: 68
 image: "/assets/images/posts/real-estate-and-gst/real-estate-gst-taxman.jpg"
 cover: "/assets/images/posts/real-estate-and-gst/real-estate-gst-taxman.jpg"
 ---

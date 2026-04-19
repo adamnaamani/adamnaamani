@@ -8,6 +8,7 @@ require "date"
 
 ATTACHMENTS_JSON = ENV.fetch("ATTACHMENTS_JSON", File.expand_path("~/Documents/Backups/active_storage_attachments.json"))
 BLOBS_JSON       = ENV.fetch("BLOBS_JSON",       File.expand_path("~/Documents/Backups/active_storage_blobs.json"))
+POSTS_JSON       = ENV.fetch("POSTS_JSON",       File.expand_path("~/Documents/Backups/posts.json"))
 POSTS_DIR        = ENV.fetch("POSTS_DIR",        File.expand_path("../_posts", __dir__))
 IMAGES_DIR       = ENV.fetch("IMAGES_DIR",       File.expand_path("../assets/images/posts", __dir__))
 S3_BUCKET        = ENV.fetch("S3_BUCKET",        "adamnaamani")
@@ -25,29 +26,44 @@ def first_attachment_per_post(path)
     .transform_values { |rows| rows.min_by { |a| a["id"] } }
 end
 
-def index_posts(dir)
-  index = {}
-  Dir.glob(File.join(dir, "*.md")).each do |path|
-    raw = File.read(path)
-    next unless raw.start_with?("---\n")
+def parse_post_file(path)
+  raw = File.read(path)
+  return nil unless raw.start_with?("---\n")
 
-    _, header, body = raw.split(/^---\s*\n/, 3)
-    next if header.nil? || body.nil?
+  _, header, body = raw.split(/^---\s*\n/, 3)
+  return nil if header.nil? || body.nil?
 
-    begin
-      front = YAML.safe_load(header, permitted_classes: [Time, Date], aliases: false) || {}
-    rescue Psych::SyntaxError => e
-      warn "skip #{path}: yaml error #{e.message}"
-      next
-    end
-
-    original_id = front["original_id"]
-    slug        = front["slug"].to_s.strip
-    next if original_id.nil? || slug.empty?
-
-    index[original_id] = { path: path, slug: slug, front: front, body: body }
+  begin
+    front = YAML.safe_load(header, permitted_classes: [Time, Date], aliases: false) || {}
+  rescue Psych::SyntaxError => e
+    warn "skip #{path}: yaml error #{e.message}"
+    return nil
   end
-  index
+
+  slug = front["slug"].to_s.strip
+  return nil if slug.empty?
+
+  { path: path, slug: slug, front: front, body: body }
+end
+
+def index_posts_by_slug(dir)
+  posts = {}
+  Dir.glob(File.join(dir, "*.md")).each do |path|
+    post = parse_post_file(path)
+    next unless post
+    posts[post[:slug]] = post
+  end
+  posts
+end
+
+def record_id_to_slug_from_export(path)
+  return {} unless path && File.exist?(path)
+
+  JSON.parse(File.read(path)).each_with_object({}) do |p, h|
+    id = p["id"]
+    slug = p["slug"].to_s.strip
+    h[id] = slug if id && !slug.empty?
+  end
 end
 
 def download(key, dest)
@@ -90,15 +106,21 @@ def run
 
   puts "attachments: #{ATTACHMENTS_JSON}"
   puts "blobs:       #{BLOBS_JSON}"
+  puts "posts json:  #{POSTS_JSON} #{File.exist?(POSTS_JSON) ? '' : '(missing)'}"
   puts "posts dir:   #{POSTS_DIR}"
   puts "images dir:  #{IMAGES_DIR}"
   puts "s3 bucket:   #{S3_BUCKET} (#{S3_REGION})"
   puts "dry run:     #{DRY_RUN}"
   puts
 
-  blobs_by_id  = load_blobs(BLOBS_JSON)
-  firsts       = first_attachment_per_post(ATTACHMENTS_JSON)
-  posts_by_oid = index_posts(POSTS_DIR)
+  blobs_by_id    = load_blobs(BLOBS_JSON)
+  firsts         = first_attachment_per_post(ATTACHMENTS_JSON)
+  posts_by_slug  = index_posts_by_slug(POSTS_DIR)
+  record_to_slug = record_id_to_slug_from_export(POSTS_JSON)
+
+  if record_to_slug.empty?
+    warn "POSTS_JSON missing or empty — cannot map attachment record_id to post slug"
+  end
 
   downloaded = 0
   skipped    = 0
@@ -115,14 +137,14 @@ def run
       next
     end
 
-    post = posts_by_oid[record_id]
+    slug = record_to_slug[record_id]
+    post = slug && !slug.empty? ? posts_by_slug[slug] : nil
     unless post
-      warn "post #{record_id}: no matching _posts/*.md (blob=#{blob["filename"]})"
+      warn "post #{record_id}: no matching _posts/*.md for slug #{slug.inspect} (set POSTS_JSON from export)"
       missing += 1
       next
     end
 
-    slug     = post[:slug]
     filename = blob["filename"].to_s
     if filename.empty?
       warn "post #{record_id}: blob #{blob["id"]} has no filename"
@@ -130,9 +152,9 @@ def run
       next
     end
 
-    dir      = File.join(IMAGES_DIR, slug)
+    dir      = File.join(IMAGES_DIR, post[:slug])
     dest     = File.join(dir, filename)
-    rel_path = "/assets/images/posts/#{slug}/#{filename}"
+    rel_path = "/assets/images/posts/#{post[:slug]}/#{filename}"
     key      = blob["key"].to_s
 
     if File.exist?(dest) && File.size(dest) > 0

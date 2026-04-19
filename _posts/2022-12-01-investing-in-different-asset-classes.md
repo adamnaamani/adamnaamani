@@ -5,7 +5,6 @@ date: '2022-12-01 13:30:00 -0800'
 slug: investing-in-different-asset-classes
 description: Invest in one of the fastest-growing commercial real estate sectors—an
   asset class consistently in high demand, with low turnover.
-original_id: 89
 image: "/assets/images/posts/investing-in-different-asset-classes/nationwide-car-wash-self-storage-investment.png"
 cover: "/assets/images/posts/investing-in-different-asset-classes/nationwide-car-wash-self-storage-investment.png"
 ---

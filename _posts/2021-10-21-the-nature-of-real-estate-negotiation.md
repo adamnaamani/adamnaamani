@@ -5,7 +5,6 @@ date: '2021-10-21 12:30:00 -0700'
 slug: the-nature-of-real-estate-negotiation
 description: The Real Estate Negotiation Institute (RENI) is the first and leading
   negotiation training company in real estate in North America...
-original_id: 56
 image: "/assets/images/posts/the-nature-of-real-estate-negotiation/CNE1-real-estate-negotiation-certificate.jpg"
 cover: "/assets/images/posts/the-nature-of-real-estate-negotiation/CNE1-real-estate-negotiation-certificate.jpg"
 ---
