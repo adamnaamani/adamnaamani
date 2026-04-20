@@ -140,6 +140,7 @@ body > header nav a svg {
   width: auto;
   height: 0.95rem;
   display: block;
+  overflow: visible;
 }
 body > header nav a:hover { color: var(--accent); }
 
