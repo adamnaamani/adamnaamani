@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Legislation, eXp Exclusives, Opendoor
+title: eXp Realty Exclusives and Opendoor Partnership
 date: '2023-10-05 00:00:00 -0700'
 slug: market-update-exp-exclusives-opendoor-82
 description: New listings are finally outpacing sales. Residential home sales for

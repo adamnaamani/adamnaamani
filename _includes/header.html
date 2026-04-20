@@ -1,32 +1,3 @@
 <header>
   <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title | escape }}</a>
-  <nav aria-label="Primary">
-    {%- for link in site.social.links -%}
-      {%- assign label = "" -%}
-      {%- assign icon = "" -%}
-      {%- if link contains "x.com" or link contains "twitter.com" -%}
-        {%- assign label = "X" -%}
-        {%- assign icon = "x" -%}
-      {%- elsif link contains "linkedin.com" -%}
-        {%- assign label = "LinkedIn" -%}
-        {%- assign icon = "linkedin" -%}
-      {%- elsif link contains "youtube.com" -%}
-        {%- assign label = "YouTube" -%}
-        {%- assign icon = "youtube" -%}
-      {%- elsif link contains "github.com" -%}
-        {%- assign label = "GitHub" -%}
-        {%- assign icon = "github" -%}
-      {%- endif -%}
-      {%- if label != "" -%}
-        <a href="{{ link }}" rel="me noopener" target="_blank" aria-label="{{ label }}" title="{{ label }}">
-          {%- include icons/{{ icon }}.svg -%}
-        </a>
-      {%- endif -%}
-    {%- endfor -%}
-    {%- if site.email -%}
-      <a href="mailto:{{ site.email }}" aria-label="Email" title="Email">
-        {%- include icons/email.svg -%}
-      </a>
-    {%- endif -%}
-  </nav>
 </header>

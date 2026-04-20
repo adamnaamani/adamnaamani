@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Flipping Tax and Property Transfer Tax Exemption
+title: New Flipping Tax and PTT Exemption
 date: '2024-02-23 18:30:37 -0800'
 slug: new-flipping-tax-and-property-transfer-tax-exemption
 description: 'New housing-related measures unveiled in the provincial government’s

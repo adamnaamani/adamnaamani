@@ -119,43 +119,6 @@ body > header > a.site-title {
   overflow: hidden;
   text-overflow: ellipsis;
 }
-body > header nav {
-  display: flex;
-  flex-wrap: nowrap;
-  align-items: center;
-  gap: 0.25rem 0.35rem;
-  flex-shrink: 0;
-}
-body > header nav a {
-  color: var(--fg);
-  text-decoration: none;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 2rem;
-  height: 2rem;
-  border-radius: 4px;
-}
-body > header nav a svg {
-  width: auto;
-  height: 0.95rem;
-  display: block;
-  overflow: visible;
-}
-body > header nav a:hover { color: var(--accent); }
-
-@media (max-width: 32rem) {
-  body > header nav a { width: 1.75rem; height: 1.75rem; }
-  body > header nav a svg { height: 0.85rem; }
-}
-
-@media (max-width: 40rem) {
-  body > header nav a[aria-label="X"],
-  body > header nav a[aria-label="GitHub"] {
-    display: none;
-  }
-}
-
 body > footer {
   padding-block: 0 2.5rem;
   font-size: 0.85rem;

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inventory Spike, New MLS® Statuses, Airbnb Restrictions
+title: New MLS® Statuses and Airbnb Rules
 date: '2024-05-06 16:00:07 -0700'
 slug: inventory-spike-new-mls-statuses-airbnb-restrictions
 description: April experienced a significant spike in new listings at 64% above last

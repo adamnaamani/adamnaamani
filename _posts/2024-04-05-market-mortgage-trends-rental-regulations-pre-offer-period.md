@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mortgage Trends, Rental Regulations, Pre-Offer Period
+title: OSFI Limits and Pre-Offer Period
 date: '2024-04-05 02:14:22 -0700'
 slug: market-mortgage-trends-rental-regulations-pre-offer-period
 description: Market Update, Mortgage Trends, Rental Regulations, Pre-Offer Period

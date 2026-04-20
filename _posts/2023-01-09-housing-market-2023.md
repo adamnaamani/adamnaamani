@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Housing Market 2023
+title: '2023 Outlook'
 date: '2023-01-09 14:00:00 -0800'
 slug: housing-market-2023
 description: Welcome to 2023, the Year of the Rabbit symbolizing peace and prosperity.

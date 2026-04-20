@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BC Housing, Mortgage Stress, and Tax Changes
+title: Mortgage Stress and Tax Changes
 date: '2025-12-09 01:43:35 -0800'
 slug: bc-housing-market-mortgage-stress-and-tax-changes
 description: Greater Vancouver’s market cools into year-end while rates and policy shifts reshape affordability, taxes, and buyer-seller dynamics heading into 2026.
@@ -16,7 +16,7 @@ Across the Fraser Valley, the same pattern repeated: fewer new listings, shrinki
 
 Overall, November was telling. Inventory is falling faster than sales. Ratios are improving. Confidence is building as rates settle. And with 2025 on track to record the fewest transactions since 2000—despite over a million more people living in the region—the backlog of buyers and sellers is growing. This winter may feel calm, but the foundation is forming for a more active, competitive 2026.
 
-**Distressed mortgages on the rise** 
+**Distressed mortgages on the rise**
 
 Canada is seeing a noticeable rise in mortgage stress, with mortgage arrears climbing to the highest level since 2020 at major Canadian banks. According to data from the Canadian Bankers Association, the arrears rate reached around 0.24% in September 2025, up from record lows in mid-2022, and the number of mortgages at least 90 days past due has increased sharply — more than 60% above the lows seen a few years ago. This uptick comes against a backdrop of a shrinking total mortgage stock at banks, which amplifies the impact of each delinquency.
 

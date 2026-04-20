@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seasonal Slowdown, GST Holiday, Dropping Rents
+title: Seasonal Slowdown and GST Holiday
 date: '2024-12-05 22:35:57 -0800'
 slug: seasonal-slowdown-gst-holiday-dropping-rents
 description: Seasonality played a role in November’s 31% drop in new listings compared

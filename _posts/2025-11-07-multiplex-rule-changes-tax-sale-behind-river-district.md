@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Multiplex Changes, Tax Sale, Behind River District
+title: Vancouver Tax Sale
 date: '2025-11-07 18:32:35 -0800'
 slug: multiplex-rule-changes-tax-sale-behind-river-district
 description: Greater Vancouver market steadies as rates drop, Burnaby scales back

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Renewal Cliff, Tenancy Laws, Multiplex Zoning
+title: Renewal Cliff
 date: '2024-07-04 06:00:43 -0700'
 slug: mortgage-renewal-cliff-new-tenancy-laws-multiplex-zoning
 description: 'According to Desjardins, Canadian households are now the third most

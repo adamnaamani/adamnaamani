@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cost of Delivery, Coquitlam SSMUH Policy, Granville Island Housing
+title: Cost of Delivery Crisis
 date: '2025-07-04 21:29:45 -0700'
 slug: cost-of-delivery-coquitlam-ssmuh-policy-granville-island-housing
 description: The housing market showed early signs of stabilization in June, following

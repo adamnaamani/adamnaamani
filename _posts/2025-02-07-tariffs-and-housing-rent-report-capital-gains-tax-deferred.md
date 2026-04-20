@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tariffs and Housing, Rent Report, Capital Gains Tax Deferred
+title: Tariffs Impact on Housing
 date: '2025-02-07 20:21:56 -0800'
 slug: tariffs-and-housing-rent-report-capital-gains-tax-deferred
 description: New home listings on the MLS® in Metro Vancouver surged by 46%, the highest
@@ -37,6 +37,7 @@ Month’s supply of total residential listings:
 **Rents at 18-month low**
 
 Rents are reversing in many major metros, with the average asking rent for all residential properties in Canada falling 4.4% to an 18-month low, according to a [National Rent Report](https://rentals.ca/national-rent-report) from rentals.ca and Urbanation.
+
 **Negotiation masterclass**
 
 Suze Cumming, Canadian negotiation expert and founder of The Nature of Real Estate, described Trump's hardball negotiation tactics as a textbook masterclass:

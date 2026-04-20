@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Provincial and National Housing Market Outlook
+title: Provincial & National Housing Market Outlook
 date: '2025-05-08 20:41:13 -0700'
 slug: provincial-and-national-housing-market-outlook
 description: The housing market is currently in a phase of correction, displaying

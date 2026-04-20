@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " Housing Issues Ahead of Provincial Election"
+title: 'Housing Issues Ahead of Provincial Election'
 date: '2024-10-04 17:48:27 -0700'
 slug: housing-issues-ahead-of-provincial-election
 description: New listings in Greater Vancouver reached the second highest on record

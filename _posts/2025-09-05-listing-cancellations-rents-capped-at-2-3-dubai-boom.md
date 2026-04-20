@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Listing Cancellations, Rents Capped at 2.3%, Dubai Boom
+title: Listing Cancellations
 date: '2025-09-05 16:47:13 -0700'
 slug: listing-cancellations-rents-capped-at-2-3-dubai-boom
 description: Metro Vancouver housing stabilizes as sales improve but momentum slows;

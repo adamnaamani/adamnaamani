@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Condo Listings Soar, Vacancy Tax Increase, AI Hallucinations
+title: Vacancy Tax Increase and AI Hallucinations
 date: '2025-03-09 03:54:34 -0700'
 slug: condo-listings-soar-vacancy-tax-increase-ai-hallucinations
 description: Condo Listings Soar, Vacancy Tax Increase, AI Hallucinations, xAI releases

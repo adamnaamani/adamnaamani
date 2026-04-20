@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unsold Condo Inventory, DCC Overhaul
+title: Unsold Condo Inventory and DCC Overhaul
 date: '2025-10-08 17:14:49 -0700'
 slug: unsold-condo-inventory-dcc-overhaul-industrial-holds-steady
 description: Greater Vancouver home sales rise slightly as inventory hits record highs,

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Demand Surge, BC Home Flipping Tax, New Mortgage for Suites
+title: BC Flipping Tax and Suite Mortgage
 date: '2024-11-13 00:20:44 -0800'
 slug: demand-surge-bc-home-flipping-tax-new-mortgage-for-suites
 description: Buyer demand surges in October 2024. BC home flipping tax passed. New

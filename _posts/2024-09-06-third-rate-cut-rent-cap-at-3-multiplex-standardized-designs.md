@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Third Rate Cut, 3% Rent Cap, Standardized Designs
+title: Mortgage Delinquencies on the Rise
 date: '2024-09-06 06:00:33 -0700'
 slug: third-rate-cut-rent-cap-at-3-multiplex-standardized-designs
 description: The Bank of Canada dropped its rate 25bps for a 3rd consecutive time,

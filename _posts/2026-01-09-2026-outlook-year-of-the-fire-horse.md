@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2026 Outlook—Year of the Fire Horse
+title: '2026 Outlook: Year of the Fire Horse'
 date: '2026-01-09 17:49:26 -0800'
 slug: 2026-outlook-year-of-the-fire-horse
 description: 'BC’s 2026 housing outlook: falling assessments, mortgage renewals, development

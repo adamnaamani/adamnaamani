@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Market Turning a Corner, Foreign Buyer Ban Reform, Rents Easing
+title: Market Turning and Foreign Buyer Ban Reform
 date: '2025-08-15 06:00:40 -0700'
 slug: market-turning-a-corner-foreign-buyer-ban-reform-rents-easing
 description: Greater Vancouver home sales rise, prices ease, Fraser Valley softens,

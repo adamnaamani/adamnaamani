@@ -20,14 +20,6 @@ twitter:
   username: adamknaamani
   card: summary
 
-social:
-  name: Adam Naamani
-  links:
-    - https://x.com/adamknaamani
-    - https://www.linkedin.com/in/adamnaamani
-    - https://www.youtube.com/@adamnaamani
-    - https://github.com/adamnaamani
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

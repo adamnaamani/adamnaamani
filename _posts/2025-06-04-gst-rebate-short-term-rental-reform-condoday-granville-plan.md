@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GST Rebate, Short-Term Rental Reform, CondoDay, Granville Plan
+title: GST Rebate, CondoDay and Granville Plan
 date: '2025-06-04 19:25:38 -0700'
 slug: gst-rebate-short-term-rental-reform-condoday-granville-plan
 description: Housing activity continued to soften in May, with the fewest home sales
