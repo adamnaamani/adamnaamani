@@ -3,8 +3,7 @@ layout: post
 title: Year of the Rabbit
 date: '2023-01-19 14:00:00 -0800'
 slug: year-of-the-rabbit
-description: Lunar New Year celebrations fall on Sunday, January 22nd, 2023, starting
-  the Year of the Rabbit. Rabbits are talented and affectionate and...
+description: Lunar New Year celebrations fall on Sunday, January 22nd, 2023, starting the Year of the Rabbit.
 image: "/assets/images/posts/year-of-the-rabbit/happy-chinese-new-year-2023-year-rabbit-zodiac-vancouver-real-estate.jpg"
 cover: "/assets/images/posts/year-of-the-rabbit/happy-chinese-new-year-2023-year-rabbit-zodiac-vancouver-real-estate.jpg"
 ---

@@ -3,8 +3,7 @@ layout: post
 title: Streaming Real Estate Data
 date: '2020-06-14 20:18:35 -0700'
 slug: streaming-real-estate-data
-description: Big data in real estate is a prime use case for real-time stream processing–a
-  programming paradigm that allows us to instantaneously...
+description: Big data in real estate is a prime use case for real-time stream processing–a programming paradigm.
 image: "/assets/images/posts/streaming-real-estate-data/streaming-real-estate-data-lake-aws.png"
 cover: "/assets/images/posts/streaming-real-estate-data/streaming-real-estate-data-lake-aws.png"
 ---

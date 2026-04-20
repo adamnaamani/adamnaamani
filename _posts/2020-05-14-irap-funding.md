@@ -3,8 +3,7 @@ layout: post
 title: IRAP Funding
 date: '2020-05-14 23:47:14 -0700'
 slug: irap-funding
-description: The Industrial Research Assistance Program (IRAP)—a cross-Canada network
-  of 255 industrial technology advisors, and $300 million in support.
+description: The Industrial Research Assistance Program (IRAP)—a cross-Canada network of 255 industrial technology advisors, and $300 million in support.
 image: "/assets/images/posts/irap-funding/government-of-canada-irap-funding.jpg"
 cover: "/assets/images/posts/irap-funding/government-of-canada-irap-funding.jpg"
 ---

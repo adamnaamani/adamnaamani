@@ -3,8 +3,7 @@ layout: post
 title: eXp Acquires Zoocasa
 date: '2022-06-20 23:13:44 -0700'
 slug: exp-acquires-zoocasa
-description: eXp announces their acquisition of zoocasa.com and its parent company,
-  Zoocasa Realty Inc., effective July 1st, 2022.
+description: eXp announces their acquisition of zoocasa.com and its parent company, Zoocasa Realty Inc., effective July 1st, 2022.
 image: "/assets/images/posts/exp-acquires-zoocasa/zoocasa-exp-acquisition.png"
 cover: "/assets/images/posts/exp-acquires-zoocasa/zoocasa-exp-acquisition.png"
 ---

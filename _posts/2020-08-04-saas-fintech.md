@@ -3,8 +3,7 @@ layout: post
 title: SaaS + Fintech
 date: '2020-08-04 20:01:41 -0700'
 slug: saas-fintech
-description: a16z describes how SaaS businesses can scale to new vertical markets
-  by directly embedding financial products into their software.
+description: a16z describes how SaaS businesses can scale to new vertical markets by directly embedding financial products into their software.
 image: "/assets/images/posts/saas-fintech/saas-fintech-real-estate.png"
 cover: "/assets/images/posts/saas-fintech/saas-fintech-real-estate.png"
 ---

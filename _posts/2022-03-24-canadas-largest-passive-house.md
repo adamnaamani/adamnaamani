@@ -3,8 +3,7 @@ layout: post
 title: Canada's Largest Passive House
 date: '2022-03-24 12:45:00 -0700'
 slug: canadas-largest-passive-house
-description: Spire Landing—Canada's largest passive house by Spire Development—is
-  a 5 storey wood-frame purpose-built rental complex located in Vancouver.
+description: Spire Landing—Canada's largest passive house by Spire Development—is a 5 storey wood-frame purpose-built rental complex located in Vancouver.
 image: "/assets/images/posts/canadas-largest-passive-house/spire-landing-canadas-largest-passive-house.jpg"
 cover: "/assets/images/posts/canadas-largest-passive-house/spire-landing-canadas-largest-passive-house.jpg"
 ---

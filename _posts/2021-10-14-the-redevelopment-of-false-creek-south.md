@@ -3,8 +3,7 @@ layout: post
 title: The Redevelopment of False Creek South
 date: '2021-10-14 05:30:00 -0700'
 slug: the-redevelopment-of-false-creek-south
-description: False Creek South is a unique waterfront community, and the City has
-  an important responsibility in addressing Vancouver’s housing crisis...
+description: False Creek South is a unique waterfront community, and the City has an important responsibility in addressing Vancouver’s housing crisis.
 image: "/assets/images/posts/the-redevelopment-of-false-creek-south/vancouver-false-creek-south-redevelopment.png"
 cover: "/assets/images/posts/the-redevelopment-of-false-creek-south/vancouver-false-creek-south-redevelopment.png"
 ---

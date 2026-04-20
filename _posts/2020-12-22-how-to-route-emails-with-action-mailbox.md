@@ -3,8 +3,7 @@ layout: post
 title: How to Route Emails with Action Mailbox
 date: '2020-12-22 17:23:59 -0800'
 slug: how-to-route-emails-with-action-mailbox
-description: Action Mailbox is a feature released in Rails 6 that allows you to receive
-  emails in your application, using SendGrid's Inbound Parse...
+description: Action Mailbox is a feature released in Rails 6 that allows you to receive emails in your application, using SendGrid's Inbound Parse.
 image: "/assets/images/posts/how-to-route-emails-with-action-mailbox/action-mailbox-dumpster-fire-2020.jpg"
 cover: "/assets/images/posts/how-to-route-emails-with-action-mailbox/action-mailbox-dumpster-fire-2020.jpg"
 ---

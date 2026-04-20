@@ -3,8 +3,7 @@ layout: post
 title: Managing Subscriptions with Stripe Checkout
 date: '2020-11-26 18:45:27 -0800'
 slug: managing-subscriptions-with-stripe-checkout
-description: Founded in 2010 by Patrick and John Collison, Stripe has democratized
-  online payment processing for internet businesses around the world.
+description: Founded in 2010 by Patrick and John Collison, Stripe has democratized online payment processing for internet businesses around the world.
 image: "/assets/images/posts/managing-subscriptions-with-stripe-checkout/stripe-checkout-social.png"
 cover: "/assets/images/posts/managing-subscriptions-with-stripe-checkout/stripe-checkout-social.png"
 ---

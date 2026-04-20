@@ -3,8 +3,7 @@ layout: post
 title: 'How Your Home Is Valued: Physical'
 date: '2013-09-01 21:42:52 -0700'
 slug: how-your-home-is-valued-physical-characteristics
-description: Everything from the orientation of a property to the type of windows
-  or floor level is going to affect the relative value of a home.
+description: Everything from the orientation of a property to the type of windows or floor level is going to affect the relative value of a home.
 image: "/assets/images/posts/how-your-home-is-valued-physical-characteristics/home-value-appraisal.jpg"
 cover: "/assets/images/posts/how-your-home-is-valued-physical-characteristics/home-value-appraisal.jpg"
 ---

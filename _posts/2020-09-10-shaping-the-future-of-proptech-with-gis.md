@@ -3,8 +3,7 @@ layout: post
 title: Shaping the Future of Proptech with GIS
 date: '2020-09-10 22:11:48 -0700'
 slug: shaping-the-future-of-proptech-with-gis
-description: Advancements in computer engineering translate to better tools and opportunities
-  in Proptech. This article is meant to be an exploration in how GIS is...
+description: Advancements in computer engineering translate to better tools and opportunities in Proptech.
 image: "/assets/images/posts/shaping-the-future-of-proptech-with-gis/gis-proptech-sim-city.jpg"
 cover: "/assets/images/posts/shaping-the-future-of-proptech-with-gis/gis-proptech-sim-city.jpg"
 ---

@@ -3,8 +3,7 @@ layout: post
 title: Python for Real Estate
 date: '2020-04-24 22:28:30 -0700'
 slug: python-for-real-estate
-description: Learning Python is important to being a well-rounded engineer, particularly
-  when it comes to the data-intensive industry of Real Estate.
+description: Learning Python is important to being a well-rounded engineer, particularly when it comes to the data-intensive industry of Real Estate.
 image: "/assets/images/posts/python-for-real-estate/python-real-estate.jpg"
 cover: "/assets/images/posts/python-for-real-estate/python-real-estate.jpg"
 ---

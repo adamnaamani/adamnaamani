@@ -3,8 +3,7 @@ layout: post
 title: Public Auction of Lands for Taxes
 date: '2022-11-03 12:30:00 -0700'
 slug: public-auction-of-lands-for-taxes
-description: Every November the City of Vancouver holds a public auction called the
-  "tax sale", where properties with three years of unpaid property taxes
+description: Every November the City of Vancouver holds a public auction called the "tax sale", where properties with three years of unpaid property taxes.
 image: "/assets/images/posts/public-auction-of-lands-for-taxes/real-estate-tax-sale-public-auction-vancouver.jpg"
 cover: "/assets/images/posts/public-auction-of-lands-for-taxes/real-estate-tax-sale-public-auction-vancouver.jpg"
 ---

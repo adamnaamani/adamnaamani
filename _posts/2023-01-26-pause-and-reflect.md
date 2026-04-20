@@ -3,8 +3,7 @@ layout: post
 title: Pause and Reflect
 date: '2023-01-26 14:00:00 -0800'
 slug: pause-and-reflect
-description: Vancouver doesn't have a shadow crisis, Vancouver doesn't have a view
-  cone crisis, Vancouver has a housing crisis.
+description: Vancouver doesn't have a shadow crisis, Vancouver doesn't have a view cone crisis, Vancouver has a housing crisis.
 ---
 
 The Bank of Canada made its first rate hike of the year, increasing its key policy interest rate by [25 basis points](https://www.bankofcanada.ca/2023/01/fad-press-release-2023-01-25/) to 4.5%, sending the prime rate to 6.70%—the highest since March 2001. Adjustable-rate mortgage payments will jump about $14/month, per $100k balance. The federal stress test rate will climb to: 8.7%, 9.2% or higher on HELOCs. 7.5% on the lowest insured variable, and 8.15% on the lowest uninsured variable rate. Markets are pricing in only a 10% chance of another 25 bps on March 8, signalling this may be the last nail in the coffin as they take a pause to monitor how their quantitative tightening filters through the market:

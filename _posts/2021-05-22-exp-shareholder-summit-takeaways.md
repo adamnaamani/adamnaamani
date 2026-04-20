@@ -3,8 +3,7 @@ layout: post
 title: eXp Shareholder Summit Takeaways
 date: '2021-05-22 02:24:06 -0700'
 slug: exp-shareholder-summit-takeaways
-description: eXp World Holdings, Inc. capped off its 2021 shareholder summit in the
-  EXPI Campus, with world-class speakers from all walks of life...
+description: eXp World Holdings, Inc. capped off its 2021 shareholder summit in the EXPI Campus, with world-class speakers from all walks of life.
 image: "/assets/images/posts/exp-shareholder-summit-takeaways/exp-shareholder-summit-dj-jazzy-jeff-2021.png"
 cover: "/assets/images/posts/exp-shareholder-summit-takeaways/exp-shareholder-summit-dj-jazzy-jeff-2021.png"
 ---

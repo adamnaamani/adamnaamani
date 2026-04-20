@@ -3,8 +3,7 @@ layout: post
 title: BC Flipping Tax and Suite Mortgage
 date: '2024-11-13 00:20:44 -0800'
 slug: demand-surge-bc-home-flipping-tax-new-mortgage-for-suites
-description: Buyer demand surges in October 2024. BC home flipping tax passed. New
-  mortgage for additional suites. No GST proposed on new homes under $1 million.
+description: Buyer demand surges in October 2024. BC home flipping tax passed. New mortgage for additional suites. No GST proposed on new homes under $1 million.
 image: "/assets/images/posts/demand-surge-bc-home-flipping-tax-new-mortgage-for-suites/new-mortgage-additional-suites-bc.png"
 cover: "/assets/images/posts/demand-surge-bc-home-flipping-tax-new-mortgage-for-suites/new-mortgage-additional-suites-bc.png"
 ---

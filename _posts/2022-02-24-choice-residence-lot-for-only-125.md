@@ -3,8 +3,7 @@ layout: post
 title: Choice Residence Lot for ONLY $125!
 date: '2022-02-24 14:00:00 -0800'
 slug: choice-residence-lot-for-only-125
-description: Choice Residence Lot for Only $125! Those same properties in Vancouver
-  Heights are now worth around $3 million.
+description: Choice Residence Lot for Only $125! Those same properties in Vancouver Heights are now worth around $3 million.
 image: "/assets/images/posts/choice-residence-lot-for-only-125/east-vancouver-heights-real-estate-ad-archives.jpg"
 cover: "/assets/images/posts/choice-residence-lot-for-only-125/east-vancouver-heights-real-estate-ad-archives.jpg"
 ---

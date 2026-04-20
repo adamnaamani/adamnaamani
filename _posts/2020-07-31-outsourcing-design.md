@@ -3,8 +3,7 @@ layout: post
 title: Outsourcing Design
 date: '2020-07-31 21:18:07 -0700'
 slug: outsourcing-design
-description: Good design is hard to come by––it can be a costly process to find the
-  right candidate. Websites like Dribbble have virtualized...
+description: Good design is hard to come by––it can be a costly process to find the right candidate.
 image: "/assets/images/posts/outsourcing-design/99designs-hundred-block.png"
 cover: "/assets/images/posts/outsourcing-design/99designs-hundred-block.png"
 ---

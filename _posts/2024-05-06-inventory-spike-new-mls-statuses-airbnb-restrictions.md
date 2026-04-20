@@ -3,8 +3,7 @@ layout: post
 title: New MLS® Statuses and Airbnb Rules
 date: '2024-05-06 16:00:07 -0700'
 slug: inventory-spike-new-mls-statuses-airbnb-restrictions
-description: April experienced a significant spike in new listings at 64% above last
-  year, far outpacing the 10-year average by 25%. New MLS® Statuses & Airbnb Restrictions.
+description: April experienced a significant spike in new listings at 64% above last year, far outpacing the 10-year average by 25%.
 ---
 
 April experienced a significant spike in new listings at 64% above last year, far outpacing the 10-year average by 25%. What's surprising is the continued strength of demand along with the fact that some homeowners were compelled to sell in the face of the highest borrowing costs experienced in over a decade. As housing becomes more politicized and anti-capitalist, it is predominantly landlords exiting the rental business, offloading properties they can no longer cash-flow or afford to renew at higher rates. There are still only 4 months supply of homes overall in Greater Vancouver, which had fallen from 5 months in February and 6 months in January.

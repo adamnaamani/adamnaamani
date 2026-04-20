@@ -3,10 +3,7 @@ layout: post
 title: Vancouver's West End Gentrification
 date: '2014-04-30 18:13:03 -0700'
 slug: vancouvers-west-end-gentrification
-description: The West End is one of the most densely populated neighborhoods in Western
-  Canada, comprising 35% of Downtown Vancouver’s peninsula, and with the City under
-  significant development pressure, its existing residential and commercial stock
-  is undergoing a substantial turnover.
+description: The West End is one of the most densely populated neighborhoods in Western Canada, comprising 35% of Downtown Vancouver’s peninsula.
 image: "/assets/images/posts/vancouvers-west-end-gentrification/vancouver-west-end-gentrification.jpg"
 cover: "/assets/images/posts/vancouvers-west-end-gentrification/vancouver-west-end-gentrification.jpg"
 ---

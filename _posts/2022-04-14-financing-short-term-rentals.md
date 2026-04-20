@@ -3,8 +3,7 @@ layout: post
 title: Financing Short-Term Rentals
 date: '2022-04-14 03:49:05 -0700'
 slug: financing-short-term-rentals
-description: As short-term rental platforms have become more ubiquitous, the rules
-  and regulations surrounding this type of occupancy have gotten...
+description: As short-term rental platforms have become more ubiquitous, the rules and regulations surrounding this type of occupancy have changed.
 image: "/assets/images/posts/financing-short-term-rentals/financing-short-term-rentals-airbnb.jpg"
 cover: "/assets/images/posts/financing-short-term-rentals/financing-short-term-rentals-airbnb.jpg"
 ---

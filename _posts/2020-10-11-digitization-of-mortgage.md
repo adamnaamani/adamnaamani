@@ -3,8 +3,7 @@ layout: post
 title: Digitization of Mortgage
 date: '2020-10-11 22:55:02 -0700'
 slug: digitization-of-mortgage
-description: Mortgage Data Standards–analyzing the impact of initiating a system of
-  data standards in the Canadian mortgage industry. Foundation for...
+description: Mortgage Data Standards–analyzing the impact of initiating a system of data standards in the Canadian mortgage industry.
 image: "/assets/images/posts/digitization-of-mortgage/placekey-universal-identifier.png"
 cover: "/assets/images/posts/digitization-of-mortgage/placekey-universal-identifier.png"
 ---

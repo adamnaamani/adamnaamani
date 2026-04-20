@@ -3,8 +3,7 @@ layout: post
 title: Canada Hits Population Milestone
 date: '2023-03-23 12:30:00 -0700'
 slug: canada-hits-population-milestone
-description: Despite concerns following the banking turmoil that higher borrowing
-  rates could make matters worse, the Federal Reserve raised its...
+description: Despite concerns following the banking turmoil that higher borrowing rates could make matters worse, the Federal Reserve raised its rate.
 image: "/assets/images/posts/canada-hits-population-milestone/canada-record-population-growth-stats-canada.jpeg"
 cover: "/assets/images/posts/canada-hits-population-milestone/canada-record-population-growth-stats-canada.jpeg"
 ---

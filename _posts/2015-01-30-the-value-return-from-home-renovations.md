@@ -3,9 +3,7 @@ layout: post
 title: The Value Return From Home Renovations
 date: '2015-01-30 04:51:20 -0800'
 slug: the-value-return-from-home-renovations
-description: '"Value", in the context of real estate, can be a nebulous term. Homeowners
-  often form an insulated opinion on what features or renovations contribute to the
-  overall worth of a home.'
+description: 'Discover the real ROI from home renovations in Vancouver. Learn which upgrades—like kitchens, bathrooms, and maintenance—deliver the best return on investment, and which ones (pools, over-the-top custom work) often fall short. Expert insights on conformity, effective age, and market value to help you renovate smarter.'
 image: "/assets/images/posts/the-value-return-from-home-renovations/value-return-home-renos.jpg"
 cover: "/assets/images/posts/the-value-return-from-home-renovations/value-return-home-renos.jpg"
 ---

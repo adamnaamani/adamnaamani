@@ -3,9 +3,7 @@ layout: post
 title: Listing Cancellations
 date: '2025-09-05 16:47:13 -0700'
 slug: listing-cancellations-rents-capped-at-2-3-dubai-boom
-description: Metro Vancouver housing stabilizes as sales improve but momentum slows;
-  Fraser Valley in buyer’s market; sellers cancel listings; BC sets 2026 rent cap
-  at 2.3%.
+description: Metro Vancouver housing stabilizes as sales improve but momentum slows; Fraser Valley in buyer’s market; sellers cancel listings; BC sets 2026 rent cap.
 image: "/assets/images/posts/listing-cancellations-rents-capped-at-2-3-dubai-boom/listing-cancellations-canada-2025.jpeg"
 cover: "/assets/images/posts/listing-cancellations-rents-capped-at-2-3-dubai-boom/listing-cancellations-canada-2025.jpeg"
 ---

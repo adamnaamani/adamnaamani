@@ -3,8 +3,7 @@ layout: post
 title: A Better Way Home?
 date: '2022-02-28 23:50:31 -0800'
 slug: a-better-way-home
-description: BCREA is recommending a better way home through a "pre-offer period"
-  where offers cannot be presented to a seller on new listings until...
+description: BCREA is recommending a better way home through a "pre-offer period" where offers cannot be presented to a seller on new listings.
 image: "/assets/images/posts/a-better-way-home/a-better-way-home-cooling-off-real-estate-vancouver.jpg"
 cover: "/assets/images/posts/a-better-way-home/a-better-way-home-cooling-off-real-estate-vancouver.jpg"
 ---

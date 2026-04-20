@@ -3,8 +3,7 @@ layout: post
 title: Provincial & National Housing Market Outlook
 date: '2025-05-08 20:41:13 -0700'
 slug: provincial-and-national-housing-market-outlook
-description: The housing market is currently in a phase of correction, displaying
-  trends that are uncharacteristic of what we typically see during the spring season.
+description: The housing market is currently in a phase of correction, displaying trends that are uncharacteristic of what we typically see during the spring season.
 ---
 
 The housing market is currently in a phase of correction, displaying trends that are uncharacteristic of what we typically see during the spring season. Residential sales in Metro Vancouver for April 2025 totaled 2,163, reflecting a significant 23.6% decrease from 2,831 sales recorded in April 2024. This figure is 28.2% below the 10-year seasonal average of 3,014 sales, underscoring a marked slowdown in buyer activity. By property type, detached home sales dropped by 29% to 578, condo sales fell by 20.2% to 1,130, and attached home sales declined by 23.8% to 442. This consistent reduction across all categories suggests that economic uncertainties are prompting buyers to adopt a more cautious approach.

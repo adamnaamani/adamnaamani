@@ -3,8 +3,7 @@ layout: post
 title: Alpine by Beedie
 date: '2022-01-20 13:45:00 -0800'
 slug: alpine-by-beedie
-description: Surrounded by lush forest, Alpine is ten contemporary single-family homes
-  in the Uplands community of the prestigious British Properties.
+description: Surrounded by lush forest, Alpine is ten contemporary single-family homes in the Uplands community of the prestigious British Properties.
 image: "/assets/images/posts/alpine-by-beedie/alpine-by-beedie-british-properties-west-vancouver-map.png"
 cover: "/assets/images/posts/alpine-by-beedie/alpine-by-beedie-british-properties-west-vancouver-map.png"
 ---

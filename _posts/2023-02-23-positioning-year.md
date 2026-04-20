@@ -3,8 +3,7 @@ layout: post
 title: Positioning Year
 date: '2023-02-23 19:33:50 -0800'
 slug: positioning-year
-description: The total number of homes currently listed for sale in Greater Vancouver
-  is up 32% compared to January 2022, and 1.3% higher compared to...
+description: The total number of homes currently listed for sale in Greater Vancouver is up 32% compared to January 2022, and 1.3% higher.
 image: "/assets/images/posts/positioning-year/households-without-mortgage-city-vancouver.jpeg"
 cover: "/assets/images/posts/positioning-year/households-without-mortgage-city-vancouver.jpeg"
 ---

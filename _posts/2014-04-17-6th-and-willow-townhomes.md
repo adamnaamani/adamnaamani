@@ -3,9 +3,7 @@ layout: post
 title: 6th and Willow Townhomes
 date: '2014-04-17 03:36:37 -0700'
 slug: 6th-and-willow-townhomes
-description: A true architectural masterpiece designed by Michael Green Architecture,
-  this breathtaking residence sits on the corner of 6th and Willow in the Fairview
-  area of Vancouver West.
+description: A true architectural masterpiece designed by Michael Green Architecture, this breathtaking residence sits on the corner of 6th and Willow.
 image: "/assets/images/posts/6th-and-willow-townhomes/6th-and-willow-townhomes.jpg"
 cover: "/assets/images/posts/6th-and-willow-townhomes/6th-and-willow-townhomes.jpg"
 ---

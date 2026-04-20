@@ -3,8 +3,7 @@ layout: post
 title: ChatGPT for Real Estate
 date: '2023-03-09 13:30:00 -0800'
 slug: chatgpt-for-real-estate
-description: The new ChatGPT API calls gpt-3.5-turbo, the same model used in their
-  ChatGPT product. It’s their best model for many non-chat use cases.
+description: The new ChatGPT API calls gpt-3.5-turbo, the same model used in their ChatGPT product. It’s their best model for many non-chat use cases.
 image: "/assets/images/posts/chatgpt-for-real-estate/chat-gpt-open-ai-real-estate.webp"
 cover: "/assets/images/posts/chatgpt-for-real-estate/chat-gpt-open-ai-real-estate.webp"
 ---

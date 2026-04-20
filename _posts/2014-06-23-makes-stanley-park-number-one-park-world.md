@@ -3,9 +3,7 @@ layout: post
 title: Stanley Park
 date: '2014-06-23 17:00:54 -0700'
 slug: makes-stanley-park-number-one-park-world
-description: Stanley Park peninsula's unique geography, almost completely surrounded
-  by waters of the Pacific Ocean, provides the perfect landscape for every natural
-  attraction imaginable.
+description: Stanley Park peninsula's unique geography, almost completely surrounded by waters of the Pacific Ocean, provides the perfect landscape.
 image: "/assets/images/posts/makes-stanley-park-number-one-park-world/stanley-park-vancouver.jpg"
 cover: "/assets/images/posts/makes-stanley-park-number-one-park-world/stanley-park-vancouver.jpg"
 ---

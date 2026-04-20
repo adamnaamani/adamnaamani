@@ -3,8 +3,7 @@ layout: post
 title: Journey to Nowhere
 date: '2020-07-01 22:33:46 -0700'
 slug: journey-to-nowhere
-description: "“Travel isn’t always pretty. It isn’t always comfortable. Sometimes
-  it hurts, it even breaks your heart. But that’s okay.” - Anthony Bourdain"
+description: 'Journey through Highway 3 traversing southern British Columbia, dubbed the Scenic Route'
 image: "/assets/images/posts/journey-to-nowhere/sierra-west-cabins-1-min.jpg"
 cover: "/assets/images/posts/journey-to-nowhere/sierra-west-cabins-1-min.jpg"
 ---

@@ -3,8 +3,7 @@ layout: post
 title: Vancouver Tax Sale
 date: '2025-11-07 18:32:35 -0800'
 slug: multiplex-rule-changes-tax-sale-behind-river-district
-description: Greater Vancouver market steadies as rates drop, Burnaby scales back
-  multiplex rules, Vancouver’s tax sale schedule, and challenges facing River District.
+description: Greater Vancouver market steadies as rates drop, Burnaby scales back multiplex rules, Vancouver’s tax sale schedule, and challenges facing River District.
 image: "/assets/images/posts/multiplex-rule-changes-tax-sale-behind-river-district/greater-vancouver-market-update-nov-2025.jpeg"
 cover: "/assets/images/posts/multiplex-rule-changes-tax-sale-behind-river-district/greater-vancouver-market-update-nov-2025.jpeg"
 ---

@@ -3,8 +3,7 @@ layout: post
 title: Cooling Off
 date: '2021-11-18 13:45:00 -0800'
 slug: cooling-off
-description: A cooling off period gives buyers time to undertake due diligence when
-  making a property purchase and provides the right to withdraw from...
+description: A cooling off period gives buyers time to undertake due diligence when making a property purchase and provides the right to withdraw.
 image: "/assets/images/posts/cooling-off/bcfsa-cooling-off-real-estate.jpg"
 cover: "/assets/images/posts/cooling-off/bcfsa-cooling-off-real-estate.jpg"
 ---

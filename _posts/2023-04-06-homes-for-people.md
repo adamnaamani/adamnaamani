@@ -3,8 +3,7 @@ layout: post
 title: Homes for People
 date: '2023-04-06 12:45:00 -0700'
 slug: homes-for-people
-description: British Columbia's government unveiled a multi-billion dollar plan to
-  tackle the province's housing crisis, called Homes for People.
+description: British Columbia's government unveiled a multi-billion dollar plan to tackle the province's housing crisis, called Homes for People.
 image: "/assets/images/posts/homes-for-people/homes-for-people-vancouver-bc.jpeg"
 cover: "/assets/images/posts/homes-for-people/homes-for-people-vancouver-bc.jpeg"
 ---

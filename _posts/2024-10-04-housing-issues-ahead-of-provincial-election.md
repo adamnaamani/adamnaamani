@@ -1,10 +1,9 @@
 ---
 layout: post
-title: 'Housing Issues Ahead of Provincial Election'
+title: Housing Issues Ahead of Provincial Election
 date: '2024-10-04 17:48:27 -0700'
 slug: housing-issues-ahead-of-provincial-election
-description: New listings in Greater Vancouver reached the second highest on record
-  for the month of September. This is the 5th straight month of declining sales.
+description: New listings in Greater Vancouver reached the second highest on record for the month of September. This is the 5th straight month of declining sales.
 ---
 
 New listings in Greater Vancouver reached the second highest on record for the month of September. Three consecutive rate cuts from the Bank of Canada had the effect of spurring on increased inventory as opposed to demand, with buyers remaining cautious going into the fall market. Home sales declined 3.8% year-over-year, which continued to trend 26% below the 10-year seasonal average. This is the 5th straight month of declining sales in the region. GVR's director of economics and data analytics remains optimistic that sales will still result higher towards the end of 2024. The total number of properties available for sale is 14,932, around 24% above the 10-year average. The sales-to-active listings ratio is at 12.8%; 9.1% for detached homes, 16.9% for attached, and 14.6% for apartments.

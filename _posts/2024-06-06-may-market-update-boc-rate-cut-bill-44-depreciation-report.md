@@ -3,8 +3,7 @@ layout: post
 title: Bill 44 and Mandatory Depreciation Report
 date: '2024-06-06 14:58:49 -0700'
 slug: may-market-update-boc-rate-cut-bill-44-depreciation-report
-description: Currently, there are around 13,600 homes actively listed in Greater Vancouver,
-  with new listings up 12.6% compared to last year. May sales were down 19.6%.
+description: Currently, there are around 13,600 homes actively listed in Greater Vancouver, with new listings up 12.6% compared to last year. May sales were down 19.6%.
 image: "/assets/images/posts/may-market-update-boc-rate-cut-bill-44-depreciation-report/missing-middle-multi-plex-housing-bc.png"
 cover: "/assets/images/posts/may-market-update-boc-rate-cut-bill-44-depreciation-report/missing-middle-multi-plex-housing-bc.png"
 ---

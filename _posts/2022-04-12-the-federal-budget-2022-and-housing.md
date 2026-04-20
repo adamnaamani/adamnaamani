@@ -3,8 +3,7 @@ layout: post
 title: The Federal Budget 2022 and Housing
 date: '2022-04-12 01:05:47 -0700'
 slug: the-federal-budget-2022-and-housing
-description: 'The Federal Budget 2022 addresses housing affordability in three categories:
-  building, saving and anti-flipping/foreign investment.'
+description: 'The Federal Budget 2022 addresses housing affordability in three categories: building, saving and anti-flipping/foreign investment.'
 image: "/assets/images/posts/the-federal-budget-2022-and-housing/federal-budget-2022-housing.jpg"
 cover: "/assets/images/posts/the-federal-budget-2022-and-housing/federal-budget-2022-housing.jpg"
 ---

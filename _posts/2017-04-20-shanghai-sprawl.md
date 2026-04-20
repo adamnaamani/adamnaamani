@@ -3,8 +3,7 @@ layout: post
 title: Shanghai Sprawl
 date: '2017-04-20 01:57:36 -0700'
 slug: shanghai-sprawl
-description: I'm still in awe at how many people inhabit the city of Shanghai, somewhere
-  north of 24 million, one of the most populous in the world.
+description: 'Shanghai sprawl from the Oriental Pearl Tower: A striking view of one of the world’s most populous cities (24+ million people), endless high-rises, heavy congestion, and extreme air pollution that once pushed the AQI beyond hazardous levels.'
 image: "/assets/images/posts/shanghai-sprawl/shanghai-sprawl.jpg"
 cover: "/assets/images/posts/shanghai-sprawl/shanghai-sprawl.jpg"
 ---

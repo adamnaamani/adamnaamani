@@ -1,10 +1,9 @@
 ---
 layout: post
-title: '2023 Outlook'
+title: 2023 Outlook
 date: '2023-01-09 14:00:00 -0800'
 slug: housing-market-2023
-description: Welcome to 2023, the Year of the Rabbit symbolizing peace and prosperity.
-  2022 was all about the three ‘i’s—inflation, interest rates, and...
+description: Welcome to 2023, the Year of the Rabbit symbolizing peace and prosperity. 2022 was all about the three i’s—inflation, interest, and inventory.
 image: "/assets/images/posts/housing-market-2023/freddie-mac-young-adult-co-borrower.png"
 cover: "/assets/images/posts/housing-market-2023/freddie-mac-young-adult-co-borrower.png"
 ---

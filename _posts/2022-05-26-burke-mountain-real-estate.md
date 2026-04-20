@@ -3,8 +3,7 @@ layout: post
 title: Burke Mountain Real Estate
 date: '2022-05-26 12:45:00 -0700'
 slug: burke-mountain-real-estate
-description: Burke Mountain is one of the Tri-Cities' fastest growing communities—located
-  in Northeast Coquitlam, British Columbia.
+description: Burke Mountain is one of the Tri-Cities' fastest growing communities—located in Northeast Coquitlam, British Columbia.
 image: "/assets/images/posts/burke-mountain-real-estate/burke-mountain-median-sales-price-april-2022-1.png"
 cover: "/assets/images/posts/burke-mountain-real-estate/burke-mountain-median-sales-price-april-2022-1.png"
 ---

@@ -3,8 +3,7 @@ layout: post
 title: Affordable Housing Choices
 date: '2022-06-30 12:30:00 -0700'
 slug: affordable-housing-choices
-description: According to the Affordable Housing Choices Interim Rezoning Policy,
-  projects must demonstrate an enhanced level of affordability beyond...
+description: According to the Affordable Housing Choices Interim Rezoning Policy, projects must demonstrate an enhanced level of affordability.
 image: "/assets/images/posts/affordable-housing-choices/vancouver-affordable-housing-rezoning-policy.png"
 cover: "/assets/images/posts/affordable-housing-choices/vancouver-affordable-housing-rezoning-policy.png"
 ---

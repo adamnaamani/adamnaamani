@@ -3,8 +3,7 @@ layout: post
 title: AWS Lambda Functions for Python and Ruby
 date: '2020-05-08 19:09:14 -0700'
 slug: aws-lambda-functions-for-python-and-ruby
-description: The aws-sdk-lambda library makes serverless computing dead simple, by
-  providing a gateway that connects to a Lambda function.
+description: The aws-sdk-lambda library makes serverless computing dead simple, by providing a gateway that connects to a Lambda function.
 image: "/assets/images/posts/aws-lambda-functions-for-python-and-ruby/aws-lambda-ruby-python.png"
 cover: "/assets/images/posts/aws-lambda-functions-for-python-and-ruby/aws-lambda-ruby-python.png"
 ---

@@ -3,8 +3,7 @@ layout: post
 title: Competing in eXp's Inaugural Hackathon
 date: '2024-11-05 03:52:21 -0800'
 slug: competing-in-exp-s-inaugural-hackathon
-description: eXp Realty hosted their inaugural Hackathon in Miami on October 26, 2024.
-  I competed among 60+ innovators using OpenAI's latest technology.
+description: eXp Realty hosted their inaugural Hackathon in Miami on October 26, 2024. I competed among 60+ innovators using OpenAI's latest technology.
 image: "/assets/images/posts/competing-in-exp-s-inaugural-hackathon/expcon-miami-hackathon-2024.png"
 cover: "/assets/images/posts/competing-in-exp-s-inaugural-hackathon/expcon-miami-hackathon-2024.png"
 ---

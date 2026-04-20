@@ -3,8 +3,7 @@ layout: post
 title: Excessive Exuberance
 date: '2022-11-10 13:30:00 -0800'
 slug: excessive-exuberance
-description: A company named Jupe is "revolutionizing" porta potties with what they
-  call The Portal. If it's reminiscent of Elon Musk's Cybertruck...
+description: A company named Jupe is "revolutionizing" porta potties with what they call The Portal.
 image: "/assets/images/posts/excessive-exuberance/the-portal-excessive-exuberance.jpg"
 cover: "/assets/images/posts/excessive-exuberance/the-portal-excessive-exuberance.jpg"
 ---

@@ -3,8 +3,7 @@ layout: post
 title: Background Processing with RETS and Sidekiq
 date: '2020-05-06 01:01:18 -0700'
 slug: background-processing-with-rets-and-sidekiq
-description: I've been predominantly working with two libraries that tie perfectly
-  into Rails' ActiveJob — Resque and Sidekiq. My preference leans towards Sidekiq
+description: 'Background processing in Rails with RETS and Sidekiq: How to efficiently import thousands of MLS real estate listings using ActiveJob, Sidekiq queues, RETS client, and proper job nesting for better performance and error handling.'
 image: "/assets/images/posts/background-processing-with-rets-and-sidekiq/sidekiq-rets.png"
 cover: "/assets/images/posts/background-processing-with-rets-and-sidekiq/sidekiq-rets.png"
 ---

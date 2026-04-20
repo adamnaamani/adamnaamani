@@ -3,8 +3,7 @@ layout: post
 title: District of North Vancouver Real Estate
 date: '2022-06-16 12:30:00 -0700'
 slug: district-of-north-vancouver-real-estate
-description: Deep Cove is a small, waterfront-oriented village centre at the eastern
-  edge of the District of North Vancouver, nestled within the forests.
+description: Deep Cove is a small, waterfront-oriented village centre at the eastern edge of the District of North Vancouver, nestled within the forests.
 image: "/assets/images/posts/district-of-north-vancouver-real-estate/2552-panorama-drive.jpeg"
 cover: "/assets/images/posts/district-of-north-vancouver-real-estate/2552-panorama-drive.jpeg"
 ---

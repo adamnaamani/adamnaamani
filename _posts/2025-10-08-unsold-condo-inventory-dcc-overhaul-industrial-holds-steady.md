@@ -3,8 +3,7 @@ layout: post
 title: Unsold Condo Inventory and DCC Overhaul
 date: '2025-10-08 17:14:49 -0700'
 slug: unsold-condo-inventory-dcc-overhaul-industrial-holds-steady
-description: Greater Vancouver home sales rise slightly as inventory hits record highs,
-  prices ease, and developers face growing unsold condo supply across the region.
+description: Greater Vancouver home sales rise slightly as inventory hits record highs, prices ease, and developers face growing unsold condo supply across the region.
 ---
 
 As prices ease, inventory hovers near record highs, and borrowing costs improve, buyers are finding new opportunities in the fall market. Greater Vancouver home sales in September reached 1,875, up 1.2% from last year but 20% below the 10-year average. Active listings rose to more than 17,000, the highest level since 2019. While that may seem like a sharp increase, much of this inventory comes from homes returning to market at lower price points, which will define the months ahead. The composite benchmark price now sits at $1.14 million, down just over 3% year-over-year. Detached homes saw the largest adjustment, with prices slipping about 4.4% compared with last year. Townhomes and condos followed similar patterns, each down roughly 3–4%. Resale inventory in the condo market is at its highest level since September 2012.

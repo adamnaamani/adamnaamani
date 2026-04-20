@@ -3,8 +3,7 @@ layout: post
 title: The Park Theatre in Cambie Village
 date: '2021-08-26 05:45:00 -0700'
 slug: the-park-theatre-in-cambie-village
-description: Park Theatre is a landmark cinema in Cambie Village, also known as the
-  “Heart of Vancouver”, in one of the city’s primary heritage...
+description: Park Theatre is a landmark cinema in Cambie Village, also known as the Heart of Vancouver.
 image: "/assets/images/posts/the-park-theatre-in-cambie-village/park-theatre-cambie.jpg"
 cover: "/assets/images/posts/the-park-theatre-in-cambie-village/park-theatre-cambie.jpg"
 ---
