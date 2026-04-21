@@ -13,6 +13,13 @@ layout: default
     </header>
   {%- endif -%}
 
+  <div class="home-photo-row" role="presentation">
+    <img src="{{ '/assets/images/home/adam-naamani-university-townhouse.png' | relative_url }}" alt="Adam Naamani outdoors in front of a building entrance." loading="lazy" decoding="async">
+    <img src="{{ '/assets/images/home/exp-hackathon-miami.png' | relative_url }}" alt="eXpCON 2024 Hackathon in Miami." loading="lazy" decoding="async">
+    <img src="{{ '/assets/images/home/adam-naamani-business.png' | relative_url }}" alt="Adam Naamani in business attire." loading="lazy" decoding="async">
+    <img src="{{ '/assets/images/home/kotc-nanaimo.png' | relative_url }}" alt="Mixed martial arts bout in a cage, viewed from the audience." loading="lazy" decoding="async">
+  </div>
+
   {{ content }}
 
   {%- if site.posts.size > 0 -%}

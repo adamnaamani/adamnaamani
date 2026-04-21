@@ -160,7 +160,42 @@ section.home > header p a {
   white-space: normal;
   overflow-wrap: break-word;
 }
+
+section.home .home-photo-row {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.5rem;
+  margin: 0 0 2.5rem;
+  width: 100%;
+}
+section.home .home-photo-row img {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-radius: 6px;
+  margin: 0;
+  background: var(--code-bg);
+  box-shadow:
+    0 1px 2px rgba(0, 0, 0, 0.04),
+    0 4px 16px rgba(0, 0, 0, 0.05);
+}
+@media (prefers-color-scheme: dark) {
+  section.home .home-photo-row img {
+    box-shadow:
+      0 0 0 1px rgba(255, 255, 255, 0.04),
+      0 2px 20px rgba(0, 0, 0, 0.5);
+  }
+}
 @media (max-width: 40rem) {
+  section.home .home-photo-row {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    width: 100vw;
+    margin-left: calc(50% - 50vw);
+    margin-right: calc(50% - 50vw);
+    padding-left: max(1.5rem, env(safe-area-inset-left, 0px));
+    padding-right: max(1.5rem, env(safe-area-inset-right, 0px));
+    box-sizing: border-box;
+  }
   section.home > header {
     width: 100vw;
     margin-left: calc(50% - 50vw);
