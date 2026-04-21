@@ -162,14 +162,21 @@ section.home > header p a {
 }
 
 section.home .home-photo-row {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: stretch;
   gap: 0.5rem;
   margin: 0 0 2.5rem;
   width: 100%;
+  min-width: 0;
 }
 section.home .home-photo-row img {
+  flex: 1 1 0%;
+  min-width: 0;
   width: 100%;
+  max-width: 100%;
+  height: auto;
   aspect-ratio: 1;
   object-fit: cover;
   border-radius: 6px;
@@ -188,13 +195,19 @@ section.home .home-photo-row img {
 }
 @media (max-width: 40rem) {
   section.home .home-photo-row {
+    display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
+    flex-wrap: unset;
     width: 100vw;
     margin-left: calc(50% - 50vw);
     margin-right: calc(50% - 50vw);
     padding-left: max(1.5rem, env(safe-area-inset-left, 0px));
     padding-right: max(1.5rem, env(safe-area-inset-right, 0px));
     box-sizing: border-box;
+  }
+  section.home .home-photo-row img {
+    flex: none;
+    min-width: 0;
   }
   section.home > header {
     width: 100vw;
