@@ -143,6 +143,12 @@ article > header {
 section > header {
   margin-bottom: 2rem;
 }
+section.home {
+  --home-block-space: 3rem;
+}
+section.home > header {
+  margin-bottom: var(--home-block-space);
+}
 section > header h1,
 article > header h1 {
   font-weight: 700;
@@ -157,7 +163,7 @@ section.home > header p {
   color: var(--fg);
   font-size: 1.05rem;
   line-height: 1.5;
-  margin: 0.3rem 0 0;
+  margin: 0.75rem 0 0;
   text-wrap: pretty;
   hyphens: none;
   max-width: none;
@@ -174,7 +180,7 @@ section.home .home-photo-row {
   flex-wrap: nowrap;
   align-items: stretch;
   gap: 0.5rem;
-  margin: 0 0 2rem;
+  margin: 0 0 var(--home-block-space);
   width: 100%;
   min-width: 0;
 }
@@ -244,8 +250,8 @@ section > h2 {
 section.home .home-photo-row ~ h2:first-of-type {
   margin-top: 0;
 }
-section > ol + h2 {
-  margin-top: 2rem;
+section.home > ol + h2 {
+  margin-top: var(--home-block-space);
 }
 section > ol {
   list-style: none;
@@ -255,6 +261,9 @@ section > ol {
 section > ol li {
   padding: 0.75rem 0;
   border-bottom: 1px solid var(--rule);
+}
+section.home > ol li {
+  padding: 1rem 0;
 }
 section > ol li:last-child {
   border-bottom: 0;
