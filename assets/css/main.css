@@ -21,7 +21,7 @@
 *, *::before, *::after { box-sizing: border-box; }
 
 html {
-  font-size: 112.5%;
+  font-size: 110%;
   -webkit-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -164,7 +164,6 @@ section.home > header p {
   font-size: 1.05rem;
   line-height: 1.5;
   margin: 0.75rem 0 0;
-  text-wrap: pretty;
   hyphens: none;
   max-width: none;
   width: 100%;
@@ -468,7 +467,7 @@ article > nav small {
 article > nav span { color: var(--fg); }
 
 @media (max-width: 560px) {
-  html { font-size: 106.25%; }
+  html { font-size: 94.5%; }
   body > header { padding-block: 2rem; }
   body > main  { padding-block: 1rem 2rem; }
 
