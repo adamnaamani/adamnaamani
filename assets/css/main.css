@@ -184,10 +184,8 @@ section.home .home-photo-row {
   min-width: 0;
 }
 article .photo-row {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  align-items: flex-start;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 0.5rem;
   margin: 1.5rem 0;
   width: 100%;
@@ -208,21 +206,42 @@ section.home .home-photo-row img {
     0 1px 2px rgba(0, 0, 0, 0.04),
     0 4px 16px rgba(0, 0, 0, 0.05);
 }
-article .photo-row img {
-  flex: 1 1 0%;
+article .photo-row > a.photo-full {
   min-width: 0;
+  cursor: zoom-in;
+  text-decoration: none;
+  color: inherit;
+}
+article .photo-row > a.photo-full:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: 8px;
+}
+article .photo-row > a.photo-full img {
+  display: block;
   width: 100%;
   max-width: 100%;
   height: auto;
-  aspect-ratio: 16 / 10;
+  aspect-ratio: 1 / 1;
   object-fit: cover;
   object-position: top center;
-  border-radius: 6px;
+  border-radius: 2px;
   margin: 0;
   background: var(--code-bg);
   box-shadow:
     0 1px 2px rgba(0, 0, 0, 0.04),
     0 4px 16px rgba(0, 0, 0, 0.05);
+}
+article .photo-grid > a.photo-full {
+  min-width: 0;
+  cursor: zoom-in;
+  text-decoration: none;
+  color: inherit;
+}
+article .photo-grid > a.photo-full:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: 8px;
 }
 article .photo-grid {
   display: grid;
@@ -230,13 +249,14 @@ article .photo-grid {
   gap: 0.5rem;
   margin: 1.5rem 0;
 }
-article .photo-grid img {
+article .photo-grid > a.photo-full img {
+  display: block;
   width: 100%;
   height: auto;
-  aspect-ratio: 16 / 10;
+  aspect-ratio: 1 / 1;
   object-fit: cover;
   object-position: top center;
-  border-radius: 6px;
+  border-radius: 2px;
   margin: 0;
   background: var(--code-bg);
   box-shadow:
@@ -249,12 +269,12 @@ article .photo-grid img {
       0 0 0 1px rgba(255, 255, 255, 0.04),
       0 2px 20px rgba(0, 0, 0, 0.5);
   }
-  article .photo-row img {
+  article .photo-row > a.photo-full img {
     box-shadow:
       0 0 0 1px rgba(255, 255, 255, 0.04),
       0 2px 20px rgba(0, 0, 0, 0.5);
   }
-  article .photo-grid img {
+  article .photo-grid > a.photo-full img {
     box-shadow:
       0 0 0 1px rgba(255, 255, 255, 0.04),
       0 2px 20px rgba(0, 0, 0, 0.5);
@@ -283,8 +303,10 @@ article .photo-grid img {
     flex: none;
     min-width: 0;
   }
-  article .photo-row img {
-    flex: none;
+  article .photo-row > a.photo-full {
+    min-width: 0;
+  }
+  article .photo-row > a.photo-full img {
     min-width: 0;
   }
   section.home > header {
