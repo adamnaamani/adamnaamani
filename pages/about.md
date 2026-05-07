@@ -11,29 +11,30 @@ title: About
 5. [Photos](#photos)
 
 ### Entrepreneur {#entrepreneur}
-In February 2023 I founded Resider Inc.—a real estate portal serving Greater Vancouver, Fraser Valley, and Chilliwack. It was created to remedy information asymmetry and empower real estate consumers with transparency. I coded the initial version in PHP using municipal Open Data, and the company was then formed with three co-founders at [Launch Academy](https://www.launchacademy.ca/)—Western Canada's leading tech incubator and accelerator where ideas are vetted, business models are tested, and successes are celebrated.
+- Founded Resider Inc. (February 2023), a real estate portal for British Columbia that remedied information asymmetry.
+- Coded the initial version in PHP, incorporating municipal Open Data and Geographic Information Systems.
+- Formed the company with three co-founders at [Launch Academy](https://www.launchacademy.ca/), where ideas are vetted, business models are tested, and successes are celebrated.
 
 ### Real Estate Professional {#real-estate-professional}
-I studied the Bachelor of Business in Real Estate at the University of British Columbia, which provided the academic foundation for a career in valuation and sales.
-
-Following that, I joined the largest national appraisal firm in Canada after attaining my DAR (Designated Appraiser Residential), where I appraised more than 3,000 residential properties throughout the Lower Mainland, representing an aggregate value of approximately $1.6 billion. This work developed deep expertise in market analysis, pricing dynamics, and asset valuation.
-
-I later transitioned into residential sales as a Realtor with the largest independent cloud-based real estate brokerage at the time, [eXp Realty](/the-virtual-world-of-exp-realty/). In November 2024, I ranked in the top 10 out of 1,740 agents based on sales volume, placing among the top producers in the province.
+- Bachelor of Business in Real Estate at UBC, building an academic foundation in valuation and sales.
+- Earned DAR (Designated Appraiser Residential) and joined Canada’s largest national appraisal firm.
+- Appraised 3,000+ residential properties across the Lower Mainland, representing approximately $1.6B in aggregate value.
+- Developed deep expertise in market analysis, pricing dynamics, and asset valuation through high-volume appraisal work.
+- Transitioned into residential sales as a Realtor with [eXp Realty](/the-virtual-world-of-exp-realty/), the largest independent cloud-based brokerage at the time.
+- Ranked in the top 10 of 1,740 agents in British Columbia by sales volume (November 2024), placing among the province’s top producers.
 
 ### Software Developer {#software-developer}
-My love for programming started with PHP and CodeIgniter, building early experience with MVC application design. From there, I switched to modern front-end frameworks, working with React and Vue, broadening my understanding of component-based architecture and dynamic user interfaces.
-
-Over time, I shifted completely to Ruby on Rails, simplifying my stack to optimize for programmer happiness—working primarily on fundamentals with Ruby, HTML, CSS, and JavaScript to abstract away complexity.
-
-With the rise of modern AI-assisted development, my workflow now primarily consists of using [Cursor](https://cursor.com/) alongside a range of frontier models to accelerate development and explore ideas more fluidly. This has expanded the ability to rapidly move from concept to production across different platforms, stacks, and languages.
+- Self-taught programmer, building early experience with PHP and MVC application design.
+- Switched to modern front-end frameworks (React and Vue) to deepen my understanding of component-based architecture and dynamic UIs.
+- Shifted to Ruby on Rails and simplified my stack to optimize for programmer happiness—primarily Ruby, HTML, CSS, and JavaScript—to reduce complexity.
+- Worked with companies in transaction management and e-commerce.
+- My workflow now consists of using [Cursor](https://cursor.com/) alongside frontier models to accelerate development from concept to production across all platforms, stacks, and languages.
 
 ### Martial Artist {#martial-artist}
-
-I began training in traditional martial arts such as Karate and Taekwondo at a young age. While it built a strong foundation of discipline and structure, their focus on forms and rigid techniques felt limited in practicality.
-
-That shifted when I moved to Bermuda and trained in Jeet Kune Do. It was a more realistic form of combat—blending Western boxing, wrestling, submission grappling, and street self-defense. The school was directly certified by one of only three first-generation students authorized to teach Bruce Lee’s original system.
-
-After relocating to British Columbia, I continued honing my skills through Pankration, an ancient Greek combat sport regarded as a precursor to modern Mixed Martial Arts. Meaning "all power," it combines striking and grappling disciplines of Muay Thai, boxing, wrestling, and submissions. I [competed](https://www.sherdog.com/fighter/Adam-Naamani-11434) in the bantamweight division.
+- Brown Belt in traditional martial arts of Karate and Taekwondo.
+- Black Belt in Jeet Kune Do, a combat system blending boxing, wrestling, submission grappling, and street self-defense. The school, based in Bermuda, was certified by one of only three first-generation students authorized to teach Bruce Lee’s original system.
+- Student of Pankration, an ancient Greek combat sport regarded as a precursor to modern MMA—meaning “all power”—combining Muay Thai, boxing, wrestling, and submissions.
+- Competed in the bantamweight division ([Sherdog](https://www.sherdog.com/fighter/Adam-Naamani-11434)).
 
 ### Photos {#photos}
 
