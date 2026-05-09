@@ -16,25 +16,24 @@ title: About
 - Formed the company with three co-founders at [Launch Academy](https://www.launchacademy.ca/), where ideas are vetted, business models are tested, and successes are celebrated.
 
 ### Real Estate Professional {#real-estate-professional}
-- Bachelor of Business in Real Estate at UBC, building an academic foundation in valuation and sales.
-- Earned DAR (Designated Appraiser Residential) and joined Canada’s largest national appraisal firm.
+- Studied Business in Real Estate at UBC, building an academic foundation in valuation and sales.
+- Earned DAR (Designated Appraiser Residential) and joined Canada's largest national appraisal firm.
 - Appraised 3,000+ residential properties across the Lower Mainland, representing approximately $1.6B in aggregate value.
 - Developed deep expertise in market analysis, pricing dynamics, and asset valuation through high-volume appraisal work.
 - Transitioned into residential sales as a Realtor with [eXp Realty](/the-virtual-world-of-exp-realty/), the largest independent cloud-based brokerage at the time.
-- Ranked in the top 10 of 1,740 agents in British Columbia by sales volume (November 2024), placing among the province’s top producers.
+- Ranked in the top 10 of 1,740 agents in British Columbia by sales volume (November 2024), placing among the province's top producers.
 
 ### Software Developer {#software-developer}
 - Self-taught programmer, building early experience with PHP and MVC application design.
 - Switched to modern front-end frameworks (React and Vue) to deepen my understanding of component-based architecture and dynamic UIs.
 - Shifted to Ruby on Rails and simplified my stack to optimize for programmer happiness—primarily Ruby, HTML, CSS, and JavaScript—to reduce complexity.
 - Worked with companies in transaction management and e-commerce.
-- My workflow now consists of using [Cursor](https://cursor.com/) alongside frontier models to accelerate development from concept to production across all platforms, stacks, and languages.
+- My workflow now consists solely of using [Cursor](https://cursor.com/) alongside frontier models to accelerate development from concept to production across all platforms, stacks, and languages.
 
 ### Martial Artist {#martial-artist}
 - Brown Belt in traditional martial arts of Karate and Taekwondo.
-- Black Belt in Jeet Kune Do, a combat system blending boxing, wrestling, submission grappling, and street self-defense. The school, based in Bermuda, was certified by one of only three first-generation students authorized to teach Bruce Lee’s original system.
-- Student of Pankration, an ancient Greek combat sport regarded as a precursor to modern MMA—meaning “all power”—combining Muay Thai, boxing, wrestling, and submissions.
-- Competed in the bantamweight division ([Sherdog](https://www.sherdog.com/fighter/Adam-Naamani-11434)).
+- Black Belt in Jeet Kune Do, a combat system blending boxing, wrestling, submission grappling, and street self-defense. The school, based in Bermuda, was certified by one of only three first-generation students authorized to teach Bruce Lee's original system.
+- Instructor and bantamweight fighter in Pankration, an ancient Greek combat sport regarded as a precursor to modern MMA—meaning "all power"—combining Muay Thai, boxing, wrestling, and submissions. ([Sherdog](https://www.sherdog.com/fighter/Adam-Naamani-11434)).
 
 ### Photos {#photos}
 
