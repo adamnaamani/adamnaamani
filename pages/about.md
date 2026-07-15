@@ -14,7 +14,7 @@ title: About
 ### Entrepreneur {#entrepreneur}
 - Founded Resider Inc. (February 2013), a real estate portal for British Columbia that remedied information asymmetry.
 - Built the initial version with Codeigniter, combining MLS® listings, Open Data, and Geographic Information Systems.
-- Formed the company with three co-founders at [Launch Academy](https://www.launchacademy.ca/) accelerator, where ideas are vetted, business models are tested, and successes are celebrated.
+- Formed the company with three co-founders at [Launch Academy](https://www.launchacademy.ca/)'s accelerator, where ideas are vetted, business models are tested, and successes are celebrated.
 
 ### Real Estate Professional {#real-estate-professional}
 - Studied Business in Real Estate at UBC, with a foundation in property valuation.
@@ -34,7 +34,7 @@ title: About
 - Built component-based UIs with React and Vue.
 - Specialized in Ruby on Rails, keeping the stack to Ruby, HTML, CSS, and JavaScript.
 - Frontend engineering for proptech and e-commerce companies.
-- Using [Cursor](https://cursor.com/) with frontier AI models to ship across platforms, stacks, and languages.
+- Using [Cursor](https://cursor.com/) with frontier AI models to ship across all platforms, stacks, and languages.
 
 ### Martial Artist {#martial-artist}
 - Brown Belt in Karate and Taekwondo.
