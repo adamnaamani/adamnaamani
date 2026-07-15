@@ -6,9 +6,10 @@ title: About
 
 1. [Entrepreneur](#entrepreneur)
 2. [Real Estate Professional](#real-estate-professional)
-3. [Software Developer](#software-developer)
-4. [Martial Artist](#martial-artist)
-5. [Photos](#photos)
+3. [Commodities Investor](#commodities-investor)
+4. [Software Developer](#software-developer)
+5. [Martial Artist](#martial-artist)
+6. [Photos](#photos)
 
 ### Entrepreneur {#entrepreneur}
 - Founded Resider Inc. (February 2023), a real estate portal for British Columbia that remedied information asymmetry.
@@ -23,11 +24,16 @@ title: About
 - Transitioned into residential sales as a Realtor with [eXp Realty](/the-virtual-world-of-exp-realty/), the largest independent cloud-based brokerage at the time.
 - Ranked in the top 10 of 1,740 agents in British Columbia by sales volume (November 2024), placing among the province's top producers.
 
+### Commodities Investor {#commodities-investor}
+- Focused on Canadian natural resources—copper, gold, oil and gas, uranium, potash, and related equities.
+- Analyze supply, demand, and policy drivers across mining and energy markets that underpin Canada's resource economy.
+- Invest around critical minerals and energy demand from electrification, industry, and long-term portfolio diversification.
+
 ### Software Developer {#software-developer}
 - Self-taught programmer, building early experience with PHP and MVC application design.
 - Switched to modern front-end frameworks (React and Vue) to deepen my understanding of component-based architecture and dynamic UIs.
 - Shifted to Ruby on Rails and simplified my stack to optimize for programmer happiness—primarily Ruby, HTML, CSS, and JavaScript—to reduce complexity.
-- Worked with companies in transaction management and e-commerce, focusing on front-end engineering.
+- Worked with companies in proptech and e-commerce, specializing in frontend engineering.
 - My workflow now consists solely of using [Cursor](https://cursor.com/) alongside frontier models to accelerate development from concept to production across all platforms, stacks, and languages.
 
 ### Martial Artist {#martial-artist}
