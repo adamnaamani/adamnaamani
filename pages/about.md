@@ -12,7 +12,7 @@ title: About
 6. [Photos](#photos)
 
 ### Entrepreneur {#entrepreneur}
-- Founded Resider Inc. (February 2023), a real estate portal for British Columbia that remedied information asymmetry.
+- Founded Resider Inc. (February 2013), a real estate portal for British Columbia that remedied information asymmetry.
 - Built the initial version with Codeigniter, combining MLS® listings, Open Data and Geographic Information Systems.
 - Formed the company with three co-founders at [Launch Academy](https://www.launchacademy.ca/), where ideas are vetted, business models are tested, and successes are celebrated.
 
