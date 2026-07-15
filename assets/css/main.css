@@ -94,6 +94,7 @@ body > header {
   flex-wrap: nowrap;
   padding: 1rem clamp(1rem, 5vw, 1rem) 2.5rem;
   min-width: 0;
+  font-size: 1.05rem;
 }
 body > header > a.site-title {
   flex: 1 1 auto;
@@ -131,14 +132,13 @@ section.home > header {
 }
 section > header h1,
 article > header h1 {
+  font-size: 2rem;
   font-weight: 700;
   letter-spacing: -0.02em;
   line-height: 1.15;
   text-wrap: pretty;
   margin: 0;
 }
-section > header h1 { font-size: 2rem; }
-article > header h1 { font-size: 1.75rem; }
 section.home > header p {
   color: var(--fg);
   font-size: 1.05rem;
@@ -355,6 +355,10 @@ section > ol a {
 }
 section > ol a:hover { color: var(--accent); }
 
+article {
+  font-size: 1.05rem;
+}
+
 article h2,
 article h3,
 article h4 {
@@ -550,8 +554,8 @@ article > nav span { color: var(--fg); }
   body > header { padding: 1.25rem 1.5rem; }
   body > main  { padding-block: 1rem 2rem; }
 
-  section > header h1 { font-size: 1.6rem; }
-  article > header h1 { font-size: 1.4rem; }
+  section > header h1,
+  article > header h1 { font-size: 1.6rem; }
 
   article > nav { grid-template-columns: 1fr; }
   article > nav a + a { text-align: left; }
