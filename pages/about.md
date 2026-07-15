@@ -13,32 +13,32 @@ title: About
 
 ### Entrepreneur {#entrepreneur}
 - Founded Resider Inc. (February 2013), a real estate portal for British Columbia that remedied information asymmetry.
-- Built the initial version with Codeigniter, combining MLS® listings, Open Data and Geographic Information Systems.
-- Formed the company with three co-founders at [Launch Academy](https://www.launchacademy.ca/), where ideas are vetted, business models are tested, and successes are celebrated.
+- Built the initial version with Codeigniter, combining MLS® listings, Open Data, and Geographic Information Systems.
+- Formed the company with three co-founders at [Launch Academy](https://www.launchacademy.ca/) accelerator, where ideas are vetted, business models are tested, and successes are celebrated.
 
 ### Real Estate Professional {#real-estate-professional}
-- Studied Business in Real Estate at UBC, building an academic foundation in property valuation.
-- Became a Designated Appraiser Residential (DAR) and joined Canada's largest national appraisal firm.
+- Studied Business in Real Estate at UBC, with a foundation in property valuation.
+- Designated Appraiser Residential (DAR) with Canada's largest national appraisal firm.
 - Appraised 3,000+ residential properties across the Lower Mainland, representing approximately $1.6B in aggregate value.
-- Developed deep expertise in market analysis, pricing dynamics, and asset valuation through high-volume appraisal work.
-- Transitioned into residential sales as a REALTOR® with [eXp Realty](/the-virtual-world-of-exp-realty/), the largest independent cloud-based brokerage.
-- Attained the Accredited Real Estate Negotiator (AREN) designation from [The Nature of Real Estate](https://thenatureofrealestate.com).
-- Ranked in the top 10 of 1,740 agents in British Columbia by sales volume (November 2024), placing among the province's top producers.
+- Expertise in market analysis, pricing dynamics, and asset valuation through high-volume appraisal work.
+- REALTOR® with [eXp Realty](/the-virtual-world-of-exp-realty/), the largest independent cloud-based brokerage.
+- Accredited Real Estate Negotiator (AREN) from [The Nature of Real Estate](https://thenatureofrealestate.com).
+- Ranked in the top 10 of 1,740 agents in British Columbia by sales volume (November 2024).
 
 ### Commodities Investor {#commodities-investor}
 - Focused on Canadian natural resources—copper, gold, oil and gas, uranium, potash, and related equities.
 - Investing around critical minerals and energy demand from electrification, industry, and long-term portfolio diversification.
 
 ### Software Developer {#software-developer}
-- Self-taught programmer, building early experience with PHP and MVC application design.
-- Switched to modern front-end frameworks (React and Vue) to deepen my understanding of component-based architecture and dynamic UIs.
-- Shifted to Ruby on Rails and simplified my stack to optimize for programmer happiness—primarily Ruby, HTML, CSS, and JavaScript—to reduce complexity.
-- Worked with companies in proptech and e-commerce, specializing in frontend engineering.
-- My workflow now consists solely of using [Cursor](https://cursor.com/) alongside frontier models to accelerate development from concept to production across all platforms, stacks, and languages.
+- Self-taught programmer with early experience in PHP and MVC application design.
+- Built component-based UIs with React and Vue.
+- Specialized in Ruby on Rails, keeping the stack to Ruby, HTML, CSS, and JavaScript.
+- Frontend engineering for proptech and e-commerce companies.
+- Using [Cursor](https://cursor.com/) with frontier AI models to ship across platforms, stacks, and languages.
 
 ### Martial Artist {#martial-artist}
-- Brown Belt in traditional martial arts of Karate and Taekwondo.
-- Black Belt in Jeet Kune Do, a combat system blending boxing, wrestling, submission grappling, and street self-defense. The school, based in Bermuda, was certified by one of only three first-generation students authorized to teach Bruce Lee's original system.
+- Brown Belt in Karate and Taekwondo.
+- Black Belt in Jeet Kune Do, blending boxing, wrestling, submission grappling, and street self-defense. The school, based in Bermuda, was certified by one of only three first-generation students authorized to teach Bruce Lee's original system.
 - Instructor and bantamweight fighter in Pankration, an ancient Greek combat sport regarded as a precursor to modern MMA—meaning "all power"—combining Muay Thai, boxing, wrestling, and submissions. ([Sherdog](https://www.sherdog.com/fighter/Adam-Naamani-11434)).
 
 ### Photos {#photos}
