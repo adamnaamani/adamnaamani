@@ -26,8 +26,7 @@ title: About
 
 ### Commodities Investor {#commodities-investor}
 - Focused on Canadian natural resources—copper, gold, oil and gas, uranium, potash, and related equities.
-- Analyze supply, demand, and policy drivers across mining and energy markets that underpin Canada's resource economy.
-- Invest around critical minerals and energy demand from electrification, industry, and long-term portfolio diversification.
+- Investing around critical minerals and energy demand from electrification, industry, and long-term portfolio diversification.
 
 ### Software Developer {#software-developer}
 - Self-taught programmer, building early experience with PHP and MVC application design.
