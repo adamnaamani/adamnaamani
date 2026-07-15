@@ -2,7 +2,7 @@
   --bg: #fdfdfc;
   --fg: #1a1a1a;
   --muted: #6b6b6b;
-  --rule: #e6e4df;
+  --rule: #f0eeea;
   --primary-600: #107048;
   --primary-700: #0d5a3a;
   --primary-500: #178a5c;
@@ -16,7 +16,7 @@
     --bg: #1b1e24;
     --fg: #e8eaed;
     --muted: #9aa0a8;
-    --rule: #2e333c;
+    --rule: #252830;
     --accent: var(--primary-500);
     --code-bg: #14171c;
   }
