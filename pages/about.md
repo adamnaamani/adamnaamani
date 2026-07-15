@@ -31,10 +31,10 @@ title: About
 
 ### Software Developer {#software-developer}
 - Self-taught programmer with early experience in PHP and MVC application design.
-- Built component-based UIs with React and Vue.
-- Specialized in Ruby on Rails, keeping the stack to Ruby, HTML, CSS, and JavaScript.
-- Frontend engineering for proptech and e-commerce companies.
-- Using [Cursor](https://cursor.com/) with frontier AI models to ship across all platforms, stacks, and languages.
+- Built component-based UIs with React, Vue, and Tailwind.
+- Specialized in Ruby on Rails, simplifying complexity with a Ruby, HTML, CSS, and JavaScript stack.
+- Frontend engineer for proptech and e-commerce companies.
+- Currently using [Cursor](https://cursor.com/) with frontier AI models to ship across any platform, stack, and language.
 
 ### Martial Artist {#martial-artist}
 - Brown Belt in Karate and Taekwondo.
