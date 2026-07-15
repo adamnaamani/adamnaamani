@@ -12,7 +12,7 @@ title: About
 
 ### Entrepreneur {#entrepreneur}
 - Founded Resider Inc. (February 2023), a real estate portal for British Columbia that remedied information asymmetry.
-- Coded the initial version in PHP, incorporating municipal Open Data and Geographic Information Systems.
+- Built the initial version with Codeigniter, combining MLS® listings, Open Data and Geographic Information Systems.
 - Formed the company with three co-founders at [Launch Academy](https://www.launchacademy.ca/), where ideas are vetted, business models are tested, and successes are celebrated.
 
 ### Real Estate Professional {#real-estate-professional}
@@ -27,7 +27,7 @@ title: About
 - Self-taught programmer, building early experience with PHP and MVC application design.
 - Switched to modern front-end frameworks (React and Vue) to deepen my understanding of component-based architecture and dynamic UIs.
 - Shifted to Ruby on Rails and simplified my stack to optimize for programmer happiness—primarily Ruby, HTML, CSS, and JavaScript—to reduce complexity.
-- Worked with companies in transaction management and e-commerce.
+- Worked with companies in transaction management and e-commerce, focusing on front-end engineering.
 - My workflow now consists solely of using [Cursor](https://cursor.com/) alongside frontier models to accelerate development from concept to production across all platforms, stacks, and languages.
 
 ### Martial Artist {#martial-artist}
