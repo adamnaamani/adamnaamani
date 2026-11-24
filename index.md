@@ -11,7 +11,7 @@ Studied Business in Real Estate at UBC, with a foundation in property valuation.
 REALTOR® with [eXp Realty](/the-virtual-world-of-exp-realty/), the largest independent cloud-based brokerage. Accredited Real Estate Negotiator from [The Nature of Real Estate](https://thenatureofrealestate.com). Ranked in the top 10 of 1,740 agents in British Columbia by sales volume.
 
 ### Investor {#investor}
-Trader and investor focused on Canadian natural resources—copper, gold, oil and gas, uranium, potash, and related equities. Investing around critical minerals and energy demand from electrification, industry.
+Trader and investor focused on Canadian natural resources—copper, gold, oil and gas, uranium, potash, and related equities. Investing around critical minerals and energy demand from electrification.
 
 ### Engineer {#engineer}
 Software engineer with experience building products for proptech and e-commerce companies, predominantly with open source frameworks such as Ruby on Rails. Now focused on agentic engineering with frontier AI models.
