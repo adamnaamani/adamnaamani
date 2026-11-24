@@ -105,6 +105,17 @@ body > header > a.site-title {
 }
 body > header nav {
   flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+}
+section.home > .home-module {
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-bottom: var(--home-block-space);
+}
+section.home > article {
+  margin-bottom: var(--home-block-space);
 }
 body > footer {
   padding-block: 0 2.5rem;

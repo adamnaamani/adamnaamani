@@ -1,0 +1,17 @@
+---
+layout: default
+title: Posts
+permalink: /posts/
+---
+<section>
+  <header>
+    <h1>Posts</h1>
+  </header>
+  <ol reversed>
+    {%- for post in site.posts -%}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      </li>
+    {%- endfor -%}
+  </ol>
+</section>

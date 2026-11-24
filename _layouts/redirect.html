@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <link rel="canonical" href="{{ page.redirect_to | default: '/' | absolute_url }}">
+    <meta name="robots" content="noindex">
+    <title>Redirecting…</title>
+    <script>
+      location.replace("{{ page.redirect_to | default: '/' | relative_url }}" + location.hash);
+    </script>
+    <meta http-equiv="refresh" content="0; url={{ page.redirect_to | default: '/' | relative_url }}">
+  </head>
+  <body>
+    <a href="{{ page.redirect_to | default: '/' | relative_url }}">Continue</a>
+  </body>
+</html>
