@@ -3,7 +3,7 @@ email: adamnaamani@gmail.com
 description: >-
   I am an <a href="/#entrepreneur">entrepreneur</a>, <a href="/#real-estate-professional">real estate professional</a>, <a href="/#investor">investor</a>, <a href="/#engineer">engineer</a>, <a href="/#martial-artist">martial artist</a>, and <a href="/#family-man">family man</a>.
 intro: |-
-  I am an [entrepreneur](/#entrepreneur), [real estate professional](/#real-estate-professional), [investor](/#investor), [engineer](/#engineer), [martial artist](/#martial-artist), and [family man](/#family-man). You can find me on [X](https://x.com/adamknaamani), [YouTube](https://www.youtube.com/@adamnaamani), [LinkedIn](https://www.linkedin.com/in/adamnaamani), [GitHub](https://github.com/adamnaamani), or [Email](mailto:adamnaamani@gmail.com).
+  I am an [entrepreneur](/#entrepreneur), [real estate professional](/#real-estate-professional), [investor](/#investor), [engineer](/#engineer), [martial artist](/#martial-artist), and [family man](/#family-man). You can find me on [X](https://x.com/adamknaamani), [YouTube](https://www.youtube.com/@adamnaamani), [LinkedIn](https://www.linkedin.com/in/adamnaamani), [Instagram](https://instagram.com/adamknaamani), or [Email](mailto:adamnaamani@gmail.com).
 baseurl: ""
 url: "https://adamnaamani.com"
 lang: en
@@ -26,6 +26,7 @@ social:
     - https://x.com/adamknaamani
     - https://www.linkedin.com/in/adamnaamani
     - https://www.youtube.com/@adamnaamani
+    - https://www.instagram.com/adamknaamani
     - https://github.com/adamnaamani
 
 plugins:

@@ -4,8 +4,8 @@
   --muted: #6b6b6b;
   --rule: #f0eeea;
   --primary-600: #107048;
-  --primary-700: #0d5a3a;
-  --primary-500: #178a5c;
+  --primary-700: #3040a8;
+  --primary-500: #4f63d6;
   --primary-50: #eff8f3;
   --accent: var(--primary-700);
   --code-bg: #f3f2ee;
@@ -65,7 +65,7 @@ article pre {
 img, svg, video { max-width: 100%; height: auto; display: block; }
 
 a {
-  color: var(--fg);
+  color: var(--accent);
   text-decoration: underline;
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
