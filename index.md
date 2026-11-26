@@ -17,7 +17,10 @@ Trader and investor focused on Canadian natural resources—copper, gold, oil an
 Software engineer with experience building products for proptech and e-commerce companies, predominantly with open source frameworks such as Ruby on Rails. Now focused on agentic engineering with frontier AI models.
 
 ### Martial Artist {#martial-artist}
-Brown Belt in Karate and Taekwondo. Black Belt in Jeet Kune Do. Instructor and bantamweight [fighter](https://www.sherdog.com/fighter/Adam-Naamani-11434) in Pankration, combining Muay Thai, boxing, wrestling, and jiu-jitsu.
+Brown Belt in Karate and Taekwondo. Black Belt in Jeet Kune Do. Instructor and bantamweight [fighter](https://www.sherdog.com/fighter/Adam-Naamani-11434) in Pankration, specialized in Muay Thai, boxing, wrestling, and jiu-jitsu.
+
+### Family Man {#family-man}
+I'm married to Susan. Together we have a son.
 
 ### Photos {#photos}
 
